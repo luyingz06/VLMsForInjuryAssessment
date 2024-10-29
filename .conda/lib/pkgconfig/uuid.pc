@@ -1,0 +1,11 @@
+prefix=/home/edward/VLM_Paper/.conda
+exec_prefix=/home/edward/VLM_Paper/.conda
+libdir=/home/edward/VLM_Paper/.conda/lib
+includedir=/home/edward/VLM_Paper/.conda/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid

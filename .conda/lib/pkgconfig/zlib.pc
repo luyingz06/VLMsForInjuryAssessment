@@ -1,0 +1,13 @@
+prefix=/home/edward/VLM_Paper/.conda
+exec_prefix=/home/edward/VLM_Paper/.conda
+libdir=/home/edward/VLM_Paper/.conda/lib
+sharedlibdir=/home/edward/VLM_Paper/.conda/lib
+includedir=/home/edward/VLM_Paper/.conda/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
