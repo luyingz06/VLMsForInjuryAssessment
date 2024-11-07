@@ -6,19 +6,20 @@
 import dashscope
 from dashscope import MultiModalConversation
 from create_dataset import label_class_human_value_list, dict_summary_sentences
-import csv
+import json
+import os
 dashscope.base_http_api_url = 'https://dashscope-intl.aliyuncs.com/api/v1'
 
 
 
 def qwen_review(image, prompts):
     """
-    Simple single round multimodal conversation call.
+    Call Qwen model for each prompt and return the structured conversation output.
     """
-    
-    # Write the tokens into a csv file
+    conversation = {}
 
-    for prompt in prompts:
+    # Iterate through prompts, calling the model for each, and storing in the conversation structure
+    for i, prompt in enumerate(prompts):
         messages = [
             {
                 "role": "user",
@@ -29,33 +30,82 @@ def qwen_review(image, prompts):
             }
         ]
         responses = MultiModalConversation.call(model='qwen-vl-max',
-                                            messages=messages,
-                                            stream=False)
-            
-        # print the last text response
-        print(responses['output']['choices'][0]['message']['content'][0]['text'])
+                                                messages=messages,
+                                                stream=False)
+        # Parse response text for each label category
+        response_text = responses['output']['choices'][0]['message']['content'][0]['text']
+        # Map each prompt response to the correct conversation field based on order
+        # if i == 0:
+        #     conversation["scene"] = [response_text]
+        if i == 0:
+            conversation["trauma_head"] = [response_text]
+        elif i == 1:
+            conversation["trauma_torso"] = [response_text]
+        elif i == 2:
+            conversation["trauma_lower_ext"] = [response_text]
+        elif i == 3:
+            conversation["trauma_upper_ext"] = [response_text]
+        elif i == 4:
+            conversation["alertness_ocular"] = [response_text]
+        elif i == 5:
+            conversation["severe_hemorrhage"] = [response_text]
+        elif i == 6:
+            conversation["value-dict"] = response_text
 
-        input_tokens = responses["usage"]["input_tokens"]
-        output_tokens = responses["usage"]["output_tokens"]
-        image_tokens = responses["usage"]["image_tokens"] # 1230
-        print("input_tokens: ", input_tokens, "output_tokens: ", output_tokens, "image_tokens: ", image_tokens)
-
+    return conversation
 
 def get_prompts():
     '''
-    Get prompts from create_dataset.py
+    Get prompts from create_dataset.py as a list of length 7.
     '''
     label_class = ["trauma_head", "trauma_torso", "trauma_lower_ext", "trauma_upper_ext", "alertness_ocular", "severe_hemorrhage"]
     prompts = []
     for label in label_class:
-        prompts.extend(label_class_human_value_list[label])
-    for label in label_class:
-        prompts.append(dict_summary_sentences[label])
-    # print(len(prompts)) # 36
+        prompt = label_class_human_value_list[label]
+        prompts.append(" ".join(prompt))
+    temp = list(dict_summary_sentences.values())
+    prompts.append(" ".join(temp))
     return prompts
 
-if __name__ == '__main__':
-    image = "https://github.com/luyingz06/VLMsForInjuryAssessment/blob/main/images/1726253101436713875.png?raw=true"
+def generate_label(image, json_path='D:\\UPenn\\24Fall\\VLM\\VLMsForInjuryAssessment\\dataset_qwen.json'):
+    """
+    Run model for each prompt on a single image and append structured JSON output.
+    """
     prompts = get_prompts()
-    qwen_review(image, prompts)
-    print(price('D:\\UPenn\\24Fall\\VLM\\VLMsForInjuryAssessment\\max_tokens.csv', 'qwen-vl-max'))
+    conversation = qwen_review(image, prompts)
+    
+    # Extract ID from image URL
+    image_id = image.split("/")[-1].split(".")[0]
+    image_path = '/'.join(image.split("/")[-3:])
+    
+    # Structure JSON output
+    output = {
+        
+        "id": image_id,
+        "image": image_path,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                **conversation
+            }
+        ]
+    }
+    if os.path.exists(json_path):
+        with open(json_path, 'r') as f:
+            data = json.load(f)
+    else:
+        data = []
+    
+    data.append(output)
+    
+    with open(json_path, 'w') as f:
+        json.dump(data, f, indent=4)
+
+if __name__ == '__main__':
+    image = ["https://github.com/luyingz06/VLMsForInjuryAssessment/blob/main/images/1726253101436713875.png?raw=true"]
+    prompts = get_prompts()
+    generate_label(image[0])
