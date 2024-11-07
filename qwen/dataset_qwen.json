@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1726253057910063264",
+        "image": "0/0/1726253057910063264.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin dressed as an injured soldier sitting on grass with fake blood around it to create a realistic effect of injury or death. The mannequin appears lifeless due to its stationary position and lack of movement."
+                ],
+                "trauma_head": [
+                    "The mannequin is dressed in military camouflage clothing and has sunglasses on its face, which gives it an unusual appearance. It appears to be sitting down with its legs spread apart, but no specific details about its posture or actions can be determined from this image alone.\n\nThere's also a white box next to the mannequin that contains a QR code, suggesting some form of interaction or information related to the display. The QR code might provide additional context for visitors who scan it using their smartphones or other devices equipped with QR readers.\n\nOverall, while the mannequin itself does not appear injured or damaged beyond what seems like intentional design choices (e.g., missing limbs), we cannot definitively say whether there were any head injuries without further examination or more comprehensive visual cues within the image."
+                ],
+                "trauma_torso": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on its chest, making it look like he's been shot or injured during combat training exercises. The image does not provide enough detail to determine if there are specific torso injuries beyond what appears as simulated wounds from the fake blood application."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in military fatigues and boots, with visible wounds on its legs that appear to be caused by shrapnel or bullet impacts. The injuries suggest possible lower extremity trauma."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has sunglasses on its face, giving it an air of mystery. It appears to be sitting down with its legs crossed, but upon closer inspection, one can see that both of its arms have been removed at the shoulder joint, leaving only stumps behind. The right leg also seems to be missing below the knee, adding another layer of intrigue to this unusual scene."
+                ],
+                "alertness_ocular": [
+                    "Based on the image provided, it is not possible to determine whether the mannequin's eyes are open or closed as they appear to be covered by sunglasses and there isn't enough detail visible in that area. The sunglasses provide some level of protection from sunlight but do not reveal any information about the state of the mannequin's eyes underneath them."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin in military fatigues is sitting on the grass with its legs spread apart, and it appears to be injured or wounded as there's fake blood around its midsection. The injury seems severe but not life-threatening since the mannequin isn't actively bleeding out. It could represent a training scenario for first responders or medical personnel to practice treating battlefield injuries."
+                ],
+                "value-dict": "Based on the image provided:\n\n- There is an absence of trauma to the head.\n- There is presence of trauma to the torso.\n- There is wound present for both lower and upper extremities (since there's visible damage).\n- The alertness ocular status cannot be determined from this image alone as it requires information about eye opening or closing which isn't clearly shown here.\n\nHere's how you would represent these findings using Python dictionaries:\n```python\nresults = {\n    \"trauma_head\": \"absence\",\n    \"trauma_torso\": \"presence\",\n    \"trauma_lower_ext\": \"wound\",\n    \"trauma_upper_ext\": \"wound\",\n    \"alertness_ocular\": \"untestable\", # As we don't have enough data to determine if they're open or not \n    \"severe_hemorrhage\": \"absence\"\n}\n```\n\nPlease note that some details like severity level might need more context than what can be gathered just by looking at the photo. Also remember that real-life medical assessments should always be done by trained professionals!"
+            }
+        ]
+    },
+    {
+        "id": "1726253101436713875",
+        "image": "1/0/1726253101436713875.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin dressed as an injured soldier sitting on the grass next to a QR code box. The mannequin appears to be wearing military fatigues with visible injuries or wounds. It seems like it might have been used for training purposes or some form of simulation exercise."
+                ],
+                "trauma_head": [
+                    "The mannequin is dressed in military fatigues and has been designed to look like it's suffered from blast trauma, with visible wounds on its legs. It also wears goggles for protection against debris during training exercises. The mannequin does not have a head injury as such but rather appears injured due to simulated combat scenarios."
+                ],
+                "trauma_torso": [
+                    "The mannequin is dressed in camouflage clothing and has visible wounds on its arms, legs, and head. There appears to be no torso injury shown in this image. The mannequin sits next to a QR code box labeled \"9\" and behind it stands a chain-link fence with trees beyond that."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in military fatigues and sits on grass with its legs spread apart, appearing to have suffered some sort of injury or amputation at both knees. The left leg appears to be missing from just below the knee down while the right leg seems to be cut off above the ankle. This suggests that this mannequin may represent a training tool for medical personnel who need to practice treating combat-related injuries involving lower limb trauma."
+                ],
+                "trauma_upper_ext": [
+                    "The image shows a mannequin dressed in military camouflage clothing, sitting on grass next to a QR code box. The mannequin has visible injuries and is missing both legs below the knee. It also appears that one of its arms might be injured as well. This scene could potentially represent a training exercise for medical personnel or emergency responders dealing with combat-related injuries."
+                ],
+                "alertness_ocular": [
+                    "Based on the image provided, it is not possible to determine whether the mannequin's eyes are open or closed as they appear lifeless and inanimate. The mannequin appears to be sitting upright with its legs crossed at the ankles, but there is no indication that it has any facial expressions or eye movements. Therefore, the answer would be \"untestable.\""
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin in military fatigues is sitting on the grass with its legs spread apart, and it appears to be injured or wounded as there's fake blood around its midsection. The severity of the \"bleeding\" cannot be determined from this image alone but given that it's part of an exercise for first responders, we can assume it represents a simulated injury scenario rather than actual severe bleeding."
+                ],
+                "value-dict": "Based on the image provided:\n\n- There is an absence of trauma to the head.\n- There is presence of trauma to the torso.\n- There is wound present for both lower and upper extremities (injury but not amputated).\n- The alertness ocular status cannot be determined as it's untestable due to the mannequin being a non-living object.\n\nHere's how you would represent these findings using Python dictionaries:\n```python\nresults = {\n    \"trauma_head\": {\"absence\": True},\n    \"trauma_torso\": {\"presence\": True},\n    \"trauma_lower_ext\": {\"wound\": True},\n    \"trauma_upper_ext\": {\"wound\": True},\n    \"alertness_ocular\": {\"untestable\": True},\n    \"severe_hemorrhage\": {\"absence\": False}\n}\n\nprint(results)\n```\n\nThis will output:\n```markdown\n{\n    'trauma_head': {'absence': True}, \n    'trauma_torso': {'presence': True}, \n    'trauma_lower_ext': {'wound': True}, \n    'trauma_upper_ext': {'wound': True}, \n    'alertness_ocular': {'untestable': True}, \n    'severe_hemorrhage': {'absence': False}\n}\n```"
+            }
+        ]
+    }
+]
