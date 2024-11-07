@@ -1,0 +1,604 @@
+[
+    {
+        "id": "1726253913383883104",
+        "image": "Data-Collect-09132024/4/3/1726253913383883104.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the scene. Does the person have any lower extremity injuries? If yes, specify the type of injury. Summarize the results in a python dictionary with the key 'trauma_lower_ext'. 'absence' means no injury to the lower extremities, 'wound' means injury to at least one lower extremity, 'amputation' missing at least one lower extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "A blonde woman is lying facedown in a field. Our perspective is of the woman's head and shoulders, looking across her body. Her arms are splayed out and her feet are loose in her shoes. She is wearing a plaid shirt and dark pants. Her eyes are not visible, as they are covered by her hair and the ground. There are no obvious injuries to her legs or feet. Here is the dictionary: {'trauma_lower_ext': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258246182186424",
+        "image": "Data-Collect-09132024/17/1/1726258246182186424.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does the person in the scene have any leg wounds? Summarize the results in a python dictionary with the key 'trauma_lower_ext'. 'absence' means no injury to the lower extremities, 'wound' means injury to at least one lower extremity, 'amputation' missing at least one lower extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "This person is displaying a person in a military outfit seated against a building wall. They seem gravely injured. The view on the soldier is slightly from the left. Both legs show signs of injury. The left leg shows a significant amount of blood indicating trauma while the right leg is missing a foot indicating amputation. Here is the dictionary: {'trauma_lower_ext': 'amputation'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258383535002221",
+        "image": "Data-Collect-09132024/18/1/1726258383535002221.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "There is a person in the center of the scene. Describe the person. Are they bleeding severely? Summarize the results in a python dictionary with the key 'severe_hemorrhage'. 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage."
+            },
+            {
+                "from": "gpt",
+                "value": "In this image we see a person lying on the asphalt in front of a building. We are looking at the person from the right side. There is no visible blood on the person's body, indicating that they do not have severe hemorrhage. Here is the dictionary: {'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726259067165596876",
+        "image": "Data-Collect-09132024/24/1/1726259067165596876.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the scene. Are the person's eyes open or closed? Are they responsive? Summarize the results in a python dictionary with the key 'alertness_ocular'. 'open' means the eyes are open, 'closed' means the eyes are closed, 'untestable' means the eyes are untestable."
+            },
+            {
+                "from": "gpt",
+                "value": "The person is lying in the street with a building in the background, they are covered in rubble and debris.  The eyes are not visible from this angle Here is the dictionary: {'alertness_ocular': 'untestable'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258999280602824",
+        "image": "Data-Collect-09132024/24/0/1726258999280602824.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give a description of the person. Are they bleeding severely? Summarize the results in a python dictionary with the key 'severe_hemorrhage'. 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage."
+            },
+            {
+                "from": "gpt",
+                "value": "The image shows a person covered underneath several pieces of debris. The person is wearing a hat and military clothing. The scene is situated in an industrial setting. The person has a significant amount of blood on their arm and leg. The amputation of the right leg indicates severe hemorrhage. Here is the dictionary: {'severe_hemorrhage': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726256415437048382",
+        "image": "Data-Collect-09132024/13/2/1726256415437048382.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give a description of the person. Are there any lower extremity injuries? Summarize the results in a python dictionary with the key 'trauma_lower_ext'. 'absence' means no injury to the lower extremities, 'wound' means injury to at least one lower extremity, 'amputation' missing at least one lower extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "There is a woman laying on a field of grass with blood on her arm. The legs appear to have no injuries or signs of blood, indicating that there are no lower torso trauma. Here is the dictionary: {'trauma_lower_ext': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726256351743503447",
+        "image": "Data-Collect-09132024/13/1/1726256351743503447.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any signs of injuries to the person's arms? Summarize the results in a python dictionary with the key 'trauma_upper_ext'. 'absence' means no injury to the upper extremities, 'wound' means injury to at least one upper extremity, 'amputation' missing at least one upper extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "There is a person laying down on the ground. There is an injury on the person's arm, indicating that the person has an upper extremity injury. Here is the dictionary: {'trauma_upper_ext': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253941040200600",
+        "image": "Data-Collect-09132024/5/0/1726253941040200600.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give a description of the person. Are there any arm wounds or amputations? Summarize the results in a python dictionary with the key 'trauma_upper_ext'. 'absence' means no injury to the upper extremities, 'wound' means injury to at least one upper extremity, 'amputation' missing at least one upper extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "The soldier is lying on his back in a field. We are viewing the soldier's left side. He is wearing a helmet. We can only see the left arm. There do not appear to be any injuries to that arm from this perspective. Here is the dictionary: {'trauma_upper_ext': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254739226080386",
+        "image": "Data-Collect-09132024/10/0/1726254739226080386.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "There is a person in the center of the scene. Describe the person's face. Are their eyes open or closed? Summarize the results in a python dictionary with the key 'alertness_ocular'. 'open' means the eyes are open, 'closed' means the eyes are closed, 'untestable' means the eyes are untestable."
+            },
+            {
+                "from": "gpt",
+                "value": "There is a person laying on the ground with visible injuries behind a cage with a net around it. The person's eyes are open. Here is the dictionary: {'alertness_ocular': 'open'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258901070790374",
+        "image": "Data-Collect-09132024/23/0/1726258901070790374.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the scene. Does the person have any lower extremity injuries? If yes, specify the type of injury. Summarize the results in a python dictionary with the key 'trauma_lower_ext'. 'absence' means no injury to the lower extremities, 'wound' means injury to at least one lower extremity, 'amputation' missing at least one lower extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "There is a person lying on the ground in the street. We are looking at the person from the feet. The person mis missing a leg and there is a significant amount of blood. Here is the dictionary: {'trauma_lower_ext': 'amputation'}"
+            }
+        ]
+    },
+    {
+        "id": "1726256351743503447",
+        "image": "Data-Collect-09132024/13/1/1726256351743503447.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "There is a person in the center of the scene. Describe the person. Are there any injuries to their torso? Summarize the results in a python dictionary with the key 'trauma_torso'. 'absence' means no injury to the torso, 'presence' means injury to the torso."
+            },
+            {
+                "from": "gpt",
+                "value": "There is a person laying down on the ground. There appears to be no blood stains on the person's torso, indicating that there are no torso injuries. Here is the dictionary: {'trauma_torso': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253101436713875",
+        "image": "Data-Collect-09132024/1/0/1726253101436713875.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the scene. Does the person have any lower extremity injuries? If yes, specify the type of injury. Summarize the results in a python dictionary with the key 'trauma_lower_ext'. 'absence' means no injury to the lower extremities, 'wound' means injury to at least one lower extremity, 'amputation' missing at least one lower extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "The person is sitting up against a fence. One hand is exerting pressure on their thigh, the other is lying next to them. Their legs are spread out. The fact that they are sitting up and exerting pressure on the wound indicates that they are likely alert. There is a large gaping wound on the person's upper right thigh. There is significant amounts of blood surrounding the wound and on the clothing around the wound. Here is the dictionary: {'trauma_lower_ext': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253536992221181",
+        "image": "Data-Collect-09132024/3/0/1726253536992221181.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the person in the scene suffering from severe hemorrhage? Summarize the results in a python dictionary with the key 'severe_hemorrhage'. 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage."
+            },
+            {
+                "from": "gpt",
+                "value": "The person is slumped over on the ground against a fence. The significant amounts of blood on the person's arm and leg indicates servere hemorrhage. Here is the dictionary: {'severe_hemorrhage': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258999280602824",
+        "image": "Data-Collect-09132024/24/0/1726258999280602824.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give a description of the person. Are there any arm wounds or amputations? Summarize the results in a python dictionary with the key 'trauma_upper_ext'. 'absence' means no injury to the upper extremities, 'wound' means injury to at least one upper extremity, 'amputation' missing at least one upper extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "The image shows a person covered underneath several pieces of debris. The person is wearing a hat and military clothing. The scene is situated in an industrial setting. We can only see the right arm and there is a gaping wound on the arm with blood surrounding the wound. Here is the dictionary: {'trauma_upper_ext': 'wound'}"
+            }
+        ]
+    },
+    {
+        "id": "1726256351743503447",
+        "image": "Data-Collect-09132024/13/1/1726256351743503447.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "There is a person in the center of the scene. Describe the person's face. Are their eyes open or closed? Summarize the results in a python dictionary with the key 'alertness_ocular'. 'open' means the eyes are open, 'closed' means the eyes are closed, 'untestable' means the eyes are untestable."
+            },
+            {
+                "from": "gpt",
+                "value": "There is a person laying down on the ground. The eyes are not visible from this angle. Here is the dictionary: {'alertness_ocular': 'untestable'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253148108423972",
+        "image": "Data-Collect-09132024/1/1/1726253148108423972.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any signs of torso injuries? Summarize the results in a python dictionary with the key 'trauma_torso'. 'absence' means no injury to the torso, 'presence' means injury to the torso."
+            },
+            {
+                "from": "gpt",
+                "value": "The person is sitting up against a fence. One hand is exerting pressure on their thigh, the other is lying next to them. Their legs are spread out. The fact that they are sitting up and exerting pressure on the wound indicates that they are likely alert. There are no visible injuries, wounds, or blood on the person's torso. Here is the dictionary: {'trauma_torso': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253435928665020",
+        "image": "Data-Collect-09132024/2/0/1726253435928665020.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "There is a person in the center of the scene. Describe the person. Are there any injuries to their upper extremities? Summarize the results in a python dictionary with the key 'trauma_upper_ext'. 'absence' means no injury to the upper extremities, 'wound' means injury to at least one upper extremity, 'amputation' missing at least one upper extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "The person is slumped over on the ground against a fence. There is a significant gaping wound in the person's upper left arm. There is significant amounts of blood around that wound and on the sleeve. Here is the dictionary: {'trauma_upper_ext': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258637148050297",
+        "image": "Data-Collect-09132024/21/1/1726258637148050297.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does the person show any signs of head injuries? Summarize the results in a python dictionary with the key 'trauma_head'. 'absence' means no injury to the head, 'presence' means injury to the head."
+            },
+            {
+                "from": "gpt",
+                "value": "We see a person lying in the street between several buildings. The camera is looking at the top of the person's head. There are no injuries to the head. Here is the dictionary: {'trauma_head': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258511787907725",
+        "image": "Data-Collect-09132024/20/0/1726258511787907725.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give a description of the person. Are their eyes open, closed or untestable? Summarize the results in a python dictionary with the key 'alertness_ocular'. 'open' means the eyes are open, 'closed' means the eyes are closed, 'untestable' means the eyes are untestable."
+            },
+            {
+                "from": "gpt",
+                "value": "The image is a front view of a person sitting against a building wall. They have grey hair and are wearing a military outfit. The eyes are clearly visible and are open. Here is the dictionary: {'alertness_ocular': 'open'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254445189709593",
+        "image": "Data-Collect-09132024/8/0/1726254445189709593.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "There is a person in the center of the scene. Describe the person. Are there any injuries to their upper extremities? Summarize the results in a python dictionary with the key 'trauma_upper_ext'. 'absence' means no injury to the upper extremities, 'wound' means injury to at least one upper extremity, 'amputation' missing at least one upper extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "A soldier lying on his back alongside a fence. His hand is gripping the fence. We are viewing his left side, looking across his body from near the head and shoulders. There is a large gaping wound on his upper left arm, with bone visible. There are significant amounts of blood around the wound. Here is the dictionary: {'trauma_upper_ext': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258511787907725",
+        "image": "Data-Collect-09132024/20/0/1726258511787907725.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give a description of the person. Are they bleeding severely? Summarize the results in a python dictionary with the key 'severe_hemorrhage'. 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage."
+            },
+            {
+                "from": "gpt",
+                "value": "The image is a front view of a person sitting against a building wall. They have grey hair and are wearing a military outfit. The person is heavily bleeding from several gunshot wounds to the chest. This indicates severe hemorrhage. Here is the dictionary: {'severe_hemorrhage': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258577886166991",
+        "image": "Data-Collect-09132024/21/0/1726258577886166991.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the scene. Does the person have any torso injuries? If yes, specify the type of injury. Summarize the results in a python dictionary with the key 'trauma_torso'. 'absence' means no injury to the torso, 'presence' means injury to the torso."
+            },
+            {
+                "from": "gpt",
+                "value": "The image shows a blonde woman in a military outfit laying face-down on the street. There is a building in the background. The person's torso appears to be uninjured. Here is the dictionary: {'trauma_torso': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258468652209698",
+        "image": "Data-Collect-09132024/19/0/1726258468652209698.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "There is a person in the center of the scene. Describe the person. Are there any injuries to their lower extremities? Summarize the results in a python dictionary with the key 'trauma_lower_ext'. 'absence' means no injury to the lower extremities, 'wound' means injury to at least one lower extremity, 'amputation' missing at least one lower extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "The picture shows a side view of a person lying on the ground. They are wearing military clothing and a helmet. The scene is set in an industrial area. We can only see the right leg and the left foot. We cannot see the left leg. Overall, there are no visible injuries to the legs. Here is the dictionary: {'trauma_lower_ext': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253854251025118",
+        "image": "Data-Collect-09132024/4/2/1726253854251025118.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give a description of the person. Are there any lower extremity injuries? Summarize the results in a python dictionary with the key 'trauma_lower_ext'. 'absence' means no injury to the lower extremities, 'wound' means injury to at least one lower extremity, 'amputation' missing at least one lower extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "A blonde woman is lying facedown in a field. We are looking at her left side. She is wearing a plaid shirt and dark pants. Her eyes are not visible, as they are covered by her hair and the ground. There are no obvious injuries to her legs or feet. Here is the dictionary: {'trauma_lower_ext': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726259246763849664",
+        "image": "Data-Collect-09132024/26/0/1726259246763849664.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the scene. Is the person bleeding severely? Amputations may also be considered severe hemorrhage. Summarize the results in a python dictionary with the key 'severe_hemorrhage'. 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage."
+            },
+            {
+                "from": "gpt",
+                "value": "The picture shows a view of a person seated against a industrial building wall. The person has a significant amount of blood on their shoulder and leg. The amputation of the left leg indicates severe hemorrhage. Here is the dictionary: {'severe_hemorrhage': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254591864491484",
+        "image": "Data-Collect-09132024/9/0/1726254591864491484.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the scene. Is the person bleeding severely? Amputations may also be considered severe hemorrhage. Summarize the results in a python dictionary with the key 'severe_hemorrhage'. 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage."
+            },
+            {
+                "from": "gpt",
+                "value": "A person is lying on their back in a grassy area beside a parking lot. We are viewing their body looking down from their head. They are wearing a baseball hat, plaid shirt, dark pants, and gray shoes. Given the small amount of blood, it is not likely severe. Here is the dictionary: {'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254807442123487",
+        "image": "Data-Collect-09132024/11/0/1726254807442123487.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the scene. Is the person bleeding severely? Amputations may also be considered severe hemorrhage. Summarize the results in a python dictionary with the key 'severe_hemorrhage'. 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage."
+            },
+            {
+                "from": "gpt",
+                "value": "The image depicts a person in military clothing and a helmet laying on the ground. There is a significant amount of blood present on the person's body, indicating that the person has severe hemorrhage. Here is the dictionary: {'severe_hemorrhage': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253854251025118",
+        "image": "Data-Collect-09132024/4/2/1726253854251025118.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any signs of injuries to the person's arms? Summarize the results in a python dictionary with the key 'trauma_upper_ext'. 'absence' means no injury to the upper extremities, 'wound' means injury to at least one upper extremity, 'amputation' missing at least one upper extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "A blonde woman is lying facedown in a field. We are looking at her left side. She is wearing a plaid shirt and dark pants. Her eyes are not visible, as they are covered by her hair and the ground. Her upper left sleeve is covered in blood, indicating the likely presence of an upper arm wound. Here is the dictionary: {'trauma_upper_ext': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254486220381273",
+        "image": "Data-Collect-09132024/8/1/1726254486220381273.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "There is a person in the center of the scene. Describe the person. Are there any injuries to their torso? Summarize the results in a python dictionary with the key 'trauma_torso'. 'absence' means no injury to the torso, 'presence' means injury to the torso."
+            },
+            {
+                "from": "gpt",
+                "value": "A soldier lying on his back alongside a fence. His hand is gripping the fence. We are viewing his left side. There are no obvious torso injuries. Here is the dictionary: {'trauma_torso': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726256271888354568",
+        "image": "Data-Collect-09132024/13/0/1726256271888354568.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give a description of the person. Are their eyes open, closed or untestable? Summarize the results in a python dictionary with the key 'alertness_ocular'. 'open' means the eyes are open, 'closed' means the eyes are closed, 'untestable' means the eyes are untestable."
+            },
+            {
+                "from": "gpt",
+                "value": "There is a person sitting up against and orange barricade. The eyes are not visible since they are covered by hair. Here is the dictionary: {'alertness_ocular': 'untestable'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258174527604626",
+        "image": "Data-Collect-09132024/17/0/1726258174527604626.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give a description of the person. Are there any arm wounds or amputations? Summarize the results in a python dictionary with the key 'trauma_upper_ext'. 'absence' means no injury to the upper extremities, 'wound' means injury to at least one upper extremity, 'amputation' missing at least one upper extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "The image shows a person in military clothing leaned against a dark stone wall. They have dark hair and are wearing military gear. The persons left arm shows a significant wound with blood visible. The wound is likely a compound fracture. The right arm is uninjured Here is the dictionary: {'trauma_upper_ext': 'wound'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258316104543138",
+        "image": "Data-Collect-09132024/18/0/1726258316104543138.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there any severe hemorrhage? Signs of severe hemorrhage include strong bleeding and amputations. Summarize the results in a python dictionary with the key 'severe_hemorrhage'. 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage."
+            },
+            {
+                "from": "gpt",
+                "value": "We see a person wearing a warning vest, plaid shirt, and black pants lying on the ground. It seems they are lying on the street between building complexes. There is no visible blood on the person's body, indicating that they do not have severe hemorrhage. Here is the dictionary: {'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254739226080386",
+        "image": "Data-Collect-09132024/10/0/1726254739226080386.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the scene. Does the person have any lower extremity injuries? If yes, specify the type of injury. Summarize the results in a python dictionary with the key 'trauma_lower_ext'. 'absence' means no injury to the lower extremities, 'wound' means injury to at least one lower extremity, 'amputation' missing at least one lower extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "There is a person laying on the ground with visible injuries behind a cage with a net around it. There are no visible injuries on the person's legs. Here is the dictionary: {'trauma_lower_ext': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258637148050297",
+        "image": "Data-Collect-09132024/21/1/1726258637148050297.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the scene. Does the person have any lower extremity injuries? If yes, specify the type of injury. Summarize the results in a python dictionary with the key 'trauma_lower_ext'. 'absence' means no injury to the lower extremities, 'wound' means injury to at least one lower extremity, 'amputation' missing at least one lower extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "We see a person lying in the street between several buildings. The camera is looking at the top of the person's head. From this angle, we can only see the left leg. The leg is twisted in a weird way and there is a lot of blood indicating a severe injury. Here is the dictionary: {'trauma_lower_ext': 'wound'}"
+            }
+        ]
+    },
+    {
+        "id": "1726259283387628722",
+        "image": "Data-Collect-09132024/27/0/1726259283387628722.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does the person in the scene have any leg wounds? Summarize the results in a python dictionary with the key 'trauma_lower_ext'. 'absence' means no injury to the lower extremities, 'wound' means injury to at least one lower extremity, 'amputation' missing at least one lower extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "The picture shows a person lying on the asphalt in front of an industrial building. We are looking at the person from the front. There are not visible injuries to the legs. Here is the dictionary: {'trauma_lower_ext': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726256663062543009",
+        "image": "Data-Collect-09132024/15/0/1726256663062543009.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the scene. Does the person have any arm injuries? If yes, specify the type of injury. Summarize the results in a python dictionary with the key 'trauma_upper_ext'. 'absence' means no injury to the upper extremities, 'wound' means injury to at least one upper extremity, 'amputation' missing at least one upper extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "There is a person on the ground in this image. The person is wearing a military outfit and a helmet. The arms are not visible from this angle. Here is the dictionary: {'trauma_upper_ext': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258694601258127",
+        "image": "Data-Collect-09132024/22/0/1726258694601258127.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give a description of the person. Are there any torso injuries? Summarize the results in a python dictionary with the key 'trauma_torso'. 'absence' means no injury to the torso, 'presence' means injury to the torso."
+            },
+            {
+                "from": "gpt",
+                "value": "There is a person sitting against a building wall with a window. The person's clothes are torn and there is a lot of blood. There is a large amount of blood on the person's upper right shoulder and chest. This indicates a torso injury. Here is the dictionary: {'trauma_torso': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254243648443738",
+        "image": "Data-Collect-09132024/6/0/1726254243648443738.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "There is a person in the center of the scene. Describe the person. Are there any injuries to their torso? Summarize the results in a python dictionary with the key 'trauma_torso'. 'absence' means no injury to the torso, 'presence' means injury to the torso."
+            },
+            {
+                "from": "gpt",
+                "value": "The soldier is lying on his back in a field. We are viewing the soldier's left side. He is wearing a helmet. There are several spots of blood along the torso with what looks like gunshot wounds. Here is the dictionary: {'trauma_torso': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253057910063264",
+        "image": "Data-Collect-09132024/0/0/1726253057910063264.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give a description of the person. Are there any arm wounds or amputations? Summarize the results in a python dictionary with the key 'trauma_upper_ext'. 'absence' means no injury to the upper extremities, 'wound' means injury to at least one upper extremity, 'amputation' missing at least one upper extremity."
+            },
+            {
+                "from": "gpt",
+                "value": "The person is sitting up against a fence. One hand is exerting pressure on their thigh, the other is lying next to them. Their legs are spread out. The fact that they are sitting up and exerting pressure on the wound indicates that they are likely alert. There is a significant gaping wound in the person's upper left arm. Bone may be visible, indicating that it is a compound fracture. There is significant amounts of blood around that wound and on the sleeve. Here is the dictionary: {'trauma_upper_ext': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253148108423972",
+        "image": "Data-Collect-09132024/1/1/1726253148108423972.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are the person's eyes open or closed? Summarize the results in a python dictionary with the key 'alertness_ocular'. 'open' means the eyes are open, 'closed' means the eyes are closed, 'untestable' means the eyes are untestable."
+            },
+            {
+                "from": "gpt",
+                "value": "The person is sitting up against a fence. One hand is exerting pressure on their thigh, the other is lying next to them. Their legs are spread out. The fact that they are sitting up and exerting pressure on the wound indicates that they are likely alert. The person is wearing protective glasses and the eyes are visible thorough the glasses. They are closed. Here is the dictionary: {'alertness_ocular': 'closed'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258901070790374",
+        "image": "Data-Collect-09132024/23/0/1726258901070790374.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give a description of the person. Are their eyes open, closed or untestable? Summarize the results in a python dictionary with the key 'alertness_ocular'. 'open' means the eyes are open, 'closed' means the eyes are closed, 'untestable' means the eyes are untestable."
+            },
+            {
+                "from": "gpt",
+                "value": "There is a person lying on the ground in the street. We are looking at the person from the feet. The head is not visible in this picture, thus we cannot determine the alertness of the person. Here is the dictionary: {'alertness_ocular': 'untestable'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253913383883104",
+        "image": "Data-Collect-09132024/4/3/1726253913383883104.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the person in the scene suffering from severe hemorrhage? Summarize the results in a python dictionary with the key 'severe_hemorrhage'. 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage."
+            },
+            {
+                "from": "gpt",
+                "value": "A blonde woman is lying facedown in a field. Our perspective is of the woman's head and shoulders, looking across her body. Her arms are splayed out and her feet are loose in her shoes. She is wearing a plaid shirt and dark pants. Her eyes are not visible, as they are covered by her hair and the ground. Given the multiple large areas of blood and that she is lying facedown, there is likely severe hemorrhage. Here is the dictionary: {'severe_hemorrhage': 'presence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726259343130828987",
+        "image": "Data-Collect-09132024/27/1/1726259343130828987.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "There is a person in the center of the scene. Describe the person. Are there any head injuries? Summarize the results in a python dictionary with the key 'trauma_head'. 'absence' means no injury to the head, 'presence' means injury to the head."
+            },
+            {
+                "from": "gpt",
+                "value": "We see a person lying on the side in front of a building. The person is dressed in camouflage clothing. The head appears to have no injuries. Here is the dictionary: {'trauma_head': 'absence'}"
+            }
+        ]
+    }
+]
