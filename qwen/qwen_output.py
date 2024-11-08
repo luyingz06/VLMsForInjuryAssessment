@@ -114,5 +114,8 @@ def generate_label(image, json_path='D:\\UPenn\\24Fall\\VLM\\VLMsForInjuryAssess
         json.dump(data, f, indent=4)
 
 if __name__ == '__main__':
+    num = 0
     for img in image:
+        num += 1
+        print(num)
         generate_label(img)
