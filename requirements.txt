@@ -4,3 +4,5 @@ httpx
 python-dotenv
 pandas
 dashscope
+pillow
+dotenv-python

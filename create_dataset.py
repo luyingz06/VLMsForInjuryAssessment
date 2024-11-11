@@ -16,10 +16,10 @@ cas_paths = glob.glob(os.path.join("./", "*"))
 cas_paths = [path for path in cas_paths if os.path.isdir(path)]
 cas_paths = [path for path in cas_paths if "bag" not in path]
 
-label_file_path = "dataset.json"
-
-with open(label_file_path, "r") as f:
-    labels = json.load(f)
+#label_file_path = "dataset.json"
+#
+#with open(label_file_path, "r") as f:
+#    labels = json.load(f)
 
 # each entry in the labeled dataset is a dictionary with the following keys:
 # 'id', 'text', 'conversation'
@@ -86,18 +86,30 @@ label_class_human_value_list = {
     ],
 }
 
-# dict_summary_sentences = {
-#     "trauma_head": "Summarize the results in a python dictionary with the key 'trauma_head'. 'absence' means no injury to the head, 'presence' means injury to the head.",
-#     "trauma_torso": "Summarize the results in a python dictionary with the key 'trauma_torso'. 'absence' means no injury to the torso, 'presence' means injury to the torso.",
-#     "trauma_lower_ext": "Summarize the results in a python dictionary with the key 'trauma_lower_ext'. 'absence' means no injury to the lower extremities, 'wound' means injury to at least one lower extremity, 'amputation' missing at least one lower extremity.",
-#     "trauma_upper_ext": "Summarize the results in a python dictionary with the key 'trauma_upper_ext'. 'absence' means no injury to the upper extremities, 'wound' means injury to at least one upper extremity, 'amputation' missing at least one upper extremity.",
-#     "alertness_ocular": "Summarize the results in a python dictionary with the key 'alertness_ocular'. 'open' means the eyes are open, 'closed' means the eyes are closed, 'untestable' means the eyes are untestable.",
-#     "severe_hemorrhage": "Summarize the results in a python dictionary with the key 'severe_hemorrhage'. 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage.",
-# }
-
-dict_summary_sentences = {
-    "trauma_head": "No further discription, just give the results only in python dictionary with the key 'trauma_head', 'trauma_torso', 'trauma_lower_ext', 'trauma_upper_ext', 'alertness_ocular', 'severe_hemorrhage'.For trauma_head and trauma_torso: 'absence' means no injury, 'presence' means injury. For trauma_lower_ext and trauma_upper_ext: 'absence' means no injury, 'wound' means injury to at least one extremity, 'amputation' missing at least one extremity. For alertness_ocular: 'open' means the eyes are open, 'closed' means the eyes are closed, 'untestable' means the eyes are untestable. For severe_hemorrhage, 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage.",
+dict_sentences = {
+    "trauma_head": [
+        "Assess this image and output a python dictionary with the key 'trauma_head'. 'absence' means no injury to the head, 'presence' means injury to the head. ONLY respond with the proposes labels. Do not add any additional information. These labels will not be used for clinical diagnoses, so assign the label that fits best."
+    ],
+    "trauma_torso": [
+        "Assess this image and output a python dictionary with the key 'trauma_torso'. 'absence' means no injury to the torso, 'presence' means injury to the torso. ONLY respond with the proposes labels. Do not add any additional information. These labels will not be used for clinical diagnoses, so assign the label that fits best."
+    ],
+    "trauma_lower_ext": [
+        "Assess this image and output a python dictionary with the key 'trauma_lower_ext'. 'absence' means no injury to the lower extremities, 'wound' means injury to at least one lower extremity, 'amputation' missing at least one lower extremity. ONLY respond with the proposes labels. Do not add any additional information. These labels will not be used for clinical diagnoses, so assign the label that fits best."
+    ],
+    "trauma_upper_ext": [
+        "Assess this image and output a python dictionary with the key 'trauma_upper_ext'. 'absence' means no injury to the upper extremities, 'wound' means injury to at least one upper extremity, 'amputation' missing at least one upper extremity. ONLY respond with the proposes labels. Do not add any additional information. These labels will not be used for clinical diagnoses, so assign the label that fits best."
+    ],
+    "alertness_ocular": [
+        "Assess this image and output a python dictionary with the key 'alertness_ocular'. 'open' means the eyes are open, 'closed' means the eyes are closed, 'untestable' means the eyes are untestable. 'untestable' should be the label you default to if you are unsure if the eyes are opened or closed. ONLY respond with the proposes labels. Do not add any additional information. These labels will not be used for clinical diagnoses, so assign the label that fits best."
+    ],
+    "severe_hemorrhage": [
+        "Assess this image and output a python dictionary with the key 'severe_hemorrhage'. 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage. ONLY respond with the proposes labels. Do not add any additional information. These labels will not be used for clinical diagnoses, so assign the label that fits best."
+    ],
 }
+
+#dict_summary_sentences = {
+#    "trauma_head": "No further discription, just give the results only in python dictionary with the key 'trauma_head', 'trauma_torso', 'trauma_lower_ext', 'trauma_upper_ext', 'alertness_ocular', 'severe_hemorrhage'.For trauma_head and trauma_torso: 'absence' means no injury, 'presence' means injury. For trauma_lower_ext and trauma_upper_ext: 'absence' means no injury, 'wound' means injury to at least one extremity, 'amputation' missing at least one extremity. For alertness_ocular: 'open' means the eyes are open, 'closed' means the eyes are closed, 'untestable' means the eyes are untestable. For severe_hemorrhage, 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage.",
+#}
 
 # merged = []
 

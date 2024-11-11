@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1726253057910063264",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/0/0/1726253057910063264.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image shows a person wearing military-style camouflage clothing and sunglasses, sitting on the ground in a fenced outdoor area. There appears to be some kind of electronic device or cube next to them. The person seems to be resting or taking a break in this setting.",
+                "trauma_head": "The image shows a person in military-style camouflage clothing sitting on the ground in an outdoor setting, surrounded by a fenced area. There is a cubic object with a pixelated design on it placed near the person. Without being able to identify the individual, I cannot determine if they have any head injuries based on the information provided in the image.",
+                "trauma_torso": "The image shows a person dressed in military camouflage uniform sitting on the ground in an outdoor area surrounded by a chain-link fence. They appear to be wearing sunglasses. There is a small, cube-shaped object with a pixelated pattern on it near the person. From the information provided in the image, I cannot determine if the person has any torso injuries.",
+                "trauma_lower_ext": "The image shows a person in military-style camouflage uniform sitting on the ground in what appears to be an outdoor training or exercise area. The person is wearing sunglasses and seems to be resting or recovering from some type of activity or incident. Based on the image, there is no clear indication of any lower extremity injuries. The person appears to be seated on the grassy ground, surrounded by fencing and other training equipment.",
+                "trauma_upper_ext": "The image shows an individual in military-style camouflage clothing sitting on the ground in a fenced-in outdoor area. There appears to be a small cube-shaped object beside them. Based on the image, I do not see any obvious signs of arm injuries on the individual.",
+                "alertness_ocular": "The image shows an individual in military-style attire lying on the ground in an outdoor setting. They appear to be wearing camouflage clothing and sunglasses. The person is positioned near a fenced enclosure with a cube-shaped object beside them. Without being able to identify the individual, it's difficult to determine if their eyes are open or closed, or if they are responsive. The overall scene suggests some kind of training or exercise taking place in an outdoor area.",
+                "severe_hemorrhage": "The image shows an individual in military-style camouflage clothing sitting on the ground in an outdoor setting. There appears to be some kind of prop or object next to them, possibly a device or container. The fencing and surroundings suggest this is likely some kind of training or simulation exercise. Without identifying the individual, I cannot determine if they are injured or bleeding severely. The image does not seem to depict any amputations or clear signs of severe hemorrhage.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'wound'}\", \"alertness_ocular\": \"{'alertness_ocular': 'open'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'absence'}\"}"
+            }
+        ]
+    }
+]
