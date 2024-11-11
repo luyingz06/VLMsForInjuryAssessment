@@ -6,3 +6,4 @@ pandas
 dashscope
 pillow
 dotenv-python
+google-generativeai
