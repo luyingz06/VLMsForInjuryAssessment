@@ -82,13 +82,19 @@ def qwen_review(image, prompts):
                 ]
             }
         ]
-        responses = MultiModalConversation.call(model='qwen-vl-max',
+        responses = MultiModalConversation.call(model='qwen-vl-plus',
                                             messages=messages,
                                             stream=False)
             
         # print the last text response
         print(num)   
-        print(responses['output']['choices'][0]['message']['content'][0]['text'])
+        response_text = []
+        for item in responses['output']['choices'][0]['message']['content']:
+            if "text" in item:
+                response_text.append(item["text"])
+        print(''.join(response_text))
+            
+        # print(responses['output']['choices'][0]['message']['content'][0]['text'])
 
 # def get_prompts():
 #     '''
@@ -117,7 +123,7 @@ def get_prompts():
     return prompts
 
 if __name__ == '__main__':
-    image = "https://github.com/luyingz06/VLMsForInjuryAssessment/blob/main/images/1726253101436713875.png?raw=true"
+    image = "https://github.com/luyingz06/VLMsForInjuryAssessment/blob/main/all_training_data_no_humans/Data-Collect-09132024/27/0/1726259283387628722.png?raw=true"
     prompts = get_prompts()
     qwen_review(image, prompts)
     # print(price('D:\\UPenn\\24Fall\\VLM\\VLMsForInjuryAssessment\\qwen\\max_tokens.csv', 'qwen-vl-max'))

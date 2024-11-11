@@ -96,7 +96,7 @@ label_class_human_value_list = {
 # }
 
 dict_summary_sentences = {
-    "trauma_head": "No further discription, just give the results only in python dictionary with the key 'trauma_head', 'trauma_torso', 'trauma_lower_ext', 'trauma_upper_ext', 'alertness_ocular', 'severe_hemorrhage'.For trauma_head and trauma_torso: 'absence' means no injury, 'presence' means injury. For trauma_lower_ext and trauma_upper_ext: 'absence' means no injury, 'wound' means injury to at least one extremity, 'amputation' missing at least one extremity. For alertness_ocular: 'open' means the eyes are open, 'closed' means the eyes are closed, 'untestable' means the eyes are untestable. For severe_hemorrhage, 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage.",
+    "trauma_head": "No further discription, just give the results in python dictionary in one line with the key 'trauma_head', 'trauma_torso', 'trauma_lower_ext', 'trauma_upper_ext', 'alertness_ocular', 'severe_hemorrhage'.For trauma_head and trauma_torso: 'absence' means no injury, 'presence' means injury. For trauma_lower_ext and trauma_upper_ext: 'absence' means no injury, 'wound' means injury to at least one extremity, 'amputation' missing at least one extremity. For alertness_ocular: 'open' means the eyes are open, 'closed' means the eyes are closed, 'untestable' means the eyes are untestable. For severe_hemorrhage, 'absence' means no severe hemorrhage, 'presence' means severe hemorrhage.",
 }
 
 # merged = []

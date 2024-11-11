@@ -1,5 +1,5 @@
 # Author: Luying Zhang
-# Date: 11/06/2024
+# Date: 11/07/2024
 # Description: This is a script to call Qwen model and generate labels for each image.
 
 # Refer to the document for workspace information: https://www.alibabacloud.com/help/en/model-studio/developer-reference/model-calling-in-sub-workspace    
@@ -29,11 +29,19 @@ def qwen_review(image, prompts):
                 ]
             }
         ]
-        responses = MultiModalConversation.call(model='qwen-vl-max',
+        responses = MultiModalConversation.call(model='qwen-vl-plus',
                                                 messages=messages,
                                                 stream=False)
         # Parse response text for each label category
         response_text = responses['output']['choices'][0]['message']['content'][0]['text']
+        
+        # response_text = []
+        
+        # for item in responses['output']['choices'][0]['message']['content']:
+        #     if "text" in item:
+        #         response_text.append(item["text"])
+        # response_text = ''.join(response_text)
+            
         print("-----------------------------------")
         print(prompt)
         print(response_text)
@@ -75,7 +83,7 @@ def get_prompts():
     prompts.extend(temp)
     return prompts
 
-def generate_label(image, json_path='D:\\UPenn\\24Fall\\VLM\\VLMsForInjuryAssessment\\qwen\\dataset_qwen.json'):
+def generate_label(image, json_path='D:\\UPenn\\24Fall\\VLM\\VLMsForInjuryAssessment\\qwen\\dataset_qwen_plus.json'):
     """
     Run model for each prompt on a single image and append structured JSON output.
     """

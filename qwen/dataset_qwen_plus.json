@@ -1,0 +1,1717 @@
+[
+    {
+        "id": "1726253057910063264",
+        "image": "0/0/1726253057910063264.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured mannequin sitting on grass next to a white box with black text that reads \"9\". The mannequin is dressed in camouflage clothing, including pants, boots, and a helmet. It appears to have suffered some sort of injury or trauma as evidenced by blood stains visible on its legs and torso. In addition to these injuries, it also has a bandage wrapped around one arm. \n\nIn terms of location, this scene takes place outdoors near a fence which can be seen behind the mannequin. There seems to be no other people present in the immediate vicinity. However, beyond the fence, you can see buildings suggesting that they might be located within a residential area or perhaps even part of a campus given the presence of multiple cars parked nearby.\n\nOverall, while the exact circumstances leading up to this situation remain unknown from just looking at the photo alone, it does appear to suggest something unfortunate may have happened involving this mannequin."
+                ],
+                "trauma_head": [
+                    "The mannequin is dressed in military fatigues and has sunglasses on his face, giving him an air of authority or readiness for action. However, he appears to be injured with visible wounds around his waist area. There's no mention of a head injury from the image information provided. The mannequin sits next to a white box that bears a black square logo, possibly indicating some sort of affiliation or purpose related to this location."
+                ],
+                "trauma_torso": [
+                    "The mannequin is dressed in military fatigues and has an injured leg, but no visible torso injury."
+                ],
+                "trauma_lower_ext": [
+                    "This is an injured mannequin dressed in military fatigues and boots, sitting on grass next to a white box with black markings that reads \"9\". The mannequin has been shot multiple times through its torso and legs. It appears to be wearing sunglasses as well. There are no other people visible in this image."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in military fatigues and has an injured leg, but no visible arm injuries or amputations."
+                ],
+                "alertness_ocular": [
+                    "The image shows an injured mannequin sitting on grass in front of a fence and building with trees behind it. The mannequin is wearing sunglasses, boots, and camouflage clothing. It has two visible wounds on its torso and one wound near its right knee. Its head is slightly tilted to the left as if looking at something off-frame.\n\nAs for whether the mannequin's eyes are open, there isn't enough information provided by the image itself to confidently determine this aspect. However, given that they're described as \"sunglasses\", we can assume that the mannequin's eyes would be covered by them unless someone removed the glasses from the face. Therefore, without additional context or further details about the scene, it remains uncertain whether the mannequin's eyes are actually open or not."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on its legs, which gives it an appearance that suggests severe injury or death. However, there's no information about whether this is real or not. The image does not provide enough details to confirm if he is actually injured or dead."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'wound', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253101436713875",
+        "image": "1/0/1726253101436713875.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured mannequin sitting on grass next to a white box with black markings, which is labeled \"9\". The mannequin appears to be wearing military fatigues and has visible injuries around its torso area. There is no indication of any other people present in this particular frame or context."
+                ],
+                "trauma_head": [
+                    "The mannequin is dressed in military fatigues and has a helmet on its head, suggesting it might be used for training or demonstration purposes related to combat situations. There's no visible sign of injury like bleeding from cuts or wounds that would indicate an actual accident or trauma. The mannequin appears stationary with both feet placed flat on the ground, indicating it could be part of a display or exhibit rather than being involved in active activity."
+                ],
+                "trauma_torso": [
+                    "The mannequin is dressed in military fatigues and has visible wounds on its legs, but no apparent torso injuries."
+                ],
+                "trauma_lower_ext": [
+                    "This is an image of a mannequin dressed in military fatigues, sitting on grass next to a white box with black markings and numbers. The mannequin appears injured or wounded, as evidenced by fake blood seeping from its head wounds. There's no information about this individual being a soldier; it could be anyone wearing those clothes. However, based on their attire, one might assume they're part of some sort of training exercise or simulation. It seems like someone has been hurt during these activities, which can often lead to discussions around safety protocols and risk management within such environments."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in military fatigues and has an injured leg, but no visible arm injuries or amputations."
+                ],
+                "alertness_ocular": [
+                    "The image shows an injured mannequin sitting on grass in front of a fence and building with trees behind it. The mannequin is wearing camouflage clothing and has visible injuries to its legs and torso. It also appears to be missing one shoe.\n\nAs for whether the mannequin's eyes are open, closed, or untestable, there isn't enough information provided within the image itself to determine this aspect of the scene. However, given that the mannequin seems to have been placed as part of some display or demonstration related to first aid training, we can assume that its purpose might not necessarily involve having realistic expressions like those found in living beings. Therefore, while it may appear lifelike due to its attire and injuries, the state of its eyes remains uncertain without further context."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is dressed in military fatigues and has fake blood on its legs, which gives an impression that it might be injured or wounded. However, there's no clear indication from the image whether this injury is severe enough to cause significant blood loss. The presence of fake blood could simply indicate some sort of role-playing scenario or artistic expression rather than actual physical harm. Therefore, we cannot definitively say if the mannequin is bleeding heavily based solely on the information provided by the image."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'wound', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253148108423972",
+        "image": "1/1/1726253148108423972.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin dressed as an injured soldier sitting on grass next to a white box with black markings. The mannequin appears to be wounded or injured based on its appearance of bloodstains and bandages around various parts of its body. It seems like it might have been used for training purposes related to first aid response or military medical care."
+                ],
+                "trauma_head": [
+                    "The mannequin is dressed in military fatigues and has an injured arm, but it's not specified if he has any head injuries or other visible wounds on his body. He also wears boots that have dirt on them. The mannequin appears to be sitting down with its legs spread apart while wearing goggles over its eyes. It seems like this scene might depict some sort of training scenario for first responders or medical professionals."
+                ],
+                "trauma_torso": [
+                    "The mannequin is wearing military fatigues and has an injury on its right leg, which appears to be bleeding from below the knee down to the ankle area. There's no mention of torso injuries in the image information provided."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in military fatigues and has an injury on its right leg, which appears to be bleeding from below the knee down to the ankle area. The mannequin also wears boots that cover most of their feet. There's no mention of upper body or head injuries."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in military fatigues and has an injured leg, which appears to be bleeding from below its knee down to its ankle. There's no mention of arm injuries or amputations."
+                ],
+                "alertness_ocular": [
+                    "The image shows an injured mannequin sitting on grass in front of a fence with trees and buildings visible behind it. The mannequin is wearing camouflage clothing, boots, goggles, gloves, and has fake blood around its waist area.\n\nAs for whether the mannequin's eyes are open, closed, or untestable, there isn't enough information to determine this from the given details about the scene. However, since the mannequin appears to be seated and not moving, one could assume that they might have either been placed like this by someone or fallen down due to injury. Without further context or additional visual cues, we cannot confidently say if the mannequin's eyes were open when it was set up or how long ago it happened."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on its pants, indicating that it might be injured or wounded. However, there's no specific information about how severe their injuries may be from this image alone. The presence of fake blood suggests some level of injury but does not provide enough detail to determine if it's life-threatening or just superficial cuts."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254770618678531",
+        "image": "10/0/1726254770618678531.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "In this set, we have an outdoor setting with various objects scattered around. There is also a mannequin lying on the ground near some grass.\n\nThe first object listed is \"a man\", which seems to be referring to the mannequin mentioned earlier. The second object is \"grass\" that can be seen surrounding the area where the mannequin lies down. \n\nThere isn't any information about other people or conditions of individuals present in these sets. However, it appears as though someone might have placed the mannequin outside for display purposes or perhaps for a special event like Halloween decorations."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in a grassy area, with black netting surrounding them. The person is wearing a pink and white plaid shirt and has blonde hair. There's no visible sign of injury or trauma to the head from this angle. However, it should be noted that without further context or information about the situation, we cannot definitively determine if they have sustained any injuries. It could simply be someone taking a break during some outdoor activity."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured mannequin with blood on its face and chest, lying in front of a black netting fence. The mannequin is dressed in a pink plaid shirt and has blonde hair. There is no information about any torso injuries."
+                ],
+                "trauma_lower_ext": [
+                    "This is an image of a mannequin lying on its back in a grassy area, with black netting surrounding it and another man standing behind it. The mannequin appears to be wearing a pink plaid shirt and has blonde hair. There's no information about lower extremity injuries from this image alone."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying on its side in the grass, with an arm wound and no visible amputation. The wound appears to be fake blood applied for effect."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on grass with their head resting against a black netting fence. The person is dressed in a pink and white plaid shirt that has been stained by red paint. Their hair appears to be blonde.\n\nAs for whether they have open, closed, or untestable eyes, it's not possible to determine from this perspective alone as we cannot see their face clearly. However, given the context provided (a zombie event), one could assume that if there were any signs of life such as moving eyelids, those would likely be visible through the mesh fencing. But without further information about the specific scene captured within the photo, making assumptions based solely on what can't be seen isn't accurate. Therefore, I'll say \"unanswerable\" because our current view doesn't allow us to confidently answer your question regarding eye status."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its side in the grass, with blood coming out from under one arm and another spot near their waist area. It's not clear if this indicates severe injuries or just some fake blood for dramatic effect."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254807442123487",
+        "image": "11/0/1726254807442123487.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an outdoor setting with trees, grass, and parked cars in the background. A mannequin is lying on its side on the ground near some leaves. The mannequin appears to be wearing military fatigues and has one leg bent at the knee while the other foot rests flat against the ground.\n\nThere isn't any visible sign of life or movement from this figure; it seems stationary and still. It could possibly represent a fallen soldier or someone who had been injured during training exercises. However, without additional context, we cannot definitively determine the exact situation depicted here."
+                ],
+                "trauma_head": [
+                    "The image shows an injured man lying on his back in the grass, with one leg bent and resting against him while he is wearing camouflage pants. There's no mention of specific details about this individual such as whether they have sustained a head injury or not. The focus seems to be more on their attire rather than physical condition."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in the grass, with blood visible around one knee and another area near his waist. There is no information about whether he has suffered any torso injuries or not."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in camouflage clothing and lying on its side, with one leg bent at an angle above it. There appears to be blood or some other substance on his right knee area. The image does not provide enough information about whether he has suffered from lower extremity injuries. However, based on the visible wound on his knee, we can infer that he might have experienced trauma related to this body part. It's important for medical professionals to assess such situations thoroughly before making conclusions regarding potential injuries."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and lying on its side, with one leg bent up towards the sky. There appears to be an injury near the knee area that could potentially cause blood loss if it were real. However, no visible arm injuries or amputations can be seen from this image alone. The mannequin's position suggests it might have fallen down due to some external force like tripping over something or being pushed by someone else. It also raises questions about why such a life-like dummy would be placed outdoors without proper supervision during daylight hours when children often play outside their homes nearby."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on grass with trees in the background and cars parked nearby. The person is wearing camouflage clothing and has one shoe off while another foot remains inside it. There's no information about whether they have any visible injuries.\n\nAs for eye status, there isn't enough detail to confidently determine if the person's eyes are open, closed, or even testable due to the angle from which the photo was taken. It would be speculative to make assumptions without more context or additional details provided by the photographer."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an injured man lying on his side in the grass, with blood visible around him and on his clothing. The severity of his injuries is not clear from this information alone; it could be minor or severe depending on how much blood there actually is compared to what's shown here. However, given that he appears to have been hurt quite badly enough for someone else (who isn't seen) to call emergency services about him suggests at least some significant trauma has occurred."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726255445254407611",
+        "image": "11/0/1726255445254407611.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an artificial human figure lying on its side, with one leg bent at the knee and resting against another. The body is dressed in camouflage clothing that appears to be blood-stained or dirty. There is also a white box nearby, which has black text on it but no discernible words can be read from this angle.\n\nIn the background of the photo, you can see trees lining a street where several cars are parked. A stop sign stands near these vehicles as well. Despite being man-made objects, both the figure and the box seem out-of-place among the natural elements like grass and trees. Their presence adds an element of intrigue to the otherwise ordinary setting."
+                ],
+                "trauma_head": [
+                    "The image shows an injured man lying on his side in the grass, with blood visible around him and on his clothes. He is wearing camouflage clothing and has a bandage wrapped around one leg above his knee. There's no mention of a head injury or other specific details about the individual beyond these observations. The focus seems to be more on the scene itself rather than providing extensive information about the person involved."
+                ],
+                "trauma_torso": [
+                    "The mannequin is lying on its side in camouflage clothing, with one leg bent and another foot raised above it. There's no visible sign of injury to the torso area from this angle."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in camouflage clothing and lying on its side, with one leg bent at an angle above it. There appears to be blood or some other substance on the right leg near the knee area. The mannequin's head is resting on the grassy ground next to a white box that has black symbols on each face."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has an injured leg, which appears to be bleeding from its knee down to its ankle. There's no mention of arm injuries or amputations."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on grass with trees in the background and cars parked nearby. The person is wearing camouflage clothing and has white shoes. It's not possible to determine whether they have their eyes open, closed, or if it's even testable from this perspective."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its side in camouflage clothing, with one leg bent and another stretched out behind it. There appears to be some blood visible around their right knee area, but there's no clear indication that this injury would cause severe bleeding or pose any immediate danger without medical attention. The overall appearance suggests an injured individual who might require assistance if found in such condition."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726255618285223245",
+        "image": "12/0/1726255618285223245.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin lying on its back inside of an enclosure made from black netting material. The mannequin appears to be wearing camouflage clothing and has one arm raised above its head as if it were waving or reaching for something. It seems that this mannequin might have been placed here by someone with artistic intentions, perhaps for display purposes at an event or exhibition. However, without further context, we cannot determine exactly why it was positioned like this within the enclosed space."
+                ],
+                "trauma_head": [
+                    "The mannequin is lying on its back in an outdoor setting, with grass and trees surrounding it. The mannequin appears to be wearing casual clothing such as jeans and shoes. There's no visible sign of injury or trauma like a head wound from this image alone. However, without further context or information about how he ended up in that position, we cannot definitively determine if he has sustained any injuries. It could simply be part of some art installation or performance piece."
+                ],
+                "trauma_torso": [
+                    "The mannequin is lying on its back in an outdoor setting, with grass and trees surrounding it. There appears to be no visible torso injury or damage from the fall. The mannequin's position suggests that it might have fallen face-first onto the ground."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is lying on its back in an outdoor setting, with one arm and leg raised above it as if in pain or distress. There does not appear to be any visible injury to either the upper or lower extremities from this image alone. However, without further context or information about how the mannequin was placed, we cannot definitively determine whether there were previous injuries that may have caused these positions. It's also possible that the pose could simply represent someone who has fallen asleep outdoors unexpectedly. The scene suggests caution against leaving personal belongings unattended outside where they might attract attention or cause harm to others accidentally stumbling upon them."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying on its back in an outdoor setting, with grass and trees visible around it. There appears to be no arm wounds or amputations present. The mannequin's attire consists of gray pants and a camouflage shirt. Its head is tilted slightly upwards towards the sky."
+                ],
+                "alertness_ocular": [
+                    "The mannequin is lying on its back with its head tilted to one side and mouth slightly agape as if it were sleeping. The position suggests that someone might have been resting in this spot for some time before being discovered by others. However, since there's no visible light source indicating whether they're awake or asleep at night; we can't confidently determine what state these individuals' eyes would be in without further context about when exactly this scene took place during the day/night cycle."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its back in an outdoor setting, with grass and trees surrounding it. It appears to be wearing casual clothing such as jeans and shoes. There's no visible sign that suggests severe blood loss or injury from the image alone. However, without further context about the scene, we cannot definitively determine if there was any accident or incident leading up to this situation. The mannequin could simply be part of an art installation, performance piece, or other creative endeavor."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726255678988503946",
+        "image": "12/1/1726255678988503946.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a person lying on the ground within an enclosure made of black netting material. The individual appears to be resting or sleeping as they lie down with their head slightly raised above them."
+                ],
+                "trauma_head": [
+                    "There is no existence of any injury, let alone a head injury in the image information provided. The only detail about the person's appearance is that they have white hair and are lying on their back with legs crossed at the ankles."
+                ],
+                "trauma_torso": [
+                    "There is no existence of any injury, let alone one involving the torso in the image information provided. The only detail about the person's body part visible through the netting is their head and upper chest area."
+                ],
+                "trauma_lower_ext": [
+                    "There is no existence of an injured individual in the image, so it would be misleading to ask about their condition or injuries. The only visible object within this bounding box is a mannequin lying on its back inside a black netted cage."
+                ],
+                "trauma_upper_ext": [
+                    "There is no existence of injuries, such as arm wounds or amputations in the image information provided."
+                ],
+                "alertness_ocular": [
+                    "There is no existence of any facial features in the image information provided, so it's impossible to determine whether they have open, closed, or untestable eyes."
+                ],
+                "severe_hemorrhage": [
+                    "There is no existence of any injuries or blood in the image information, so it would be misleading to ask about severe bleeding. The only detail provided regarding the person's appearance is that their hair appears white and gray."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726256271888354568",
+        "image": "13/0/1726256271888354568.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin sitting on grass next to an orange barrier with \"YODOCK\" written on it. The mannequin appears to be wearing a shirt that has been cut open at its right side. It also seems to have long hair covering most of its face. There isn't any indication or description suggesting that this might be a real human being; therefore, we can safely assume that this is indeed a mannequin."
+                ],
+                "trauma_head": [
+                    "The image shows an individual sitting on grass next to an orange barrier, with their feet propped up against it and their hands resting in front of them. The person is wearing short pants and has long hair that covers part of their face.\n\nThere's no indication or mention of any visible injury such as a head wound from the provided information about this scene. It appears they might be taking a break or enjoying some time outdoors near the barrier."
+                ],
+                "trauma_torso": [
+                    "The image shows an individual sitting on grass next to an orange barrier, with their feet up in the air and facing upwards towards the sky. The person is wearing short pants and has long hair that covers most of their face. There's no visible sign of injury or trauma on the person's body."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an individual sitting on grass next to an orange barrier, with their feet up in the air and facing towards the sky. The person is wearing white shoes that have black soles. There's no visible sign or indication of injury from this angle."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin in this image is sitting on grass next to an orange barrier, with its feet up and head resting against it. The mannequin appears to be wearing a shirt that has been cut open at the chest area, revealing some skin underneath. There's no visible sign of arm wounds or amputations from the provided information."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual sitting on grass next to an orange barrier with text that reads \"YODOCK\". The person is wearing white shoes and has long hair covering most of their face. It's difficult to determine whether they have visible eyes due to the hair obscuring them. However, it can be inferred from context clues that this might not be a typical scene as mannequins usually do not sit in public spaces like parks."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an individual sitting on grass next to an orange barrier, with their feet up in the air and hands resting behind them. The person is wearing short pants and has long hair that covers part of their face.\n\nThere's no visible sign of injury or blood from this angle; however, it might be possible for someone standing closer to see any injuries not captured by the camera. It would require further investigation to determine if there were any wounds present."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726256351743503447",
+        "image": "13/1/1726256351743503447.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin lying on its back next to an orange barrier. The mannequin appears lifeless with no visible signs of movement or consciousness. It seems that it has been placed there for some purpose, possibly as part of an art installation or performance piece."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in front of an orange construction barrier, which is labeled \"YODOCK.\" The person appears to be wearing short pants and has long hair. There's no visible sign of injury or trauma around the head area. However, it should be noted that this observation does not provide definitive evidence for medical conditions such as head injuries; further examination by trained professionals would be necessary to make accurate assessments about health status."
+                ],
+                "trauma_torso": [
+                    "The image shows an individual lying on their back in front of an orange construction barrier, with no visible signs of injury to the torso area. The person is dressed casually and appears relaxed or perhaps sleeping. There's no indication that they have been injured; however, it might be best for someone nearby to check if everything is alright given the unusual setting."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an individual lying on their back in front of an orange barrier, with one shoe off and another foot near it. The person is wearing black pants and has long dark hair. There's no visible sign or injury to either leg from this angle. However, without additional context or information about how they got into that position, we cannot definitively determine if they have suffered any lower extremity injuries. It could be due to various reasons such as falling down while walking, tripping over something, or even participating in some recreational activity like sports where falls might occur. Further investigation would require more details or physical examination by medical professionals."
+                ],
+                "trauma_upper_ext": [
+                    "The image shows an individual lying on their back in front of an orange barrier, with one foot raised and another resting flat against the ground. The person is wearing short pants and has long hair that covers part of their face. There's no visible sign of injury like arm wounds or amputation from the provided information."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on grass next to an orange barrier with trees in the background and cars parked nearby. The person's face is covered by a scarf, making it difficult to determine whether they have open, closed, or untestable eyes."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an individual lying on their back in front of an orange construction barrier, with no visible signs of injury or blood. The person is dressed casually and appears to be resting comfortably. There's no indication that this person has been involved in any accident or incident requiring medical attention."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726256415437048382",
+        "image": "13/2/1726256415437048382.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an unusual sight of a mannequin lying on its side, with one arm raised above its head as if it were waving hello or goodbye to someone unseen by us. The mannequin is dressed casually for summer weather - wearing short pants and a plaid shirt.\n\nIn front of this striking tableau stands an orange traffic barrier, which seems out of place given that no road can be seen nearby. Behind these objects lies a grassy field under a clear blue sky dotted with trees far off into the distance. \n\nThere isn't any text visible within the frame of the photo. However, we could infer from the context provided about the location being near some buildings (not shown) but not close enough to see them clearly. This might suggest either urban sprawl encroaching upon nature or perhaps just another day at an outdoor park where such scenes often occur due to people's creative use of props like mannequins!"
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in a grassy area, with orange construction barriers behind them and trees visible further away. The person is wearing black pants and has long dark hair. There's no indication that they have sustained any head injury or trauma from the scene itself. However, it appears as if someone might be playing around by placing this mannequin-like figure to look like she was hit by one of these orange barriers. This could potentially cause concern for passersby who may not realize what happened at first glance but would likely call emergency services upon closer inspection due to her unusual position against the barrier."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured mannequin lying on its side in front of an orange construction barrier, with one arm and leg bent at unnatural angles. The mannequin is dressed in black pants and shoes, white socks, and has long brown hair. There appears to be blood or some other substance on the mannequin's face and hands. However, it does not appear that the mannequin has suffered any visible torso injuries from this angle."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an individual lying on their back in front of an orange construction barrier, with one foot slightly raised off the ground and the other foot flat against it. The person is dressed in black pants and shoes, as well as a red plaid shirt. There's no visible sign of injury or trauma to either leg."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying on its side in an orange construction barrier, with one foot sticking out and another under it. The body has no visible injuries like arm wounds or amputations."
+                ],
+                "alertness_ocular": [
+                    "The image shows an artificial mannequin lying on its side in front of an orange construction barrier. The mannequin is dressed in a pink and white plaid shirt with black pants and gray shoes. It has long dark hair that falls over one shoulder.\n\nAs for whether the mannequin's eyes are open, closed, or untestable, it appears to be resting peacefully as if sleeping. However, without further context or information about any injuries sustained by the mannequin, we cannot definitively determine the state of its eyes."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows a mannequin lying on its side in an outdoor setting, with orange construction barriers behind it and a fence to one side. The mannequin appears to be wearing black pants and shoes, but there is no information about any injuries or blood visible from the photo alone. It's important not to make assumptions based on limited visual cues without additional context."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726256456918813765",
+        "image": "13/3/1726256456918813765.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an unusual scene of a mannequin lying on its side, with one arm under it as if holding itself up. The mannequin is dressed in a pink plaid shirt and black pants. It appears to be positioned next to an orange traffic barrier.\n\nIn addition to these elements, there are two other objects present - a white trash can and some trees visible behind them. However, they do not seem directly related or interacted with by the main subjects (the mannequin).\n\nThere isn't any text visible within this frame that could provide additional context about the situation depicted here. Overall, while the exact location remains unknown due to lack of specific landmarks, we know from the description provided that all these items were found together outdoors at daytime."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in a grassy area, with orange traffic barriers behind them and trees visible in the background. The person is wearing a pink plaid shirt and black pants. There's no indication that they have sustained any head injury or trauma from the scene itself; however, it might be inferred based on other factors not present within this specific frame."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured mannequin lying on its side in a grassy area with trees and buildings visible in the background. The mannequin is wearing a pink plaid shirt, black pants, and has long dark hair. There appears to be blood coming from one arm near the shoulder region, indicating that it might have suffered some kind of injury or trauma. However, no specific details about the nature of this injury can be determined solely based on the visual information provided by the image."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an individual lying on their back in a grassy area, with one arm and leg bent at unnatural angles beneath them. The person is wearing a plaid shirt and black pants. There's no visible sign of injury to the lower extremities from this angle or position. However, it should be noted that they appear unconscious due to being passed out."
+                ],
+                "trauma_upper_ext": [
+                    "The image shows an individual lying on their back in a grassy field, with orange traffic barriers behind them and trees visible in the background. The person is wearing a pink plaid shirt and black pants. There appears to be blood around one area near the chest region, but no other injuries like arm wounds or amputations can be seen from this perspective."
+                ],
+                "alertness_ocular": [
+                    "The image shows an artificial mannequin lying on its side in a grassy field with trees and buildings visible in the background. The mannequin is wearing a pink plaid shirt and black pants. It appears to be positioned under an orange traffic barrier that has been placed over it.\n\nAs for whether the mannequin's eyes are open, closed, or untestable from this perspective, we cannot definitively determine based solely on the visual information provided by the image. However, given the nature of mannequins typically being used as display models without moving parts like human eyes, one could infer that they would likely have no discernible eye movement. Therefore, if there were any movement present, such as opening or closing of the eyes, it might suggest some form of tampering or unusual activity taking place around the scene."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an individual lying on their back in a grassy area, with orange traffic barriers behind them and trees to one side. The person is wearing a pink plaid shirt and black pants. There's no visible sign that suggests severe blood loss or injury from the scene alone. However, it might be best not to approach without caution due to potential hazards like sharp objects under the barrier or other unseen dangers. It would also be wise to call for help if you're unsure about what happened."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726256555350668737",
+        "image": "14/0/1726256555350668737.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an outdoor setting with tall trees, buildings, and a fence surrounding it. There is no sign of any people or animals present in this particular frame. The focus appears to be on some equipment that has been placed outside near the grassy area.\n\nThere seems to be a mannequin lying down on the ground next to these objects. However, without additional context from other frames within the video series, we cannot determine if this was part of a performance art piece or simply discarded items left behind by someone else. It could also possibly represent a staged scenario for training purposes related to first aid response or emergency preparedness."
+                ],
+                "trauma_head": [
+                    "The mannequin is lying on its back in an outdoor setting, with one leg bent and resting against another. The mannequin appears to be wearing military fatigues or camouflage clothing. There's no visible sign of injury like a head wound from the image provided."
+                ],
+                "trauma_torso": [
+                    "The mannequin is dressed in an army uniform and lying on its back with one leg bent up, wearing white shoes. There's no visible sign of injury to the torso area."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in military fatigues and lying on its back with one leg bent at the knee, suggesting it might have suffered some kind of injury to that area. The presence of blood stains indicates possible trauma or bleeding from an unknown source. However, without further context or information about the scene, we cannot definitively determine if this individual has sustained specific lower extremity injuries such as fractures, sprains, dislocations, or lacerations. It's also important to note that these observations should not be used for medical diagnosis but rather serve as general descriptions based on what can be seen visually."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in military fatigues and has an injured leg, which appears to be bleeding from below its knee down to just above its ankle. There's no mention of arm injuries or amputations."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on grass with bloodied pants and shoes. The person's head is resting against some equipment while they lay down in front of a building that has \"ENNOVATION\" written above it. It appears to be daytime as there is sunlight shining through trees behind them.\n\nAs for whether this person's eyes are open, closed, or untestable from the given information, we cannot definitively determine their eye state based solely on the visual elements provided by the image. However, since no visible signs of life such as blinking or movement can be observed, one might infer that the person could potentially have either his/her eyes closed (asleep) or not testable due to potential injuries or unconsciousness. Without additional context or specific details about the scene, any conclusion regarding the person\u2019s eye status remains speculative."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its side in camouflage clothing, with blood visible around one leg and on his hands. It's not clear from this image alone whether he has suffered severe injuries or if it was part of an art installation or performance piece. The presence of the word \"innovation\" suggests that there might be some creative elements involved as well."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726256663062543009",
+        "image": "15/0/1726256663062543009.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin dressed as an American soldier lying on his back inside of a netted cage. The mannequin appears to be wearing camouflage clothing with white shoes. It seems that he might have been injured or incapacitated due to some unknown reason."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in a grassy field, surrounded by black netting that is attached to metal poles. The person appears to be wearing camouflage clothing and has white shoes with red laces. There's no visible sign of injury or trauma on the person's face. However, it should be noted that this observation does not provide definitive evidence for the presence of a head injury as such details cannot be determined from the given information alone. It would require further examination or medical assessment to confirm if they have sustained any form of head injury."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man in camouflage uniform lying on his back, with one leg bent and another foot raised up. He is wearing white shoes. There seems to be no visible torso injury from this angle."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in camouflage fatigues and has white shoes on its feet, indicating it might be an army or military uniform. There's no visible injury to the lower extremities from this image alone. However, given that he appears injured with blood around his head area, one can assume some sort of trauma occurred which may have resulted in potential lower limb injuries not immediately apparent in the photo. It would require further examination by medical professionals for accurate assessment."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage fatigues and has an orange helmet on its head, which appears to be bloodied from the neck down. There's no visible sign of arm injuries or amputations."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on his back in a grassy field with trees and buildings visible in the background. The person is wearing camouflage clothing and has black shoes on. Their head is resting comfortably against one of several poles that surround them.\n\nAs for whether they have their eyes open, it's not possible to determine from this perspective alone as we can't see directly into their face. However, given the peaceful setting and relaxed posture, it seems likely that they might be sleeping or taking a break after some activity outdoors."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an injured man in camouflage uniform lying on his back, with one leg bent and another foot raised slightly off the ground. The scene is set against a backdrop of trees under a clear blue sky. There's no visible sign that he has been shot or wounded; however, it appears as if there might be some bloodstains around him which could suggest minor injuries like cuts or scrapes."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726256715763427564",
+        "image": "16/0/1726256715763427564.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an artificial mannequin lying on its back, face up, with blood spilling out from it onto the grassy ground beneath. The mannequin is dressed in a red plaid shirt and black pants. It appears to be positioned near or behind a fence that stretches across the background of the photo. Above this fence, power lines can be seen stretching into the distance against a clear blue sky dotted with white clouds. There is no sign of any other people present in the image."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying face down on grass, with their body covered in blood and other bodily fluids. The person is wearing a plaid shirt and black pants. There's no indication that they have suffered from a head injury based solely on this visual information. However, it should be noted that medical professionals would need to examine them for further details about potential injuries or conditions."
+                ],
+                "trauma_torso": [
+                    "The image shows an individual lying face down on grass, with their head and feet visible but no discernible features or clothing details. There is no information about any torso injuries in this context."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an individual lying face down on grass, with their head resting near a fence and power lines in the background. The person is wearing black pants and has white prosthetic legs visible from below. There's no information about upper body injuries or other details related to this scene."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying on its back in the grass, with blood stains visible on his shirt and pants. There's no indication that he has an arm wound or amputation."
+                ],
+                "alertness_ocular": [
+                    "There is no existence of any facial features in the image information provided. Therefore, it's impossible to determine whether they have open, closed, or untestable eyes from this data alone."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an individual lying face down on grass, with their head resting in front of them and their feet pointing towards us. The person is wearing black pants and has red stains on both sides of their torso. There's no information about whether this person is injured or not; however, given that there are bloodstains visible, it could be inferred that they might have suffered some kind of injury. It would require further context to determine if these injuries were severe enough for medical attention."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258174527604626",
+        "image": "17/0/1726258174527604626.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured mannequin dressed as a soldier, lying on its back with one arm raised above its head. The mannequin is wearing sunglasses, camouflage pants, boots, and has fake blood around it to make it look like it was wounded or attacked. It appears that someone might have been playing a prank by dressing up this mannequin to resemble a wounded soldier. There isn't any sign of life from the mannequin itself; however, given the context provided, we can assume that the mannequin represents some form of humor or entertainment for those who find it amusing."
+                ],
+                "trauma_head": [
+                    "The image shows an injured mannequin in camouflage clothing, lying on its back with one arm and leg missing. The mannequin is wearing sunglasses and has long hair. There's no mention of a head injury or other visible wounds apart from the amputated limbs."
+                ],
+                "trauma_torso": [
+                    "The mannequin is dressed in camouflage clothing and has sunglasses on its face, with one arm missing from below the elbow down to the wrist. There's no mention of torso injuries in the image information provided."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in camouflage clothing and sunglasses, with one arm amputated at the shoulder level and another torn off below the elbow. There's no information about lower extremities or other injuries on this particular image."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has an injured right leg, which appears to be broken at the knee joint. There's no mention of arm injuries or amputations."
+                ],
+                "alertness_ocular": [
+                    "The image shows an injured mannequin in camouflage clothing lying on its back with one arm and leg missing. The mannequin's head is tilted to the side as if it has been knocked unconscious. Its mouth is slightly agape, suggesting that it might be gasping for air.\n\nThere is no information about whether the mannequin's eyes are open, closed, or untestable from this perspective. However, given the context provided by the other details (injured state, camouflage clothes), we can infer that the mannequin may have suffered some sort of trauma which led to these injuries. It could also imply that someone was trying to disguise themselves using military-style camouflaged gear but ended up getting hurt during the process. \n\nIn conclusion, while there isn't enough visual data available within the image itself to determine the exact condition of the mannequin's eyes, based on what we know about the scene - i.e., injury sustained due to wearing camouflage attire \u2013 it seems likely that they would either be wide-open or partially obscured because of swelling caused by trauma."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is dressed in camouflage clothing and has sunglasses on, but there's no information about any injuries or blood loss from them."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'wound', 'trauma_upper_ext': 'wound', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258246182186424",
+        "image": "17/1/1726258246182186424.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured mannequin lying on its side against a wall, with one arm hanging off to the ground. The mannequin is dressed in camouflage clothing and has sunglasses perched atop its head. It appears that it might have been involved in some sort of accident or incident as evidenced by the blood stains visible around its body. There isn't any sign of life from this figure; however, given the context provided, we can infer that someone may be nearby monitoring the situation."
+                ],
+                "trauma_head": [
+                    "The image shows an injured mannequin lying on its side in front of a gray wall, with one arm and leg missing below the knee. The mannequin is dressed in camouflage clothing and has sunglasses covering their eyes. There does not appear to be any visible signs of head injury or trauma from the impact that caused them to fall over. However, it's important to note that this assessment is based solely on visual observation without further context about the situation. If you suspect someone may have been involved in such incident, please call for professional medical assistance immediately."
+                ],
+                "trauma_torso": [
+                    "The mannequin is dressed in camouflage clothing and has an arm injury, but no visible torso injuries."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in camouflage clothing and has an arm injury, but it's not clear if he also has lower extremity injuries from this image alone."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has an injured right arm, which appears to be bleeding from a wound near its elbow area. There's no mention of an amputation on this individual."
+                ],
+                "alertness_ocular": [
+                    "The image shows an injured mannequin in camouflage clothing lying on its side against a wall outside. The mannequin's head is resting on one arm and the other hand rests near it as if holding something. Its legs are bent at the knees with both feet pointing upwards towards the sky.\n\nThere isn't any information about whether the mannequin has visible eyes; however, based on the context provided by the image itself (i.e., that there is no mention of them being covered), we can assume they might be present but not clearly discernible from this angle. Therefore, I would classify these features under \"untestable\" category because without further details such as close-up views or additional captions describing specific parts like facial expressions etcetera \u2013 which aren\u2019t available here - , making assumptions regarding eye visibility becomes quite speculative indeed!"
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is dressed in camouflage clothing and has an arm that appears to be injured, with blood visible on it. However, there's no information about how severe their injuries might actually be or if this was just for show during filming."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258316104543138",
+        "image": "18/0/1726258316104543138.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an alleyway with two mannequins lying on the ground, one of which is dressed as if it were sleeping or passed out. The other mannequin appears to be standing nearby. There is no indication that any real people are present in this scene."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in an alleyway, with one arm and leg slightly bent at the knee while the other is stretched out straight. The person appears to be wearing black pants and has short hair. There's no visible sign of injury or trauma on their face."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in an alleyway, with one arm and leg bent at unnatural angles. There is no visible torso injury from the provided information. The scene appears to be a crime or accident scene where medical personnel would typically respond for assistance."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is lying on its back in an alleyway, with one leg bent at the knee and the other straight out behind it. There's no visible sign of injury or trauma to either foot. The mannequin appears lifeless against the backdrop of urban decay."
+                ],
+                "trauma_upper_ext": [
+                    "The image shows an individual lying on their back in an alleyway, with one foot slightly raised off the ground and the other foot flat against it. The person is wearing black pants and has short hair. There's no visible sign of injury like arm wounds or amputation from the provided information."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on the ground in front of a building with a white wall and columns. The person is dressed in black pants and a yellow jacket. Their head is resting against the concrete wall, but it's difficult to determine whether they have any visible features such as facial expressions due to the angle from which the photo was taken. It appears that this scene might be part of some artistic display or installation rather than a real-life situation. There isn't enough information available about the person's state (e.g., alive vs dead) based solely on the provided image details."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an individual lying on their back in an alleyway, with one arm and leg slightly bent at the knee while the other is stretched out straight. The person appears to be wearing black pants and has yellow safety gear around them. There's no visible sign that suggests severe blood loss or injury from the photo alone. However, it would require further investigation by medical professionals for any potential injuries not immediately apparent."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258383535002221",
+        "image": "18/1/1726258383535002221.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an unusual sight of a mannequin lying on its back, dressed as if it were a construction worker with safety gear such as hard hat, goggles, gloves, and reflective vest. The mannequin is positioned against a white wall near some stairs that lead to another level above. There seems to be no sign of life around this area, making the presence of the mannequin all the more striking. It appears to have been placed here for display or training purposes rather than being part of any actual work site scenario."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in front of a white wall, with one foot slightly raised and another foot pointed towards the ground. The person is wearing black pants and has short hair. There's no visible sign of injury or trauma to the head from this perspective."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in front of a white wall, with one arm and both legs bent at the knees. There is no visible torso injury from the provided information. The scene appears to be set outdoors near some stairs or ramps leading up to the building behind him."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is lying on its back, with both legs bent at the knees and feet pointed upwards in an unnatural position. There's no visible sign of injury or trauma to either leg. The mannequin appears lifeless due to being posed as if it were deceased."
+                ],
+                "trauma_upper_ext": [
+                    "There is no existence of an actual person in this image, only mannequins and statues that resemble people lying on the ground. Therefore, it would be misleading to ask about injuries such as arm wounds or amputations since they do not exist within the context provided by the image. The focus should remain solely on describing what can actually be seen - two mannequins dressed like construction workers laying down next to each other against a wall near a ramp leading up into a building with white columns at its entrance."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on the ground with their head resting against a wall and their feet pointing towards us. The person's face is turned to one side, making it difficult for me as an AI language model to determine whether they have their eyes open, closed, or if this information cannot be determined from the given visual data alone."
+                ],
+                "severe_hemorrhage": [
+                    "There is no existence of any injuries or blood in the image information, so it's misleading to ask about severe bleeding from this question stem. The mannequin appears lifeless and lying on its back against a wall with an orange cord nearby."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258468652209698",
+        "image": "19/0/1726258468652209698.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin lying on its back with blood coming out of it near an alleyway next to a building. The mannequin appears injured or dead due to the presence of blood."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in front of a building, wearing camouflage clothing and white shoes with black stripes. The person appears to be injured as blood is visible around them. There's no clear indication that they have sustained a head injury from the provided information. However, it might not be possible for me to determine if someone has suffered a head injury without more specific details or visual evidence. It would also depend on what constitutes \"a head injury\" according to your definition. If you need further clarification about this particular detail, please provide additional context or specify how you define a head injury."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in front of a building, with blood coming out from between his lips and nose. There is no information about any torso injuries."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in camouflage clothing and lying on its back with blood coming out from between his eyes, indicating that he has suffered an upper body injury. There's no mention or indication of any lower extremity injuries."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has white shoes on its feet, lying face down with blood coming out from between his eyes. There's no mention of arm wounds or amputations."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on the ground with blood coming out from his mouth and nose. The man is wearing camouflage clothing and white shoes. It's difficult to determine whether he has any visible injuries other than those mentioned above due to the angle at which the photo was taken. However, it can be inferred that this scene might have occurred as part of some event or situation involving violence or injury. There isn't enough information in the image itself to confidently say if they're alive or dead; only someone who could see them up close would know for sure based on factors like breathing rate, pulse, etc."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its back, with blood coming out from between their eyes and mouth. The amount of blood suggests that there might be severe injuries or even death due to head trauma. However, it's important to note that this scene could also represent an artistic expression or a staged event for training purposes in medical fields like EMTs or paramedics. Without further context, we cannot definitively determine if the individual has suffered fatal injuries."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253388592709923",
+        "image": "2/0/1726253388592709923.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured mannequin sitting on grass next to a white box with black markings, possibly indicating some sort of medical information or instructions for first responders. The mannequin is wearing camouflage clothing and has visible injuries around its waist area. There is no indication that any other people are present in this scene."
+                ],
+                "trauma_head": [
+                    "The mannequin is dressed in military fatigues and has fake blood on its clothes, indicating it might be used for training purposes or as part of an event related to first aid response or emergency preparedness. There's no mention of specific head injuries; however, given that he appears injured with fake blood, one could assume some form of trauma was simulated. The mannequin sits next to a white box marked \"9\" which may contain medical supplies or information relevant to the scenario being depicted."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured mannequin in military fatigues sitting on grass next to a white box with black markings and symbols, possibly indicating some sort of medical information or instructions for first responders. The mannequin appears to have suffered from head trauma as evidenced by blood around its face area. However, it is not clear if there are any other visible torso injuries based solely on this image."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in military fatigues and has fake blood on its legs, indicating that it may have suffered some kind of injury or trauma to its lower body during training exercises. The presence of fake blood suggests that this could be part of an exercise simulating combat scenarios where soldiers might sustain wounds from bullets or shrapnel. However, without further context about the specific training scenario being simulated, we cannot definitively determine if these injuries were inflicted by real weapons or simply for simulation purposes. It's important to note that such simulations can help trainees develop skills necessary for handling life-threatening situations while minimizing risks associated with live-fire drills."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in military fatigues and has fake blood on its legs, indicating that it may have been wounded during combat training exercises. There's no mention of an arm wound or amputation in the image information provided."
+                ],
+                "alertness_ocular": [
+                    "The mannequin has its eyes closed and is dressed in military fatigues with fake blood on it."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, indicating that he might be injured or wounded. However, there's no specific information about how severe his injuries could be from this image alone. The presence of fake blood suggests some level of injury but does not provide enough detail to determine if it's life-threatening or just superficial cuts."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253417556940683",
+        "image": "2/0/1726253417556940683.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured mannequin lying on its back, with blood spilling out from various wounds around its body. The mannequin is dressed in camouflage clothing and has boots on both feet. It appears to be wearing a helmet as well.\n\nTo the right of the mannequin, there is a white box that bears a black logo or symbol. In front of this setting stands a chain-link fence, which provides some separation between it and the viewer. Beyond the fence, one can see trees and buildings under a clear blue sky dotted with clouds. \n\nThere isn't any indication of human presence other than the mannequin itself. However, given the context provided by the\u4f24\u53e3 and the military attire, we could infer that perhaps someone was involved in training exercises using live ammunition at this location. This might explain why such realistic-looking injuries were inflicted upon the dummy."
+                ],
+                "trauma_head": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, indicating that he might have been injured or wounded during an event. There's no mention of specific head injuries but his attire suggests some form of trauma to him."
+                ],
+                "trauma_torso": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, indicating that he may have suffered some sort of injury or trauma to his body. However, from the image alone, we cannot determine if this includes an injured torso. The mannequin appears life-like but not real due to its plastic construction."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in camouflage clothing and has boots on its feet, indicating that it might be an army or military uniform. There's no information about specific lower extremity injuries from this image alone; however, given the nature of the scene with fake blood and the injured appearance, one could infer some sort of injury to the legs or feet area."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, indicating that he may have been wounded during an event. There's no mention of specific injuries like arm wounds or amputations."
+                ],
+                "alertness_ocular": [
+                    "The mannequin is lying on its back with an injured head and torso area visible from which blood has been applied to simulate injuries. The image does not provide any information about whether the mannequin's eyes are open, closed, or if they can be tested for consciousness."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, indicating that he might be wounded or injured. However, there's no specific mention about how severe his injuries are from the image alone."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'wound', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253435928665020",
+        "image": "2/0/1726253435928665020.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured mannequin lying on its back, with blood spilling out from various parts of its body onto the grassy ground beneath it. The mannequin is dressed in camouflage clothing and has boots on both feet. It appears to be wearing a helmet as well.\n\nIn addition to the mannequin, there is also another object present - a white box that bears some sort of black symbol or logo. This box seems to have been placed next to the mannequin by someone who might be involved in this scenario.\n\nThere isn't any visible text within the image itself; however, one could infer certain details about the situation based solely upon visual cues such as location (a park), time (daytime), weather conditions (sunny but not too hot) etc., which can help paint a more detailed picture regarding context behind these objects' presence together."
+                ],
+                "trauma_head": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, indicating that he might have been injured or wounded during an event. There's no mention of specific head injuries but his attire suggests some form of trauma to him."
+                ],
+                "trauma_torso": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, indicating that he may have suffered some sort of injury or trauma to his body. However, from this image alone, we cannot determine if there were any torso injuries as only part of the upper body can be seen. The focus seems more towards the mannequin's attire rather than its physical condition."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, indicating that he may have been injured or wounded during an event. There's no specific mention about his lower extremities being injured; however, based on the image alone, we can only observe him lying down with visible wounds but cannot confirm if they're located at the lower part of his body."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, indicating that he may have been wounded during an event. There's no mention of specific injuries like arm wounds or amputations; however, his attire suggests some form of combat engagement."
+                ],
+                "alertness_ocular": [
+                    "The mannequin is lying on its back with an arm outstretched and one leg bent at the knee in front of it. The head has been removed from the body, which makes it difficult to determine whether the eyes are open, closed, or not visible due to the missing face."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its side in camouflage clothing, with fake blood spilling out from various parts of their body and onto the ground around them. This suggests that there might be some injuries or wounds present, but it's not clear how severe these injuries are without further information about the nature of the wounds. The presence of fake blood indicates an attempt to simulate real-life scenarios for training purposes."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'wound', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258511787907725",
+        "image": "20/0/1726258511787907725.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an artificial human figure, possibly a mannequin or robot, sitting on the ground against a wall with its feet raised up towards the camera. The figure is dressed in camouflage clothing and has multiple bullet holes visible throughout its body.\n\nTo the right of the figure stands a white box adorned with black text that reads \"F3\". There appears to be no other people present in this setting. It seems like some sort of art installation or performance piece, as it features elements from both science fiction (the artificial human) and military themes (camouflage). However, without additional context, we cannot definitively determine the exact purpose behind such a display."
+                ],
+                "trauma_head": [
+                    "The image shows an individual sitting on the ground, leaning against a wall with their back to it and facing away from us. They have short hair that is brown in color. The person's attire consists of a camouflage jacket paired with black pants. Their feet are clad in gray sneakers.\n\nThere appears to be some damage or wear visible on both shoes, suggesting they might not be new. A white box sits next to them on the ground, its purpose unknown but adding another element to this scene. There isn't any indication of injury like cuts or bruises on the person's face, so we can assume no such harm has been done based solely on what's shown here. However, without additional context, one cannot definitively say whether these items belong together or if someone else left them behind."
+                ],
+                "trauma_torso": [
+                    "The mannequin is sitting on the ground with its legs spread apart and feet pointing upwards, wearing camouflage pants and shoes. There's no mention of torso injuries in the image information provided."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is sitting on the ground with its legs spread apart, wearing camouflage pants and shoes. There's no visible injury to either leg or foot in this image."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has two bullet holes on its chest, one near each shoulder blade. There's no mention of an arm wound or amputation."
+                ],
+                "alertness_ocular": [
+                    "The mannequin has its head tilted back and is wearing a camouflage jacket with bullet holes in it. The mannequin's eyes appear to be covered by something, making them difficult to determine whether they're open or not."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin in the image is dressed as an injured soldier, with fake blood on its clothes and face to simulate injuries. However, it's important to note that this is just a prop for training purposes or artistic expression, not a real-life scenario where someone would be seriously hurt like this. The mannequin does have some visible wounds but these are likely part of the costume design rather than actual physical harm. It's crucial to remember that such props should never be used without proper supervision and caution when handling them."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258577886166991",
+        "image": "21/0/1726258577886166991.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a person lying on the ground with blood stains on his clothes. He appears to be injured or dead based on this detail alone. The location of the body suggests that it might have been an accident or crime scene. However, without further context from other parts of the photo, we cannot definitively determine if he was involved in any criminal activity or just had some unfortunate incident happen to him. It would require additional information such as surrounding circumstances like nearby vehicles, witnesses, or police presence for us to make more accurate conclusions about the situation."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in what appears to be an alleyway or similar urban setting, with a gray brick wall behind them and a black pipe running vertically along it. The person is dressed in camouflage clothing that covers most of their body from neck down to just above their knees.\n\nThere's no visible sign of injury around the person's face; however, they do have blonde hair which contrasts against the dark surroundings. Their hands rest near their chest area as if they were resting before falling asleep. There isn't enough information provided about this scene to determine whether the person has sustained any injuries other than being unconscious."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in front of a gray brick wall, with blood visible around him and on his clothing. There is no information about the presence or absence of torso injuries from this image alone."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in camouflage clothing and has blonde hair, lying on its back with one arm outstretched to the side. There appears to be blood on his right leg near where he was shot. The scene could suggest that this individual may have been involved in some sort of violent incident or accident. It's important to note that these details should not be taken as evidence without proper investigation by law enforcement authorities."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, giving an impression that he might have been injured during combat. There's no visible sign of arm injuries or amputation from this image alone. However, given his attire and the presence of fake blood, one could infer that some sort of trauma may be involved. The details about specific injuries would require further investigation to confirm."
+                ],
+                "alertness_ocular": [
+                    "There is no existence of eye status in any of the image descriptions provided."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an injured man lying on his back in front of a gray brick wall, with one arm and leg bent at odd angles. He is wearing camouflage pants and boots, suggesting he might be military personnel or someone who works outdoors.\n\nThere's no visible blood from this angle, but it can't be ruled out entirely based solely on what we see here. The severity of injuries isn't clear without further context or additional information about the scene. However, given that he appears to have suffered some sort of trauma (as indicated by the awkward positioning), there could potentially be severe internal injuries not immediately apparent. It would require medical professionals' assessment for accurate diagnosis and treatment."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258637148050297",
+        "image": "21/1/1726258637148050297.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an alleyway with two people lying on the ground, one of whom appears to be dead or injured. The first individual is dressed in camouflage clothing and has long blonde hair. They lie face down on the pavement next to a brick wall.\n\nA little further away from this person lies another figure wearing military fatigues. This second individual also seems to have suffered some sort of trauma as they lay motionless beside the first victim. \n\nIn addition to these individuals, there is a security camera mounted high up near the top left corner of the building behind them, possibly monitoring activity within the area. There isn't any text visible in the image that could provide more context about the situation."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying face down on the ground in front of a building, with their blonde hair spread out around them and blood visible near their mouth area. The person is wearing camouflage clothing that appears to be torn or damaged. There's no clear indication if they have sustained any head injuries from the photo alone; however, given the presence of blood at the mouth region, it could suggest some form of trauma related to the head. It would require further examination by medical professionals for accurate assessment."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in an alleyway, with blood and debris around him. He is wearing camouflage clothing and has blonde hair. There's no information about specific torso injuries from this perspective or context provided by the image."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an injured man lying on his back in an alleyway, with blood and debris around him. He is wearing camouflage clothing and has blonde hair. There's no information about specific lower extremity injuries from this perspective or context provided by the image."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying on its back in an alleyway, with long blonde hair and wearing camouflage clothing that appears to be bloodied from multiple bullet holes. There's no visible sign of arm injuries or amputations."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on the ground with blonde hair and wearing camouflage clothing. The person's head is resting against the wall, but it is not possible to determine whether they have open, closed, or untestable eyes from this perspective alone."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an injured man lying on his back in an alleyway, with blood pouring out from under him onto the ground and down his leg. The severity of his injuries is not clear from this single frame but it appears that he has suffered some significant trauma to his lower body."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258694601258127",
+        "image": "22/0/1726258694601258127.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured mannequin sitting on the ground, leaning against a wall with blood stains visible on its clothing. The mannequin appears to be wearing military fatigues and has one leg amputated at the knee. There is no sign of any people present in this scene."
+                ],
+                "trauma_head": [
+                    "The mannequin in the image is dressed as an injured soldier, with blood on its uniform and helmet. It appears to be sitting or lying down against a wall outside a building. There's no mention of specific head injuries; however, it seems that the mannequin has sustained some form of trauma based on the presence of blood. The overall scene suggests a possible accident or combat scenario involving this individual."
+                ],
+                "trauma_torso": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, indicating that he might have been injured or attacked. However, I cannot confirm if this represents an actual injury to his torso as it's just part of the costume."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, suggesting that he might be portraying an injured soldier or victim. There's no information about his lower extremities being injured; however, based on the image alone, we can only observe him sitting against the wall with one leg bent at the knee. To determine if there are actual injuries to his legs, further examination would be required."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, giving an impression that he might have been wounded during combat. However, no specific details about his arms can be determined from this image alone. The focus seems to be more on the overall appearance rather than individual body parts like arms."
+                ],
+                "alertness_ocular": [
+                    "There is no existence of any facial features in the image information provided. Therefore, it's impossible to determine whether they have open, closed, or untestable eyes from this data alone."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on it, suggesting that he might be portraying an injured or wounded character for some purpose. However, there's no information about any severe injuries to him from this image alone."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258901070790374",
+        "image": "23/0/1726258901070790374.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a person lying on the ground near a building wall. The individual appears to be injured or deceased based on the visible blood stains on their clothing."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in front of a building, with one arm and leg visible above ground level while the other hand is partially submerged under water. The person appears to be wearing camouflage clothing, suggesting they might have been engaged in some outdoor activity or work.\n\nThere's no clear indication that this person has sustained a head injury from the image alone; however, it would require further investigation by medical professionals for confirmation. It seems like someone may need assistance due to being unable to move themselves out of the situation."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in front of a building, with blood visible around him and on his clothing. There is no information about whether he has suffered any torso injuries or not."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an injured man lying on his back in front of a building, with blood visible around him and on his clothing. There is no information about specific lower extremity injuries from this perspective or context provided by the image."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying on its back, with one leg bent and another foot raised off the ground. There appears to be blood around his waist area, suggesting an injury in that region. However, it's not clear if he has any visible arm injuries or amputations from this image alone."
+                ],
+                "alertness_ocular": [
+                    "There is no existence of any facial features in the image information provided. Therefore, it's impossible to determine whether they have open, closed, or untestable eyes from this data alone."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an injured man lying on his back in front of a building, with blood visible around him and coming from one leg. The severity of his injuries is not clear from this information alone but suggests that he may be experiencing significant pain or trauma due to the presence of blood. It's important for someone who has been involved in such an incident to seek medical attention as soon as possible."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726258999280602824",
+        "image": "24/0/1726258999280602824.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin lying on its back with two wooden boards placed across it. The mannequin appears to be lifeless or deceased based on its position and posture."
+                ],
+                "trauma_head": [
+                    "The image shows an injured man lying on his back in front of a gray brick wall, with two wooden boards placed across him and another one near his feet. The man is wearing camouflage pants and has a black hat on his head. There's no visible sign of injury to his face or head from the photo alone. However, it can be inferred that he might have sustained some form of trauma based on the context provided by the text \"injured.\""
+                ],
+                "trauma_torso": [
+                    "The mannequin is lying on its back with two wooden boards placed across it, one horizontally and another diagonally from top to bottom. The mannequin's head has been removed, but no visible torso injuries can be seen in this image."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is lying on its back with two wooden boards placed across it, one horizontally and another diagonally from top to bottom. The mannequin's legs appear to be injured as they have been splinted together using tape. There seems to be blood visible around the area where the leg meets the torso."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying on its back with two wooden boards placed across it, one horizontally and another diagonally from top to bottom. The mannequin's head has been removed, revealing an empty space where it used to be. There appears to be some blood around the area near the neck region, suggesting that this might have been caused by the removal of the head. However, no visible injuries like arm wounds or amputations can be seen in the image."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on the ground with wooden planks placed across them in an X-shape pattern. The person's face is covered by one plank and another plank lies over their body. Their arms can be seen under the crossbar.\n\nAs for whether they have open, closed, or untestable eyes, it would require physical examination to determine this information from the given image alone. However, based solely on what we see here, there isn't enough detail provided about the person's facial features (such as eye color) that could help us make any conclusions regarding their state of consciousness. Therefore, without further context or additional details, it remains unclear if these individuals' eyes are open, closed, or otherwise unobservable due to obfuscation caused by the scene itself."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its back with two wooden boards placed across it, one over each arm and another over both legs. The body appears to be covered in camouflage clothing, suggesting that he might have been dressed for military or hunting purposes. There's no visible sign of severe blood loss from his wounds."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726259067165596876",
+        "image": "24/1/1726259067165596876.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a person lying on the ground covered by wooden planks. The individual appears to be injured or deceased based on the presence of blood stains near them."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in front of a gray brick wall, with one arm and leg visible under some wooden planks that have been placed across them. The person is wearing camouflage clothing, which appears to be blood-stained around the waist area. There's no clear indication of whether they've sustained a head injury or not from this perspective alone. However, given the presence of bloodstains near the waist region, it could suggest potential trauma to other parts of the body. It would require further investigation by medical professionals for a definitive diagnosis regarding possible injuries."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in front of a gray wall, with two wooden boards placed across him and another one near his head. The man is wearing camouflage pants and has blood stains on them. There's no information about whether he has torso injuries or not from this image alone."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an injured man lying on his back in front of a gray wall, with two wooden planks placed across him and another one near his head. The man is wearing camouflage pants that have blood stains around them. There's no information about whether he has suffered from lower extremity injuries or not."
+                ],
+                "trauma_upper_ext": [
+                    "The image shows an injured man lying on his back in front of a gray wall, with two wooden planks placed across him and another one near his head. The man is wearing camouflage pants that have blood stains around them. There's no information about whether he has arm wounds or amputations from this image alone."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on the ground with wooden planks placed across them and over their head. The person's face is covered by one of these wooden planks, making it impossible to determine whether they have open or closed eyes. However, there is no indication that this scene involves any form of violence against the person. It appears as though someone has simply arranged the wood in such a way that the person cannot be seen from certain angles. There is also some blood visible near the feet of the person, but again, without further context, its significance remains unclear."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an injured individual lying on their back in front of a gray wall, with two wooden planks placed across them and another one positioned vertically to form a cross-like structure over their body. The person is wearing camouflage pants that have been stained red from blood or paint. It's not clear if this is a real-life accident or part of some performance art piece. There isn't enough information provided about the severity of injuries sustained by the person for us to determine whether it's severe or not. However, given the presence of visible bloodstains on their clothing, we can assume there might be significant trauma involved. Please note that any further analysis should only be done after consulting medical professionals who could provide accurate assessments based on actual conditions present at the scene."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726259208293927252",
+        "image": "25/0/1726259208293927252.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured mannequin lying on its side against a wall, with one leg missing from below the knee down to the foot. The mannequin is dressed in camouflage clothing and has glasses perched atop its head. It appears that it might have been involved in some sort of accident or mishap as evidenced by the broken leg. There isn't any sign of life around this solitary figure, making the situation even more poignant."
+                ],
+                "trauma_head": [
+                    "The image features an individual wearing glasses and sitting on the ground, leaning against a wall with their legs crossed at the ankles. The person is dressed in camouflage clothing and has one shoe off while holding another shoe in hand. There's no mention or indication of any visible head injury from the provided information."
+                ],
+                "trauma_torso": [
+                    "The mannequin is dressed in camouflage clothing and has an injured leg, but no visible torso injuries."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in camouflage clothing and has one leg amputated, with only its foot visible on the ground. The other leg appears to be missing from the knee down. There's no indication that this represents an actual injury or medical condition for someone else; it seems more like a prop used by the artist."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has an artificial leg, which appears to be broken at its knee joint. There's no mention of arm wounds or amputations on this figure."
+                ],
+                "alertness_ocular": [
+                    "The image shows an injured mannequin lying on its side in front of a building with a window and door visible at either end. The mannequin is dressed in camouflage clothing and has one leg missing from below the knee down to the foot. It appears that someone may have been trying to make it look like they were shot by aiming for the head but missed and hit them instead.\n\nAs for whether the mannequin's eyes are open, closed, or untestable due to being part of a statue, we cannot definitively determine this based solely on the visual information provided. However, given the context of the scene as well as typical representations of statues, it would be reasonable to assume that the mannequin's eyes might not necessarily reflect any specific emotional state since they belong to a non-living object meant to represent something else entirely. Therefore, without further evidence such as close-up images focusing specifically on the mannequin's face area, determining if the mannequin's eyes are open, closed, or untestable remains inconclusive."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin in the image is dressed as an injured soldier, with fake blood on their uniform and bandages wrapped around them to simulate injuries. However, there's no information about whether or not they're actually bleeding heavily from these wounds. The focus seems more on creating a realistic portrayal rather than accurately depicting severe injury."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'wound', 'trauma_upper_ext': 'wound', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726259246763849664",
+        "image": "26/0/1726259246763849664.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an unusual sight of two mannequins, one sitting on the ground with its legs crossed while another is lying down next to it. The mannequin that sits upright has glasses perched atop its head, giving off a somewhat comical appearance.\n\nIn addition to these human-like figures, there are also several wooden planks scattered around them. One plank lies directly behind the seated mannequin, while others can be found further away from both individuals.\n\nA window is visible in the background, providing some context for this strange tableau. However, no other people or objects appear within the frame of the photo. It seems as though we're looking at a solitary moment captured outside somewhere - perhaps during setup for a display or performance involving these mannequins."
+                ],
+                "trauma_head": [
+                    "The image shows an individual wearing glasses and sitting on the ground, leaning against a wall with their legs stretched out in front of them. There is no mention of any visible signs or symptoms related to injury such as bleeding or swelling around the head area. The focus seems more on the attire and position rather than health concerns."
+                ],
+                "trauma_torso": [
+                    "The mannequin is wearing glasses and has an injured leg, but no visible torso injuries."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is wearing glasses and has one shoe on its foot, indicating that it might have suffered some injury or damage to its leg. However, without further information about the specific nature of these injuries, we cannot definitively conclude whether they involve the lower extremities. The image does not provide enough detail for us to make an accurate assessment regarding this aspect."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has an arm wound, but no visible amputation. It appears to be sitting on the ground with its legs crossed."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual with glasses and long hair sitting on the ground next to a wooden board. The person's eyes appear to be open as they look towards something off-camera. However, it is not possible for me to determine whether the person has any other visible features such as facial expressions or clothing details from this particular angle and perspective."
+                ],
+                "severe_hemorrhage": [
+                    "There is no existence of any injuries or blood in the image descriptions, so it's misleading to ask about severe bleeding without context. The mannequin appears to be sitting on the ground with its legs crossed and wearing glasses."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726259283387628722",
+        "image": "27/0/1726259283387628722.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin lying on its side against a wall with an open box next to it. The mannequin appears lifeless or injured based on how they're positioned."
+                ],
+                "trauma_head": [
+                    "The mannequin is lying on its side, with one arm and leg bent at an angle while the other hand rests near its face. The mannequin's head appears to be resting against the wall or ground, but it does not appear that they have sustained any visible head injuries from this position."
+                ],
+                "trauma_torso": [
+                    "The mannequin is lying on its side, with one arm and leg bent at an angle while the other hand rests near its head. There's no visible sign of injury to the torso or face in this image. The mannequin appears lifeless against the backdrop of the concrete wall."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is lying on its side, with one arm and leg bent at an angle while the other hand rests near its head. There's no visible sign of injury or trauma to either upper or lower extremities in this image. The mannequin appears lifeless against the backdrop of the concrete wall and asphalt ground."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying on its side, with one leg bent and another foot raised in the air. There's no visible sign of an arm wound or amputation. The mannequin appears to be wearing sunglasses, which might suggest that it was placed outside during daylight hours for visibility purposes."
+                ],
+                "alertness_ocular": [
+                    "The mannequin is lying on its side with one arm bent at an angle and the other stretched out in front of it. The head is tilted to the left as if looking up towards something off camera. It's difficult to determine whether they have any facial features because there isn't enough detail visible from this perspective; however, we can assume that since it appears lifeless like most mannequins do without further context provided about what might be happening around them."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its side, with one arm and leg bent at an angle while the other hand rests near their face. There's no visible sign that suggests severe blood loss or injury from the image alone. However, it could be inferred based on context if there were any additional information about the scene. The mannequin appears to have been placed in this position intentionally for some purpose related to art, photography, or modeling."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726259343130828987",
+        "image": "27/1/1726259343130828987.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an artificial mannequin lying on its side against a wall, with blood stains visible on it. The mannequin is wearing sunglasses and has one hand raised as if reaching out for something or someone nearby. There is no sign of any other people present in this particular frame."
+                ],
+                "trauma_head": [
+                    "The mannequin is lying on its side, with blood stains visible on it and around it. It appears to have suffered some sort of trauma or injury that has caused bleeding from various parts of its body. The presence of multiple bloodstains suggests that this might be an ongoing situation where the mannequin was injured at different points in time.\n\nThere's no clear indication whether the mannequin sustained a head injury; however, given the overall scene, one could infer that the mannequin may have experienced severe impact during the incident(s) leading up to these events. This interpretation would require further investigation into the specific circumstances surrounding the mannequin's condition."
+                ],
+                "trauma_torso": [
+                    "The mannequin is lying on its side, with blood stains visible on it and around it. There's no information about torso injuries in this image."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is lying on its side, with one arm and leg bent at an angle while the other hand rests near its head. There's no visible sign of injury or trauma to either upper or lower extremities in this image. The mannequin appears lifeless against the backdrop of the concrete wall."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying on its side, with one hand and foot raised in the air as if it were trying to get up but couldn't make it. There's no evidence of an arm wound or amputation from this image alone. The mannequin appears to be wearing camouflage clothing, which could suggest that they might have been involved in some sort of military activity or mission before being left behind. However, without additional context, we cannot definitively determine what happened to them."
+                ],
+                "alertness_ocular": [
+                    "The mannequin is lying on its side with an arm outstretched and one leg bent at the knee. The head is tilted to the left as if looking up towards something off camera. There's no discernible facial expression from this angle but it appears that they might be wearing sunglasses given how dark the lenses appear against the light source coming in through the top right corner of the image."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its side, with blood stains visible on it and around it. It appears to be in distress or injured due to these marks. However, there's no information about how severe their injuries might be from this image alone. The presence of multiple bullet holes suggests that the mannequin has been shot at several times, but again, we cannot determine if any vital organs were hit without further medical expertise."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253536992221181",
+        "image": "3/0/1726253536992221181.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured mannequin lying on its side, with blood coming out of it from various places like the head, chest, stomach, legs, and feet. The mannequin is wearing military fatigues and has boots on both feet. It appears to be in distress or possibly deceased due to the injuries sustained. There is another mannequin standing nearby, but only partially visible as they appear behind some foliage."
+                ],
+                "trauma_head": [
+                    "The image shows an injured man lying on his side in front of a fence, with blood visible around him and from his mouth. He is wearing camouflage clothing and has a helmet on his head. There's no mention of specific head injuries but it can be inferred that he might have sustained some form of trauma due to the presence of blood."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured mannequin lying on its side in camouflage clothing, with fake blood around it and a box nearby that has QR codes on it. There is no mention of torso injuries in the given information about the image."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in military fatigues and has an injured head, which may be due to trauma or injury from combat activities. There's no specific mention about lower extremities but it can't be ruled out that he might have some injuries as well given his overall condition."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has an injury on its right leg, which appears to be bleeding from a wound near the knee area. There's no mention of arm injuries or amputations."
+                ],
+                "alertness_ocular": [
+                    "The image shows an injured mannequin lying on its side in camouflage clothing with fake blood around it and next to a white box that has two black squares printed on each side. The mannequin's head is resting against a fence while another mannequin stands behind it near some trees. There is no information about whether the mannequin's eyes are open, closed, or if they can be tested for any condition."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its side, with blood pouring out from multiple wounds in various parts of their body. The severity of these injuries suggests that this individual might be experiencing severe trauma and could potentially require immediate medical attention to prevent further harm or loss of life. It's crucial for anyone encountering such an emergency situation to call for professional help immediately."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'wound', 'trauma_upper_ext': 'wound', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253700117884508",
+        "image": "3/1/1726253700117884508.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured mannequin sitting on grass next to a white box with black text that reads \"9\". The mannequin is wearing military fatigues, boots, and has a helmet on its head. It appears to be wounded or injured as it sits on the ground near some trees. There is no sign of any other people present in this scene."
+                ],
+                "trauma_head": [
+                    "The mannequin is dressed in military fatigues and has a helmet on its head, suggesting it might be used for training purposes or as part of an exhibit related to the military. There's no visible sign of injury like a head wound from this image alone. However, given that he appears injured with bloodied clothing, one could infer some form of trauma occurred prior to him being placed here. The box next to him also bears a number \"9\" which may have significance but without further context, it remains unclear what exactly represents."
+                ],
+                "trauma_torso": [
+                    "This is an injured mannequin in military fatigues sitting on grass next to a white box with black lettering and symbols. There seems no torso injury, but he has some wounds around his legs."
+                ],
+                "trauma_lower_ext": [
+                    "This is an injured mannequin in military fatigues sitting on grass next to a box with a white square and black lettering that says \"9\". The mannequin has visible wounds, including two large gashes across its chest area and another one near its right eye. It also appears to have lost some skin from both legs below the knee. There's no information about whether this individual had any other injuries or if they were wearing protective gear at the time of their injury. However, based on the visible wounds, it seems likely that they sustained significant trauma during whatever event led them to be in this condition."
+                ],
+                "trauma_upper_ext": [
+                    "This is an injured mannequin in military fatigues, sitting on grass next to a white box with black lettering and symbols. There appears to be some blood around his legs but no visible arm injuries or amputations."
+                ],
+                "alertness_ocular": [
+                    "The mannequin is sitting on grass with its legs spread apart and arms resting at its sides. It has an injured leg that appears to be bleeding from multiple wounds. The mannequin's head is slightly tilted back as if it were looking up towards something out of frame. Its mouth is wide open in what could either be a scream or just another part of the display. There isn't any discernible facial expression other than those injuries which suggest pain or distress.\n\nIts eyes are not visible due to being covered by goggles worn over them; however, they appear to be open given how light reflects off them when viewed from certain angles. This combination creates quite an eerie scene - especially considering there aren\u2019t many people around during daylight hours!"
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is dressed in military fatigues and has several fake bullet wounds on its torso, arms, legs, and head. It also appears to have blood coming out from some of these injuries. The severity of the injuries cannot be determined without further examination or context. However, given that there are multiple visible wounds with simulated blood, it can be inferred that the mannequin might represent someone who was involved in an accident or combat situation where severe physical harm occurred."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'wound', 'trauma_upper_ext': 'wound', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253735684346391",
+        "image": "4/0/1726253735684346391.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a person lying on the ground with blood around them. They appear to be injured or dead due to the presence of blood near their body. The surrounding area includes grassy fields and power lines, suggesting an outdoor setting such as a park or field."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in a grassy area, with trees and power lines visible in the background. The person is wearing a plaid shirt and has short hair. There's no indication that they have suffered from a head injury based solely on this visual information. However, it should be noted that without additional context or medical examination, we cannot definitively determine if the person has sustained any injuries at all."
+                ],
+                "trauma_torso": [
+                    "The image shows an individual lying on their back in a grassy area, with blood visible around them and on their clothing. The presence of multiple bullet wounds indicates that they have been shot several times. There is no information provided about whether this person has suffered from torso injuries or not."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an individual lying on their back in a grassy area, with blood visible around them and near one shoe. The person is wearing black pants and has blonde hair. There's no information about specific lower extremity injuries from this perspective or resolution."
+                ],
+                "trauma_upper_ext": [
+                    "The image shows an individual lying on their back in a grassy area, with trees and power lines visible in the background. The person is wearing a plaid shirt that appears to be torn open at the chest area, revealing some bloodstains underneath it. There's no clear indication of arm injuries or amputations from this perspective."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying face down on grass with blood visible around them and near their head. The presence of multiple people in the background suggests that this scene might be part of some event or activity involving these individuals. However, there is no information provided about whether they have any injuries or if anyone has been attacked.\n\nAs for the question regarding eye status, it's not possible to determine from the given information as we cannot see the person's face directly. Therefore, I can't confidently say whether their eyes are open, closed, or even testable without further context or visual evidence."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an individual lying on their back in a grassy area, with blood visible around them and pooling at one end of their body. The presence of multiple bullet wounds indicates that this is likely not a natural death or accident but rather due to violence. However, without further context such as medical examination results, it's impossible to determine if these injuries were fatal or how severe the bleeding was before intervention. It would be important for first responders or healthcare professionals to assess the situation quickly upon arrival given the potential severity of the injuries."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253786482275148",
+        "image": "4/1/1726253786482275148.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin lying on its back with blood stains on it. It appears to be dead or injured due to the presence of bloodstains. The sky above is clear blue without any clouds, suggesting that this might have happened during daytime when visibility was good for anyone passing by."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying face down on grass, with their body covered in blood and clothing stained red from it. The person is wearing black pants and has white shoes on. There's no indication that they have suffered a head injury or other visible trauma to the upper part of their body. However, given the amount of blood present, this could be indicative of internal bleeding not immediately apparent. It would require further investigation by medical professionals to determine if such injuries exist."
+                ],
+                "trauma_torso": [
+                    "The mannequin is lying face down on grass with blood stains on its back and side, indicating possible torso injuries or trauma to that area. The image does not provide enough detail about specific injuries but suggests potential harm in those areas."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is lying face down on grass with blood stains visible on its back and side, indicating possible upper body or torso injuries. There's no information about lower extremities in this image."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying face down on grass with blood stains visible on its back and side, indicating possible injuries to those areas. There's no mention of arm wounds or amputations in the image information provided."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying face down on grass with blood visible on them and in front of them. The person's head is tilted to one side as if they have been struck by something. Their mouth is slightly agape, suggesting that they might be gasping for air.\n\nAs there is no clear view of the person's eyes from this angle, it would not be possible to determine whether they were looking up at someone else when hit or had already passed away due to the impact. However, given the circumstances described here - being facedown with blood around them - it seems likely that some sort of violent incident has occurred. It could also suggest that medical assistance may be required immediately. \n\nPlease note that these interpretations should only serve as general observations based on the provided information; any definitive conclusions about what happened require further investigation into the scene itself."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying face down on grass, with blood visible around its torso and hands. It appears to be in distress or injured due to the presence of blood. However, it's important not to assume that this represents real-life violence; these photos were taken as part of an art project by photographer Kaitlyn Ham. The mannequin was placed outdoors for several days during summer heatwaves, resulting in the appearance of sweat and dirt on its skin. This image does not depict any actual crime scene but rather serves as a commentary on human behavior and societal norms surrounding death and decay."
+                ],
+                "value-dict": "{}`"
+            }
+        ]
+    },
+    {
+        "id": "1726253854251025118",
+        "image": "4/2/1726253854251025118.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin lying on its back with blood stains on it. It appears to be dead or injured due to the presence of bloodstains. The sky above is clear blue without any clouds, suggesting that this might have happened during daytime when visibility was good for anyone passing by."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying face down on grass, with their feet pointing towards us and hands facing away from us. The person is wearing black pants and has white shoes on both feet. There's no visible sign of injury or trauma to the head in this particular frame. However, it should be noted that the scene could change rapidly due to its nature as a live-action film set for \"Deadpool.\""
+                ],
+                "trauma_torso": [
+                    "The image shows an individual lying face down on grass, with their head and feet visible but not much else. There is no information about torso injuries in this context. The focus seems to be more on the location (a park) rather than specific details like injuries or clothing."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an individual lying face down on grass, with their head resting in a puddle and blood visible around them. The person is wearing black pants and gray shoes. There's no information about specific lower extremity injuries from this perspective or context provided by the image."
+                ],
+                "trauma_upper_ext": [
+                    "The image shows an individual lying face down on grass, with their head resting in a puddle and blood visible around them. There is no mention of arm wounds or amputations in the given information about the image."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying face down on grass with blood visible on them and in front of them. The person's head is covered by clothing that has been ripped off from one side to another. Their mouth appears to be slightly agape as if they were screaming before dying.\n\nThere isn't enough information provided about this specific scene to determine whether the person was alive at the time when these photos were taken. However, given the presence of blood and the manner in which the body lies, it can be inferred that there might have been some sort of violent incident leading up to this point. It would require further investigation into the circumstances surrounding the death for more definitive conclusions regarding the cause of death and any potential suspects involved."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an individual lying face down on grass, with their head and feet pointing in opposite directions. The person is wearing black pants and has white shoes. There's no visible sign that suggests severe blood loss or injury from the photo alone. However, it would be inappropriate to make assumptions about the severity of any injuries without further information or context. It could simply mean someone taking a rest break during outdoor activities like hiking or running."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253913383883104",
+        "image": "4/3/1726253913383883104.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin lying on its back with blood stains on it. It appears to be dead or injured due to the presence of bloodstains. The location seems to be an outdoor area near some trees under clear blue skies."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in a grassy area, with blood visible around them and on their clothing. The presence of blood suggests that they may have suffered some kind of injury or trauma. However, it is not clear from this single frame whether they have sustained a head injury or other types of wounds. Further information would be needed to make such determinations accurately."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in a grassy area, with blood visible around him and on his shirt. There is no information about specific torso injuries from this perspective or context provided by the image."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an injured man lying on his back in the grass, with blood visible around him and on his shirt. There is no information about specific lower extremity injuries from this image alone."
+                ],
+                "trauma_upper_ext": [
+                    "The image shows an individual lying on their back in a grassy field, with blood visible around them and on some parts of their body. There is no mention of specific injuries like arm wounds or amputations; however, it's clear that they have suffered from trauma based on the presence of blood. The scene appears to be set outdoors during daytime under blue skies."
+                ],
+                "alertness_ocular": [
+                    "There is no existence of eye status in any image information provided."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its back in the grass, with blood visible around their head and upper body area. It's not clear from this image alone whether it represents severe or minor injuries. However, given that there appears to be some amount of blood present, one could infer that the individual might have suffered an injury requiring medical attention. The severity would depend upon further details about the situation."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726253941040200600",
+        "image": "5/0/1726253941040200600.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a man lying on his back with blood around him. He appears to be injured or dead based on the presence of blood near his head. The sky above him suggests it might have been sunny when this occurred. There isn't any text visible within the image that could provide more context about who he may be or how he got into such a situation. It seems like an emergency scenario where medical help would need to arrive as soon as possible due to the severity of the injuries."
+                ],
+                "trauma_head": [
+                    "The image shows an injured individual lying on their back in a grassy area, with blood visible around them and on their clothing. The person is wearing camouflage pants and white shoes. There's no mention of specific head injuries; however, it can be inferred that they have sustained some form of trauma based on the presence of blood."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in the grass, with blood visible around him and on his clothing. There is no information about specific torso injuries from this perspective or context provided by the image."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an injured man lying on his back in the grass, with blood visible around him and on his clothing. He is wearing white shoes and has a helmet near his head. There seems to be no sign of life from this individual as he appears unconscious or dead. The scene suggests that it might have been caused by some sort of accident or violence. However, without further context, we cannot determine if these injuries were inflicted intentionally or accidentally. It's important for anyone encountering such situations to call emergency services immediately."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying on its back in the grass, with one leg bent at an angle and another foot slightly raised off the ground. There appears to be blood around his legs, suggesting that he may have suffered injuries from combat training exercises. However, it's not clear if this indicates actual amputation or just simulated damage for training purposes. The image does not provide enough detail about other parts of the body like arms to determine whether they were wounded or amputated."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on grass with bloodstained clothing and shoes. The person's head is resting on his arm, which suggests that he might be in distress or unconscious. However, it is not possible to determine whether they have open, closed, or untestable eyes from this perspective alone as we cannot see their face clearly."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its back in the grass, with blood pouring out from under his head onto the ground and down to his feet. The scene appears quite dramatic due to the large amount of blood visible around him. However, it's important to note that this image may be disturbing for some viewers. If you're uncomfortable viewing such content or have any concerns about your mental health, please seek help from a professional counselor or therapist. Remember, there's no shame in seeking support when needed."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254000161967257",
+        "image": "5/1/1726254000161967257.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured man lying on his back, with blood visible around him. He is wearing camouflage clothing and appears to be unconscious or dead. The location of this incident seems to be outdoors near some trees under clear blue skies. There is no sign of any other people present in the photo. It could possibly indicate that he has been involved in some kind of accident or altercation. However, without additional context it's hard to determine exactly what happened."
+                ],
+                "trauma_head": [
+                    "The image shows an injured man lying on his back in a grassy area, with blood visible on him and around his face. He is wearing military fatigues and has white shoes. There appears to be some sort of injury or trauma to his head as well. The scene takes place outdoors under clear blue skies."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in grass, with blood visible on him and around his head. There is no information about torso injuries."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is lying on its back in the grass, with blood stains visible on it and around it. There appears to be an injury near one leg that could potentially cause lower extremity problems or even amputation if not treated promptly. The mannequin's position suggests he might have been involved in some sort of accident or altercation. It would require medical attention for proper evaluation and treatment."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying on its back in the grass, with blood stains visible across his body and face. There's no indication that he has an arm wound or amputation."
+                ],
+                "alertness_ocular": [
+                    "The image shows an injured man lying on his back in grass with blood visible on him and around his head. The text \"E.T.\" is also present near the body. However, there's no information about whether he has any eye conditions like being blindfolded or not. So we can't determine if his eyes are open, closed, or testable based solely on this image."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its back in the grass, with blood stains visible on it and around it. It appears to be wearing military fatigues and has white shoes. The scene suggests that there might have been an accident or some kind of violent incident involving this individual. However, without more context, we cannot determine if the injuries sustained by the mannequin were severe enough for them to bleed profusely."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254243648443738",
+        "image": "6/0/1726254243648443738.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured man lying on his back, with blood visible around him. He is wearing camouflage clothing and appears to be unconscious or dead. The location of this incident seems to be outdoors near some trees under clear blue skies. There is no sign of any other people present at the time of the photo being taken. It can also be inferred that he might have been involved in some sort of accident or altercation based on the presence of blood. However, without additional context, it remains unclear as to exactly how he came to be in such a state."
+                ],
+                "trauma_head": [
+                    "The image shows an injured man lying on his back in a grassy area, with blood visible around him and on his clothing. He is wearing camouflage pants and boots, suggesting he might be military personnel or associated with some form of outdoor activity. There's no mention of specific head injuries; however, it can be inferred that due to the presence of blood, this individual may have sustained trauma during an event or accident. The scene appears to take place outdoors under clear blue skies, indicating daylight conditions."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in grass, with blood visible around him and on his clothing. There is no information about specific torso injuries from this perspective or context provided by the image."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an injured man lying on his back in grass, with blood visible around him and near his head. There is no information about specific lower extremity injuries from this perspective or context provided by the image."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying on its back in the grass, with visible blood stains and bullet holes scattered across his body. There's no mention of an arm wound or amputation."
+                ],
+                "alertness_ocular": [
+                    "Based on the image alone, it is not possible to determine whether the mannequin's eyes are open, closed, or if they can be tested at all. The image only shows the mannequin lying in the grass with blood stains and bandages around its head. To make such an observation, one would need additional information about the condition of the mannequin's face or access to medical equipment that could test for consciousness. Therefore, any assumptions made without further evidence would be speculative."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its back in the grass, with blood stains visible on it and around it. It appears to be wounded or injured but not necessarily bleeding heavily at this moment. The severity of the injury cannot be determined from the image alone."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254282970009760",
+        "image": "6/1/1726254282970009760.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an individual lying on grass, appearing to be unconscious or dead. The person is dressed in camouflage clothing with white shoes. There is no sign of life from this figure, suggesting that they might have suffered some form of trauma or injury.\n\nIn addition to the main subject, there are several cars parked nearby, possibly indicating a parking lot or street where the incident took place. A bus can also be seen further away, adding more context to the location.\n\nThere seems to be a box placed near the person as well, but its purpose isn't clear without additional information about the setting. Overall, it appears like a distressing situation involving someone who has fallen ill or been injured outside amidst everyday vehicles."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in a grassy area, with trees and cars visible in the background. The person is wearing camouflage pants and white shoes. There's no indication that they have sustained any head injury or trauma from the scene itself. However, it appears as if someone has drawn blood onto them using red paintbrushes. This could be interpreted as either artistry or vandalism depending on context. It seems like this might not be a typical outdoor setting for such activity but rather something more unusual happening here."
+                ],
+                "trauma_torso": [
+                    "The mannequin is lying on its back in camouflage clothing, with visible blood stains and shoes. There's no information about torso injuries from the image alone."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is lying on its back in camouflage clothing, with one shoe visible and another foot raised slightly off the ground. There's no mention of specific injuries to either leg or foot. However, it appears that he might have been involved in some sort of accident based on his position and surroundings. The scene suggests an outdoor setting where vehicles can be seen parked nearby. It could also indicate a possible crime scene investigation due to the presence of police cars."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is lying on its back in camouflage clothing, with one shoe visible and another missing from its foot. There appears to be blood around it, but no specific details about arm wounds or amputations can be determined based solely on this image."
+                ],
+                "alertness_ocular": [
+                    "There is no existence of any facial features in the image information provided. Therefore, it's impossible to determine whether they have open, closed, or untestable eyes from this data alone."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its back in camouflage clothing, with one shoe off and another foot raised slightly above it. There appears to be some blood around his head area, but there's no clear indication that he has suffered severe injuries or trauma from which this blood might have originated. The presence of the box next to him suggests an artistic installation rather than a real-life scenario involving injury or death."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254358699718528",
+        "image": "7/0/1726254358699718528.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin lying on its back in the grassy field with power lines visible behind it against a blue sky dotted with clouds. The mannequin appears to be lifeless or at rest as if someone has placed it there for display purposes."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in a grassy field, with power lines visible behind them and trees to one side. The person is wearing jeans and has dark hair that covers most of their face. There's no indication of injury or trauma from the photo alone."
+                ],
+                "trauma_torso": [
+                    "The image shows an individual lying on their back in a grassy field, with power lines visible behind them and trees to one side. The person is wearing jeans and has short hair. There's no indication that they have suffered from torso injuries based on this information alone."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an individual lying on their back in a grassy field, with power lines visible behind them and trees to one side. The person is wearing red clothing and has dark hair. There's no indication that they have suffered from any lower extremity injuries based on this information alone."
+                ],
+                "trauma_upper_ext": [
+                    "There is no existence of injuries, such as arm wounds or amputations in the image information provided. The mannequin appears to be lying on its back with arms and legs spread out, but it's not described as having any visible signs of trauma."
+                ],
+                "alertness_ocular": [
+                    "The image shows a mannequin lying on its back in an outdoor setting with power lines and trees visible behind it. The mannequin's head is tilted to one side as if looking up at something out of frame.\n\nAs for whether the mannequin has open, closed, or untestable eyes, we cannot determine this from the given information about the image content alone. We would need additional context or visual cues within the image itself to make that determination. However, since mannequins typically have fixed features like glass eyes, they do not possess the ability to blink or close their eyes naturally. Therefore, unless there was some external intervention (e.g., someone closing them), the mannequin's eyes should be considered \"closed\" by default due to being stationary and non-moving."
+                ],
+                "severe_hemorrhage": [
+                    "There is no existence of any injuries or blood in the image information, so it's misleading to ask about severe bleeding. The mannequin appears relaxed and at ease as he lies on his back in the grassy field under an open sky with power lines visible above him."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254398698326718",
+        "image": "7/1/1726254398698326718.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a mannequin lying on its back in the grassy area of the park. The mannequin appears to be lifeless or deceased as it lies motionless with no visible signs of movement. Its position suggests that someone might have placed it there for some reason, possibly as part of an art installation or performance piece. However, without further context, we cannot determine the exact purpose behind this placement."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in a grassy area, with trees and power lines visible in the background. The person is wearing jeans and has short hair. There's no indication that they have suffered from a head injury or any other type of trauma based solely on this visual information. However, it would be important to note that without additional context such as medical history or symptoms, we cannot definitively determine if someone might need medical attention for potential health issues. It's always best practice to seek professional help when needed."
+                ],
+                "trauma_torso": [
+                    "There is no existence of any injury, especially to the torso in the image information provided. The mannequin appears healthy and intact as it lies on its back in the grassy area."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an individual lying on their back in a grassy area, with trees and power lines visible in the background. The person is wearing jeans and has short hair. There's no indication that they have suffered from any lower extremity injuries based on this information alone. However, it would be important to note if such injuries were present or mentioned elsewhere for further context."
+                ],
+                "trauma_upper_ext": [
+                    "There is no existence of injuries, such as arm wounds or amputations in the image information provided. The mannequin appears to be lying on its back with arms and legs spread out, but it's not described as injured."
+                ],
+                "alertness_ocular": [
+                    "The image shows an individual lying on grass with trees in the background and power lines visible above them. The person is wearing jeans and has short hair. It's difficult to determine whether they have glasses as it depends on how close one looks at the photo. Their position suggests that they might be resting or taking a break from walking around. However, without additional context such as facial features or actions, we cannot definitively say if this person is alive or not."
+                ],
+                "severe_hemorrhage": [
+                    "There is no existence of any injuries or blood in the image information, so it's misleading to ask about severe bleeding. The mannequin appears to be lying on its back with arms and legs spread out, but there isn't enough detail provided for us to determine if this represents an injury situation."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254445189709593",
+        "image": "8/0/1726254445189709593.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a person lying on the ground near some trees. The individual appears to be injured or unconscious as they have blood coming from one of their wounds. They also seem to be wearing military fatigues, suggesting that they might be an active-duty soldier or veteran."
+                ],
+                "trauma_head": [
+                    "The image shows an injured individual lying on their back in a grassy area, with one arm and leg bent at odd angles. The person is wearing camouflage clothing and has a helmet on their head. There appears to be blood visible around the mouth region, suggesting possible facial trauma or injury. However, it's important to note that this information should not be used for medical diagnosis purposes but rather as a general observation based on the provided image. If you suspect someone might have been involved in an accident or requires immediate assistance, please call emergency services immediately."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured individual lying on their back in a grassy area, with one arm and leg visible. The person is wearing camouflage clothing and has a helmet on their head. There seems to be no sign of injury or trauma to the torso from the provided information. However, it's important to note that this analysis is based solely on what can be seen within the frame of the photo. Any further conclusions about potential injuries would require additional context or medical examination by trained professionals."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an injured individual lying on their back in a grassy area, with one arm and leg visible. The person is wearing camouflage clothing and has a helmet on their head. There's no information about specific lower extremity injuries from this perspective or the overall health status of the person. It would be inappropriate to speculate further without more context or medical expertise."
+                ],
+                "trauma_upper_ext": [
+                    "The image shows an injured individual lying on their back in a grassy area, with one hand raised above them and another resting near their face. The person is wearing camouflage clothing and has visible injuries to both arms, including what appears to be an amputation at the wrist level. There's also blood present around some parts of their body."
+                ],
+                "alertness_ocular": [
+                    "The image shows an injured individual lying on grass in front of a fence with trees and buildings visible behind it. The person is wearing camouflage clothing and has a bandage wrapped around one arm. Their head is covered by a blue cloth.\n\nAs for whether they have open, closed, or untestable eyes, there's no information available to determine this from the given details about the scene. It would be inappropriate to make assumptions without further context or evidence."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an injured individual lying on their back in a grassy area, with blood visible around them and from one arm. The severity of the injuries is not specified but it can be inferred that there might have been some sort of accident or incident leading to these wounds."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254486220381273",
+        "image": "8/1/1726254486220381273.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows an injured man lying on his back, wearing military fatigues with blood visible around him. He is surrounded by grass near a fence. There seems to be another individual standing behind this fence who appears to have a baseball cap on. The sky above them is clear blue without any clouds."
+                ],
+                "trauma_head": [
+                    "The image shows an injured man lying on his back in front of a fence, with one arm raised and another hand near his mouth as if he is trying to scream for help or call out something important. He appears to be wearing military fatigues, suggesting that he might have been involved in some sort of conflict or combat situation.\n\nThere's no visible sign of a head injury from this angle; however, it could not be ruled out without further inspection. The scene also includes two other people standing behind him - one closer to the camera while the other stands farther away by the fence. Their presence adds context to the overall narrative but does not provide additional details about their roles within the setting."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in camouflage clothing, with blood visible around him and on his face. There is no information about torso injuries provided in this question."
+                ],
+                "trauma_lower_ext": [
+                    "The mannequin is dressed in camouflage clothing and lying on its back with an arm raised above it, as if reaching out for help or trying to protect itself from something. There's no visible injury on his face but he appears injured around his waist area where blood can be seen pooling underneath him. The image does not provide enough information about whether this individual has suffered any lower extremity injuries."
+                ],
+                "trauma_upper_ext": [
+                    "The mannequin is dressed in camouflage clothing and has fake blood on its face, chest area, and hands to make it look like he's been wounded. There isn't an explicit mention of arm wounds or amputations but based on his attire and injuries, one can assume that they might be present as well."
+                ],
+                "alertness_ocular": [
+                    "The image shows an injured man lying on his back in camouflage clothing with fake blood around him and a blue bag over his head. The man's face is covered by the bag, making it impossible to determine whether he has any visible injuries such as cuts or bruises. His mouth appears slightly agape, but without further information about his facial features, we cannot confidently say if his eyes are open, closed, or otherwise obscured."
+                ],
+                "severe_hemorrhage": [
+                    "The mannequin is lying on its side in camouflage clothing, with blood visible around it and from its mouth. It appears to be injured or deceased due to the presence of blood. However, there's no information about how severe their injuries might be."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    },
+    {
+        "id": "1726254591864491484",
+        "image": "9/0/1726254591864491484.png?raw=true",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "Yes, there is a person lying on the ground within an enclosed area made of netting material. The individual appears to be injured or incapacitated as they have blood stains visible near them."
+                ],
+                "trauma_head": [
+                    "The image shows an individual lying on their back in a grassy area, surrounded by black netting that is supported by metal poles and crossbars. The person appears to be wearing a baseball cap with \"g\" printed on it. There's no visible sign of injury or trauma on the person's face. However, they do have blood stains on their shirt, which could indicate some form of physical altercation or accident. It seems like this scene might involve a crime investigation as the presence of the police officer nearby suggests law enforcement involvement."
+                ],
+                "trauma_torso": [
+                    "The image shows an injured man lying on his back in front of a black netting fence, with trees and cars visible behind him. The man is wearing a red shirt and has blood stains on it. There's no information about whether he has torso injuries or not from this image alone."
+                ],
+                "trauma_lower_ext": [
+                    "The image shows an elderly man lying on his back in a grassy area, with one hand and foot slightly raised above him. He is wearing a red plaid shirt and black baseball cap. There's no visible injury to either leg or feet from this angle. The scene appears peaceful as he lies under a netted structure outdoors during daylight hours."
+                ],
+                "trauma_upper_ext": [
+                    "The image shows an individual lying on their back in a grassy area, surrounded by black netting that is supported by metal poles and crossbars. The person appears to be wearing a baseball cap with \"g\" printed on it. There's no visible sign of injury like arm wounds or amputation from the provided information."
+                ],
+                "alertness_ocular": [
+                    "There is no existence of any facial features in the image information provided, so it's impossible to determine whether they have open, closed, or untestable eyes."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows an elderly man lying on his back in a grassy area, with one hand and foot slightly raised off the ground. He is wearing a red plaid shirt and black baseball cap. There's no visible sign that he has been injured or is bleeding from any part of his body. The scene appears to be outdoors during daytime under clear skies."
+                ],
+                "value-dict": "{'trauma_head': 'absence', 'trauma_torso': 'absence', 'trauma_lower_ext': 'absence', 'trauma_upper_ext': 'absence', 'alertness_ocular': 'closed', 'severe_hemorrhage': 'absence'}"
+            }
+        ]
+    }
+]
