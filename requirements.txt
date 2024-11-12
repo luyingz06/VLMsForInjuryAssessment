@@ -7,3 +7,4 @@ dashscope
 pillow
 dotenv-python
 google-generativeai
+progress.bar
