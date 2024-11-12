@@ -1,0 +1,1031 @@
+[
+    {
+        "id": "1726253057910063264",
+        "image": "0/0/1726253057910063264.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a man lying on the grass, possibly dead or injured, with a box nearby. He is wearing a military uniform, and there is a fence in the background.",
+                "trauma_head": "The scene shows a man sitting on the grass in a fenced-in area, possibly a park. He is wearing a military uniform and has a head injury, which appears to be a bullet wound. The man is also holding a cell phone in his hand. The presence of the bullet wound suggests that he might have been involved in a conflict or an accident.",
+                "trauma_torso": "The scene features a man wearing a military uniform, sitting on the grass in a park. He is positioned next to a box, which appears to be a white cooler. The man has a visible torso injury, which is described as a bullet wound. This suggests that he might have been involved in a conflict or an accident that led to his injury. The presence of the military uniform and the bullet wound indicate that the man could be a soldier or a person with a military background.",
+                "trauma_lower_ext": "The scene features a man wearing a military uniform, sitting on the grass with a box nearby. He appears to be injured, as he has a missing leg. The man is also wearing a helmet, which suggests that he might be a soldier or a veteran. The presence of the box and the man's military attire indicate that he might be in a military setting or a memorial area.",
+                "trauma_upper_ext": "The scene features a man wearing a military uniform, sitting on the grass in a park. He is holding a cell phone in his hand. The man appears to have a missing arm, which suggests that he might be an amputee or have experienced an injury that resulted in the loss of his arm. The presence of a cell phone in his hand indicates that he is able to use it despite his injury, showcasing adaptability and resilience.",
+                "alertness_ocular": "The scene features a man wearing a military uniform, lying on the grass with his eyes closed. He appears to be in a relaxed position, possibly resting or taking a break. The man is not responsive, as he is not looking at the camera or showing any signs of awareness. The setting includes a fence in the background, and there is a suitcase nearby, which might be related to the man's military duties or personal belongings.",
+                "severe_hemorrhage": "In the image, a man is sitting on the grass with a box nearby. He appears to be bleeding severely, as there is blood on the ground around him. The scene is quite dramatic and concerning, as the man's condition seems to be quite serious. It is important to note that the presence of a box in the scene might be unrelated to the man's condition, but it adds to the overall atmosphere of the image.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'open'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258511787907725",
+        "image": "20/0/1726258511787907725.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a mannequin sitting on the ground next to a box. The mannequin appears to be in a damaged or destroyed condition, with its head missing and its body possibly broken. It is placed on the sidewalk, giving the impression of a discarded or abandoned object.",
+                "trauma_head": "The scene features a person sitting on the ground with a box nearby. The person has a head injury, specifically a bullet wound, which is visible on their head. The presence of the box and the person's condition suggest that this might be a staged or dramatic scene, possibly for a movie or a performance.",
+                "trauma_torso": "The scene features a person, possibly a dummy or a mannequin, sitting on the ground with a box nearby. The person has a stab wound in their torso, which adds a dramatic and unsettling element to the scene. The presence of the box and the person's position on the ground create a sense of mystery and intrigue, as it is not common to see a person with a stab wound in such a setting.",
+                "trauma_lower_ext": "The scene features a person, possibly a dummy or a mannequin, sitting on the ground with a box nearby. The person has a missing leg, which is a lower extremity injury. The presence of a missing leg suggests that the person might be a dummy or a mannequin, as real people do not typically have such injuries. The person is also wearing a shirt and shoes, which further supports the idea that they might be a dummy or a mannequin.",
+                "trauma_upper_ext": "The scene features a person, possibly a dummy or a mannequin, sitting on the ground with a box nearby. The person has a cut on their arm, which could be a result of an accident or an intentional act. The presence of the box and the person's position on the ground suggest that they might be in a situation where they need assistance or are waiting for someone.",
+                "alertness_ocular": "The scene features a person, possibly a dummy or a mannequin, sitting on the ground with its eyes closed. It appears to be a lifeless figure, and it is not responsive to its surroundings. The person is positioned next to a box, which is placed on the ground. The overall setting suggests a somewhat eerie or abandoned atmosphere.",
+                "severe_hemorrhage": "The scene features a mannequin sitting on the ground next to a box. The mannequin appears to be bleeding, which could be interpreted as severe hemorrhage or amputation. The presence of the box and the mannequin's position on the ground create an unusual and somewhat disturbing atmosphere.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'presence'}\", \"trauma_torso\": \"{'trauma_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'wound'}\", \"alertness_ocular\": \"{'alertness\\\\_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253735684346391",
+        "image": "4/0/1726253735684346391.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the grass in a park, possibly dead or in a state of distress. The person is wearing a plaid shirt and is surrounded by a field of grass.",
+                "trauma_head": "The scene shows a person lying on the grass in a park, possibly injured. The person has a head injury, which appears to be a cut or a wound. The person is wearing a plaid shirt and is lying on the ground, possibly resting or recovering from the injury. The park setting suggests that the person might have been engaged in some outdoor activity or accident that led to the injury.",
+                "trauma_torso": "The scene shows a person lying on the grass in a park, possibly enjoying a sunny day. The person has a visible torso injury, which appears to be a stab wound. The presence of the stab wound suggests that the person might have been involved in an accident or a violent incident. It is important to note that the image does not provide any context or information about the circumstances surrounding the injury.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass in a park, possibly enjoying the sun or taking a nap. The person has a visible lower extremity injury, specifically a broken leg. This is evident from the cast on the leg, which is a common treatment for fractures. The person is wearing a plaid shirt, and there is a backpack nearby, suggesting they might have been out for a walk or a picnic when the injury occurred.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass in a park, possibly enjoying the sun or taking a nap. The person has a visible arm injury, which appears to be a broken arm. The individual is wearing a plaid shirt, and there is a backpack nearby. The park setting, along with the presence of the backpack, suggests that the person might be a hiker or someone who enjoys spending time outdoors.",
+                "alertness_ocular": "In the image, there is a person lying on the grass in a park. Their eyes are closed, and they appear to be unresponsive. The person is wearing a plaid shirt and is positioned in a way that suggests they might be sleeping or resting. The scene is set in a park with a blue sky in the background, and there are birds nearby.",
+                "severe_hemorrhage": "In the image, there is a person lying on the grass in a park, possibly bleeding severely. The person is wearing a plaid shirt and appears to be in a state of distress. There is also a backpack nearby, which might belong to the person. The scene suggests that the person is experiencing a severe medical condition or has been involved in an accident that has led to significant bleeding. It is important to note that amputations can be considered severe hemorrhage, but the image does not provide enough information to confirm this.",
+                "value-dict": "{\"trauma_head\": \"{'trauma\\\\_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253786482275148",
+        "image": "4/1/1726253786482275148.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the grass, possibly dead or injured, with blood on their shirt. The person is wearing a plaid shirt and is lying on their back.",
+                "trauma_head": "The scene shows a person lying on the grass in a field, possibly with a head injury. The person is wearing a plaid shirt and black pants. The exact nature of the head injury cannot be determined from the image, but it is evident that the person is in a vulnerable position and may require assistance.",
+                "trauma_torso": "The scene shows a person lying on the grass in a field, possibly in a park. The person has a visible torso injury, which appears to be a stab wound. The person is wearing a plaid shirt and black pants, and there is a knife nearby, suggesting that the injury might have been caused by an accident or an attack. The person is lying on their back, and the grassy field provides a peaceful and open setting for this unfortunate event.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass in a park, possibly injured. The person has a missing leg, which indicates a severe lower extremity injury. The person is wearing a plaid shirt and black pants, and there is a backpack nearby. The park setting and the presence of the backpack suggest that the person might have been out for a walk or a hike when the injury occurred.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass in a park, possibly injured. The person has a cut on their arm, which could be a result of an accident or an intentional act. The person is wearing a plaid shirt and is positioned in a way that they are lying on their back. The park setting and the presence of grass suggest a relaxed and outdoor environment.",
+                "alertness_ocular": "In the scene, a person is lying on the grass in a field, possibly in a park. Their eyes are closed, and they appear to be unresponsive. It is unclear whether they are sleeping or simply resting, but their body is relaxed and not showing any signs of distress or discomfort. The person is wearing a plaid shirt, which adds to the casual and peaceful atmosphere of the scene.",
+                "severe_hemorrhage": "In the image, a person is lying on the grass in a field, appearing to be bleeding severely. The scene is quite dramatic, as the person seems to be in a state of distress. The blood loss could be due to an accident, injury, or other medical emergency. It is important to note that the person is not an amputee, but rather experiencing severe bleeding. The situation requires immediate attention and medical assistance to address the underlying cause and prevent further complications.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253854251025118",
+        "image": "4/2/1726253854251025118.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the grass in a park, possibly dead or injured. The person is wearing black clothing and is positioned on their back.",
+                "trauma_head": "The scene shows a person lying on the grass in a park, possibly with a head injury. The person is wearing a white shirt and black pants, and their head is covered with a white cloth. The exact type of head injury cannot be determined from the image, but it is clear that the person is in a vulnerable state and may require assistance.",
+                "trauma_torso": "The scene shows a person lying on the grass in a park, possibly injured. The person has a visible torso injury, which appears to be a stab wound. The person is wearing black pants and is lying on their back, possibly in pain or distress. The park setting and the presence of the stab wound suggest that this is an emergency situation, and the person may require immediate medical attention.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass in a park, possibly enjoying the sun or taking a break. The person has a lower extremity injury, specifically a broken leg, which is visible in the image. The person is wearing a white shirt and black pants, and there is a backpack nearby. The park setting and the person's relaxed position suggest that they might be taking some time to rest and recover from their injury.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass in a park, possibly enjoying the sun or taking a break. The person has a bandaged arm, which suggests that they might have experienced an injury or are recovering from one. The presence of the bandage indicates that the person is taking precautions to protect the injured arm while they are outdoors.",
+                "alertness_ocular": "In the image, a person is lying on the grass in a park, possibly sleeping or resting. Their eyes are closed, and they appear to be unresponsive. The scene is set in a park with a field, and there is a building visible in the background. The person is wearing a white shirt and black pants, and they are positioned on the grass, possibly enjoying the outdoor environment.",
+                "severe_hemorrhage": "In the image, a person is lying on the grass in a park, bleeding severely. The scene appears to be quite dramatic, as the person is bleeding profusely, which could indicate a severe injury or a medical emergency. The person is wearing black pants and is positioned on the grass, possibly in a field. The situation requires immediate attention and assistance from medical professionals or emergency services.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253913383883104",
+        "image": "4/3/1726253913383883104.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the grass, appearing to be dead or in a zombie-like state. They are wearing a white shirt and black pants.",
+                "trauma_head": "The scene shows a person lying on the grass, possibly dead or injured. The person has a head injury, which appears to be a bullet wound. The person is wearing a white shirt, and there is blood on the shirt, indicating the severity of the injury. The image also shows a backpack nearby, suggesting that the person might have been carrying belongings with them. The overall atmosphere of the scene is quite concerning and potentially dangerous.",
+                "trauma_torso": "The scene shows a person lying on the grass, possibly dead or injured. The person has a visible torso injury, which appears to be a stab wound. The image is taken during the day, and the person is lying on the ground in a field.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass, possibly dead or injured. The person has a visible injury to their lower extremity, specifically a severed leg. The leg is lying on the grass, separate from the rest of the body. The person is wearing a white shirt, which contrasts with the green grass and the surrounding environment. The image is captured in a bright, sunny day, which adds to the overall atmosphere of the scene.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass, possibly dead or injured. The person has a severed arm, which indicates a serious injury. The image also shows a bloodied shirt, suggesting that the person might have been involved in an accident or a violent incident. The presence of a backpack nearby could indicate that the person was carrying belongings or supplies when the incident occurred. The overall atmosphere of the scene is quite disturbing and suggests that the person might require immediate medical attention.",
+                "alertness_ocular": "The scene shows a person lying on the grass, possibly dead or injured, with their eyes closed. It is not possible to determine if the person is responsive or not based on the image alone. The person is wearing a white shirt, and there is blood on their shirt, which suggests that they might have been involved in an accident or a violent incident. The image does not provide enough information to determine the exact circumstances surrounding the person's situation.",
+                "severe_hemorrhage": "The scene shows a person lying on the grass, bleeding severely. The person appears to be in a state of shock or distress, possibly due to an accident or injury. The blood loss is significant, and the person may be experiencing a severe hemorrhage or amputation. The situation is quite concerning, and immediate medical attention is required to address the person's condition and prevent further complications.",
+                "value-dict": "{\"trauma_head\": \"{'trauma\\\\_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'wound'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253101436713875",
+        "image": "1/0/1726253101436713875.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a man lying on the grass, possibly dead or injured, with a helmet on his head. There is also a box nearby, which might be a part of the scene or an object unrelated to the man.",
+                "trauma_head": "The scene features a man sitting on the grass, wearing a military uniform and a helmet. He appears to be injured, as there is a bloodied head wound visible on his forehead. The man is positioned next to a box, which could be a suitcase, and there is a car in the background. The presence of the military uniform and the bloodied head wound suggest that the man might have been involved in a conflict or an accident.",
+                "trauma_torso": "The scene features a man sitting on the grass, wearing a military uniform and a helmet. He appears to be injured, as there is a visible wound on his torso. The man is positioned next to a box, which could be a part of a training exercise or a prop for a photoshoot. The presence of the fence in the background suggests that the location might be a military base or a training area.",
+                "trauma_lower_ext": "The scene features a man sitting on the grass, wearing a military uniform and a helmet. He appears to be injured, as he has no legs. The man is positioned next to a box, which is placed on the grass. The presence of the military uniform and the helmet suggests that the man might be a soldier or a veteran. The lack of legs could be a result of an amputation or an injury sustained during his service.",
+                "trauma_upper_ext": "The scene features a man sitting on the grass, wearing a military uniform and a helmet. He appears to be injured, as he has a missing arm. The man is positioned next to a box, which is placed on the ground. The setting seems to be a park or an outdoor area, with a fence visible in the background.",
+                "alertness_ocular": "The scene features a man sitting on the grass, wearing a military uniform and a helmet. He appears to be a dummy or a mannequin, as he is not responsive and has his eyes closed. The mannequin is positioned next to a box, which could be a part of a display or an art installation. The setting seems to be outdoors, possibly in a park or a similar public space.",
+                "severe_hemorrhage": "The scene shows a man sitting on the grass, possibly in a park, with a box nearby. He appears to be bleeding severely, as there is blood on the ground around him. The man is also wearing a helmet, which might suggest that he is a soldier or has been involved in some kind of accident or incident. The presence of the box and the man's condition create a sense of urgency and concern for his well-being.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253148108423972",
+        "image": "1/1/1726253148108423972.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a man wearing a military uniform, who appears to be injured or possibly dead. He is lying on the ground, possibly on a grassy area, with a box nearby.",
+                "trauma_head": "The scene shows a man wearing a camouflage uniform, sitting on the grass next to a fence. He is wearing a helmet, which suggests that he might be a soldier or participating in some military activity. The man appears to have a head injury, as he is described as having a \"busted head.\" However, the specific type of injury is not provided.",
+                "trauma_torso": "The scene features a man wearing a camouflage uniform, sitting on the grass next to a fence. He is wearing a helmet and boots, which suggests that he might be a soldier or participating in some military-related activity. The man appears to have a torso injury, as he is described as having a \"gut wound.\" This type of injury typically refers to a deep, penetrating wound that affects the abdominal organs and can be life-threatening if not treated properly.",
+                "trauma_lower_ext": "The scene shows a man wearing a military uniform, sitting on the grass next to a fence. He is wearing a helmet and boots, which are typical for military personnel. The man appears to have a lower extremity injury, specifically a missing leg. This suggests that he might be a veteran or an amputee who is participating in an outdoor activity or event. The presence of the fence and the man's military attire indicate that the location might be a military base or a designated area for military personnel.",
+                "trauma_upper_ext": "The scene features a man wearing a camouflage uniform, sitting on the grass next to a fence. He is wearing a helmet and boots, which suggests that he might be a soldier or participating in some military-related activity. The man has a bandaged arm, indicating that he might have experienced an injury or is taking precautions to protect his arm. The presence of a suitcase nearby could suggest that he is either taking a break or preparing for a mission or deployment.",
+                "alertness_ocular": "In the scene, a man is sitting on the grass with his eyes closed. He is wearing a camouflage uniform and a helmet, which suggests that he might be a soldier or a military personnel. The man appears to be in a relaxed state, possibly taking a break or resting. The presence of a suitcase nearby indicates that he might be on a mission or traveling. The overall atmosphere of the image suggests a moment of respite for the man amidst his duties.",
+                "severe_hemorrhage": "In the image, a man is sitting on the grass with a helmet on, and there is a box nearby. The man appears to be bleeding, which could be a result of an accident or injury. However, it is not possible to determine the severity of the bleeding or whether it is a severe hemorrhage or amputation from the image alone. The presence of the helmet suggests that the man might have been engaged in some activity that could have led to the injury.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'presence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'open'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253941040200600",
+        "image": "5/0/1726253941040200600.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the grass, possibly dead or injured, with their legs and arms spread out. The person is wearing a uniform, which suggests that they might be a soldier.",
+                "trauma_head": "The scene shows a person lying on the grass in a park, possibly injured. The person has a head injury, as indicated by the presence of a bandage on their head. The person is wearing a uniform, which suggests that they might be a soldier or a member of a specific organization. The image also shows a pair of sneakers nearby, possibly belonging to the person. The overall atmosphere of the scene is somewhat concerning, as the person appears to be in a vulnerable state.",
+                "trauma_torso": "The scene shows a person lying on the grass in a park, possibly dead or injured. The person has a visible torso injury, which appears to be a bullet wound. The image is in black and white, adding a dramatic and somber tone to the scene. The person is wearing a uniform, which suggests that they might be a soldier or a law enforcement officer. The presence of a backpack nearby could indicate that they were carrying essential items or equipment. The overall atmosphere of the image is intense and evokes a sense of concern for the person's well-being.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass in a park, possibly injured. The person has a missing leg, which indicates a severe lower extremity injury. The person is wearing a military uniform, which suggests that they might be a soldier. The image also features a backpack nearby, possibly belonging to the person. The park setting and the presence of the backpack create a sense of urgency and concern for the individual's well-being.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass in a park, possibly injured. The person has a missing arm, which indicates a severe injury. The person is wearing a military uniform, suggesting that they might be a soldier. The park setting and the person's attire create a contrast between the peaceful environment and the potential trauma the individual has experienced.",
+                "alertness_ocular": "In the image, a person is lying on the grass in a park, with their eyes closed. It is not possible to determine if the person is responsive or not, as their eyes are closed, and there is no indication of their facial expression or body language. The person is wearing a uniform, which suggests that they might be a soldier or a member of a specific organization. The scene appears to be peaceful and calm, with the person resting on the grass in the park.",
+                "severe_hemorrhage": "The scene shows a person lying on the grass, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a military uniform, which suggests that they might be a soldier. The image is in black and white, adding a dramatic and intense atmosphere to the scene. The person is lying on the ground, and there is a sign nearby, which could provide information or context about the situation.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254000161967257",
+        "image": "5/1/1726254000161967257.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the ground, possibly dead or injured, in a grassy field. The person is wearing a uniform, which suggests that they might be a soldier or a law enforcement officer.",
+                "trauma_head": "The scene shows a person lying on the ground in a grassy field, possibly dead or injured. The person has a head injury, which appears to be a bullet wound. The presence of a bullet wound suggests that the person might have been involved in a shooting incident or an accident. The exact cause of the injury cannot be determined from the image alone, but it is clear that the person is in a vulnerable and potentially dangerous situation.",
+                "trauma_torso": "The scene shows a person lying on the grass in a field, possibly dead or injured. The person has a visible torso injury, which appears to be a bullet wound. The presence of a bullet wound suggests that the person might have been involved in a shooting incident or an accident. The image does not provide any further information about the person's condition or the circumstances surrounding the incident.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass in a field, possibly injured or dead. The person has a missing leg, which indicates a severe lower extremity injury. The image also shows a backpack nearby, suggesting that the person might have been carrying it before the incident. The presence of a backpack and the person's condition create a sense of urgency and concern for their well-being.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass in a field, possibly injured. The person has a missing arm, which indicates a severe injury. The person is wearing a uniform, suggesting that they might be a soldier or a law enforcement officer. The presence of a backpack nearby could indicate that they were carrying essential items or supplies during their time in the field. The overall atmosphere of the scene is quite somber, as the person appears to be in a vulnerable state due to their injury.",
+                "alertness_ocular": "The scene shows a person lying on the grass in a field, possibly dead or unconscious. The person's eyes are open, and they appear to be unresponsive. The image is somewhat blurry, which adds to the uncertainty of the person's condition. The presence of a suitcase nearby might suggest that the person was traveling or on a journey when they ended up in this situation.",
+                "severe_hemorrhage": "The scene shows a person lying on the grass, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a uniform, which suggests that they might be a soldier or a law enforcement officer. The image also shows a suitcase nearby, which could be related to the person's situation or belongings. The presence of a suitcase and the person's uniform indicate that this might be a staged or dramatized scene, possibly for a movie, play, or other forms of artistic expression.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma\\\\_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258316104543138",
+        "image": "18/0/1726258316104543138.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly dead or unconscious, with their head resting on a wall. The person is wearing a yellow jacket, and they are located on a sidewalk.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly on a sidewalk or a street, with a head injury. The person is wearing a yellow vest, which suggests that they might be a construction worker or someone involved in a job that requires such attire. The head injury appears to be a cut or a wound, which could be a result of an accident or an incident that occurred while the person was working or performing some task. The person is lying on the ground, possibly in pain or discomfort, and might require medical attention.",
+                "trauma_torso": "The scene shows a person lying on the ground, possibly on a sidewalk or a street, with their head resting on a wall. The person appears to be wearing a vest, which suggests that they might be a construction worker or someone involved in a job that requires safety gear. However, there is no visible torso injury in the image. The person's position and the fact that they are resting their head on a wall might indicate that they are taking a break or experiencing some discomfort.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground, possibly on a sidewalk or a street, with their legs and feet exposed. The person appears to be wearing a yellow vest, which suggests that they might be a construction worker or someone involved in a job that requires such attire. However, the image does not provide enough information to determine if the person has any lower extremity injuries.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground, possibly on a sidewalk or a street, with their head resting on a wall. The person appears to be wearing a safety vest, which suggests that they might be a construction worker or someone involved in a job that requires such attire. The person has one arm in a cast, indicating that they have suffered an injury to their arm. The presence of the cast suggests that they might be recovering from a recent accident or surgery.",
+                "alertness_ocular": "In the scene, a person is lying on the ground, possibly on a sidewalk or a street, with their eyes closed. It is not clear whether the person is responsive or not, as they are lying down and not engaging with their surroundings. The person is wearing a yellow jacket, which might suggest that they are a construction worker or someone working in a similar environment. The presence of a backpack nearby could also indicate that the person is carrying some belongings or equipment.",
+                "severe_hemorrhage": "In the image, a person is lying on the ground, possibly bleeding severely. The scene takes place on a street, and the person is wearing a yellow vest. It is not clear if the person has experienced amputations or severe hemorrhage, but the situation appears to be quite serious and requires immediate medical attention.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258383535002221",
+        "image": "18/1/1726258383535002221.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly a homeless person, with a yellow jacket on. They are lying on a sidewalk next to a building, and there is a suitcase nearby.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly on a sidewalk or a street, with a head injury. The person appears to be unconscious or in a state of distress. The head injury could be a result of an accident or an attack, but the exact cause cannot be determined from the image alone. The person is wearing a yellow jacket, which might provide some protection or visibility in the situation.",
+                "trauma_torso": "The scene shows a person lying on the ground, possibly dead, with a head injury. The person is wearing a yellow jacket, and their legs are crossed. The body is positioned near a wall, and there is a handbag nearby. The presence of the head injury suggests that the person might have been involved in an accident or experienced some form of trauma.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground, possibly on a sidewalk or a street, with their legs crossed. The person appears to be wearing a yellow jacket, and there is a doll lying next to them. It is not possible to determine if the person has any lower extremity injuries based on the image alone.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground, possibly on a sidewalk or a street, with their arms outstretched. The person appears to be wearing a yellow jacket, and there is a doll lying next to them. It is not possible to determine if the person has any arm injuries from the image alone.",
+                "alertness_ocular": "The scene shows a person lying on the ground, possibly a homeless person, with their eyes closed. They are not responsive, suggesting that they might be unconscious or in a state of deep sleep. The person is wearing a yellow jacket, which could indicate that they are trying to stay warm in cold weather. The setting appears to be a street or an outdoor area, as the person is lying on the ground rather than a bed or a more comfortable surface.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a yellow jacket, and there is a doll lying next to them. The setting appears to be a street or an outdoor area, with a wall nearby. The person's condition is quite concerning, and it is essential to seek immediate medical assistance in such situations.",
+                "value-dict": "{\"trauma_head\": \"{'trauma\\\\_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness\\\\_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253388592709923",
+        "image": "2/0/1726253388592709923.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a mannequin dressed in military fatigues, lying on the grass. The mannequin appears to be in a somewhat damaged or destroyed condition, with its head missing.",
+                "trauma_head": "The scene features a man lying on the grass, possibly injured. He is wearing a military uniform and has a bandage on his head. The man is positioned next to a box, which is placed on the grass. The setting appears to be outdoors, with a fence visible in the background.",
+                "trauma_torso": "The scene features a mannequin dressed in military fatigues, sitting on the grass. The mannequin has a fake torso injury, specifically a bullet wound, which adds a dramatic element to the scene. The mannequin is positioned in front of a fence, and there is a box nearby. The overall setting appears to be a park or an outdoor area with a fence.",
+                "trauma_lower_ext": "The scene features a mannequin dressed in military fatigues, sitting on the grass. The mannequin has a fake leg injury, which is represented by a missing leg. The mannequin is positioned in front of a chain-link fence, and there is a box nearby. The overall setting appears to be an outdoor area with a fence and a grassy field.",
+                "trauma_upper_ext": "The scene features a mannequin dressed in military fatigues, sitting on the grass. The mannequin has a fake arm injury, specifically a missing arm. The mannequin is positioned in front of a chain-link fence, which adds to the overall setting.",
+                "alertness_ocular": "The scene features a mannequin dressed in military fatigues, sitting on the grass next to a box. The mannequin's eyes are closed, and it appears to be in a relaxed position. It is not responsive, as it is an inanimate object. The setting seems to be outdoors, possibly in a park or a similar public space.",
+                "severe_hemorrhage": "The scene features a mannequin dressed in military fatigues, lying on the grass with a box nearby. The mannequin appears to be bleeding, which could be interpreted as severe hemorrhage or amputations. However, it is important to note that the mannequin is not a real person, and the bleeding is not a result of actual injuries. The mannequin is simply a prop used to create a dramatic or unsettling scene.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'presence'}\", \"trauma_torso\": \"{'trauma_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253417556940683",
+        "image": "2/0/1726253417556940683.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the grass, possibly dead or injured, with a fence in the background. The person is wearing a camouflage uniform, which suggests that they might be a soldier.",
+                "trauma_head": "The scene shows a person lying on the grass, possibly dead or injured, with a fence in the background. The person has a head injury, which appears to be a bullet wound. The presence of a bullet wound suggests that the person might have been involved in a shooting incident or an accident. The image also shows a suitcase nearby, which could be related to the situation or simply coincidental.",
+                "trauma_torso": "The scene shows a person lying on the grass, possibly dead or injured, with a fence in the background. The person has a missing torso, which suggests that they might have been shot or otherwise harmed. The presence of a suitcase nearby could indicate that the person was carrying belongings or was involved in some sort of activity that led to their current state. The overall atmosphere of the image is quite disturbing and suggests a violent or dangerous situation.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass, possibly injured or dead, with a fence in the background. The person has a lower extremity injury, specifically a missing leg. The presence of a suitcase nearby suggests that the person might have been traveling or carrying belongings with them. The overall atmosphere of the image is quite eerie and unsettling.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass, possibly injured or dead. The person has a missing arm, which suggests that they might have been involved in an accident or a violent incident. The image also features a fence in the background, and there is a suitcase nearby. The presence of the suitcase might indicate that the person was traveling or carrying belongings when the incident occurred.",
+                "alertness_ocular": "The scene shows a person lying on the grass, possibly dead or injured, with their eyes closed. They are not responsive, and their body is positioned in a way that suggests they might be a dummy or a mannequin. The person is wearing a camouflage outfit, which adds to the unusual nature of the scene. There is also a box nearby, which might be related to the situation or simply coincidental.",
+                "severe_hemorrhage": "The scene shows a person lying on the grass, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a camouflage uniform, which suggests that they might be a soldier. There is a box nearby, and a fence can be seen in the background. The presence of the box and the fence adds context to the situation, but the exact cause of the bleeding or hemorrhage cannot be determined from the image alone.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'wound'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253435928665020",
+        "image": "2/0/1726253435928665020.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the ground, possibly dead or injured, with a fence in the background. The person is wearing a camouflage outfit, and there is a box nearby.",
+                "trauma_head": "The scene shows a person lying on the grass, possibly dead or injured, with a fence in the background. The person has a head injury, which appears to be a bullet wound. The presence of a bullet wound suggests that the person might have been involved in a shooting incident or an accident. The exact cause of the injury cannot be determined from the image alone, but it is clear that the person is in a vulnerable and potentially dangerous situation.",
+                "trauma_torso": "The scene features a person lying on the grass, possibly dead or injured, with a fence in the background. The person has a visible torso injury, which appears to be a stab wound. The presence of a knife nearby suggests that the person might have been attacked or stabbed. The overall atmosphere of the scene is quite disturbing and potentially dangerous.",
+                "trauma_lower_ext": "The scene features a person lying on the grass, possibly dead or injured, with a fence in the background. The person has a lower extremity injury, specifically a missing leg. The image also shows a box nearby, which might be related to the situation. The presence of a fence and the person's condition suggest that this could be a staged or fictional scene, possibly for a movie or a photoshoot.",
+                "trauma_upper_ext": "The scene features a person lying on the grass, possibly dead or injured, with a fence in the background. The person has a missing arm, which suggests that they might have been involved in an accident or experienced some form of trauma. The presence of a box nearby could indicate that the person was handling or transporting the box when the incident occurred. The overall atmosphere of the scene is quite concerning and requires further investigation.",
+                "alertness_ocular": "The scene shows a person lying on the grass, possibly dead or injured, with their eyes closed. They are not responsive, and their body is positioned in a way that suggests they might be a dummy or a mannequin. The person is wearing a camouflage outfit, which adds to the unusual nature of the scene. The presence of a fence in the background further emphasizes the outdoor setting.",
+                "severe_hemorrhage": "In the image, there is a person lying on the grass, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a camouflage uniform, which suggests that they might be a soldier. The scene takes place in a park, and there is a fence nearby. Additionally, there is a box and a car in the background. The presence of the box and the car might indicate that the person is in a public area, and the situation could be related to an emergency or an accident.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256663062543009",
+        "image": "15/0/1726256663062543009.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly sleeping or resting, in a fenced-in area. The person is wearing a uniform, which suggests that they might be a soldier or a member of a military unit.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly injured, with a baseball bat nearby. The person appears to be wearing a military uniform, and there is a fence in the background. The presence of the baseball bat suggests that the person might have been involved in a baseball-related incident, which could have led to their injury. However, without more information, it is not possible to determine the exact nature of the injury or the circumstances surrounding the incident.",
+                "trauma_torso": "The scene shows a person lying on the ground, possibly in a field, with a fence nearby. The person appears to be wearing a military uniform, and there is a baseball bat close to them. The person has a visible torso injury, which could be a bullet wound. The presence of the baseball bat and the person's attire suggest that they might be a soldier or a military personnel.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground, possibly in a field, with a fence nearby. The person appears to be wearing a uniform, which suggests that they might be a soldier. The person has a leg injury, as indicated by the bandage on their leg. The presence of a baseball bat and a baseball glove in the scene suggests that the person might have been playing baseball before the injury occurred.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground, possibly in a field, with a fence nearby. The person appears to be wearing a military uniform, and there is a baseball bat close to them. The person has a broken arm, which is visible in the image. The presence of the baseball bat suggests that the person might have been involved in an accident or a sports-related incident that led to the injury.",
+                "alertness_ocular": "In the scene, a person is lying on the ground, possibly sleeping, with their eyes closed. They are wearing a camouflage uniform, which suggests that they might be a soldier. The person is positioned near a fence, and there is a baseball bat nearby. It is not clear if the person is responsive or not, as their eyes are closed, and they might be resting or sleeping.",
+                "severe_hemorrhage": "In the image, a person is lying on the ground, possibly bleeding severely, as they are surrounded by a fence. The scene appears to be quite intense, and the person's condition is concerning. It is important to note that the person may not be bleeding, but rather experiencing severe hemorrhage, which could be a result of an amputation or other medical emergency. The presence of a baseball bat nearby might suggest that the person was involved in an accident or a conflict that led to their current situation.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726259208293927252",
+        "image": "25/0/1726259208293927252.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly a homeless person, with a broken leg. They are wearing a hat and glasses, and there is a bottle nearby.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly on a sidewalk or street, with a head injury. The person is wearing a hat and glasses, and there is a bottle nearby. The presence of the head injury suggests that the person might have been involved in an accident or experienced some form of trauma. It is important to note that the exact nature of the injury cannot be determined from the image alone, but it is clear that the person is in a vulnerable and potentially dangerous situation.",
+                "trauma_torso": "The scene shows a person lying on the ground, possibly on a sidewalk or a street, with a broken leg. The person is wearing a hat and glasses, and there is a bottle nearby. The person's torso is also injured, as they have a stab wound. The presence of the broken leg and the stab wound suggests that the person might have been involved in an accident or an altercation that led to their injuries.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground, possibly on a sidewalk or a street, with a broken leg. The person is wearing a hat and glasses, and there is a bottle nearby. The presence of a broken leg suggests that the person might have experienced an accident or injury, and they are now in a vulnerable position.",
+                "trauma_upper_ext": "The scene features a person lying on the ground, possibly a homeless person, with a broken arm. The person is wearing a hat and glasses, and there is a bottle nearby. The person is positioned in front of a building, and the overall setting appears to be a street or an outdoor area.",
+                "alertness_ocular": "The scene shows a person lying on the ground, possibly a homeless person, with their eyes closed. They are not responsive, as they are not looking at the camera or showing any signs of awareness. The person is wearing a hat and glasses, and they are positioned next to a building. The overall atmosphere of the image suggests a sense of vulnerability and helplessness.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a hat and glasses, and there is a bottle nearby. The presence of a bottle suggests that the person might be trying to help themselves or seeking assistance. The situation appears to be quite concerning, and it is essential to seek immediate medical help for the person involved.",
+                "value-dict": "{\"trauma_head\": \"{'trauma\\\\_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness\\\\_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258999280602824",
+        "image": "24/0/1726258999280602824.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly dead or injured, with a wooden cross on their chest. The person is lying on a street, and there is a building nearby.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly dead, with a wooden cross on their chest. The person appears to have a head injury, as they are described as having a \"busted head.\" The presence of the wooden cross on their chest suggests that this could be a staged or symbolic scene, possibly related to a religious or artistic context.",
+                "trauma_torso": "The scene shows a person lying on the ground, possibly dead, with a wooden cross on their chest. The person appears to have a torso injury, as they are described as having a \"busted torso.\" The presence of the wooden cross on their chest suggests that this could be a staged or symbolic scene, possibly related to a religious or artistic context.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground, possibly injured, with a wooden cross on their chest. The person appears to be in a state of distress, and their lower extremities are not visible in the image. The presence of the wooden cross on the person's chest suggests that they might have been involved in an accident or a situation that led to their current condition.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground, possibly injured, with a wooden cross on their chest. The person appears to be in a vulnerable position, and their arm is broken. The broken arm suggests that they might have experienced a fall or an accident, leading to the injury. The wooden cross on their chest adds an unusual element to the scene, which could be interpreted in various ways depending on the context.",
+                "alertness_ocular": "In the scene, a person is lying on the ground with their eyes closed, appearing to be unresponsive. They are positioned between two wooden crosses, which are placed on the ground as well. The person is wearing a military uniform, suggesting that they might be a soldier. The setting seems to be an outdoor area, possibly a street or a public space.",
+                "severe_hemorrhage": "In the image, a person is lying on the ground with a large wooden cross on their chest. The scene appears to be staged, as the person is not bleeding severely or showing signs of amputation. The wooden cross on the person's chest is the main focus of the scene, and it is not a realistic representation of a medical emergency.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726259067165596876",
+        "image": "24/1/1726259067165596876.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly dead or injured, with a wooden object on top of them. The person is lying on a concrete surface, and there is a wall nearby.",
+                "trauma_head": "The scene shows a person lying on the ground with a wooden object, possibly a piece of wood or a broken board, on their head. The person appears to be injured, possibly with a head injury, as they are lying on the ground in a vulnerable position. The presence of the wooden object on their head suggests that they might have been involved in an accident or a fall, which has led to their current situation.",
+                "trauma_torso": "The scene shows a person lying on the ground, possibly in a parking lot, with a wooden cross on top of them. The person appears to be injured, as they have a cut on their torso. The presence of the wooden cross suggests that the person might have been involved in an accident or a prank, but the exact circumstances are not clear from the image alone.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground, possibly in a parking lot, with a wooden object on top of them. The person appears to be injured, as they are bleeding from their leg. The wooden object, which could be a piece of wood or a broken board, is placed on the person's body, causing further distress. The situation seems to be quite concerning, as the person is in a vulnerable position and requires immediate assistance.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground, possibly in a construction area, with a wooden object on top of them. The person has a cut on their arm, which could be a result of an accident or an injury sustained while working on the construction site. The presence of the wooden object on top of the person suggests that they might have been working with or handling the wood, and the cut on their arm could be a consequence of that activity.",
+                "alertness_ocular": "In the scene, a person is lying on the ground with their eyes closed, appearing to be unconscious or possibly dead. They are positioned under a wooden structure, which could be a piece of furniture or a makeshift shelter. The person's body is covered with a blanket, and they are surrounded by a wooden frame. The overall atmosphere of the image suggests a sense of danger or an emergency situation.",
+                "severe_hemorrhage": "In the image, a person is lying on the ground with a large wooden object, possibly a piece of a broken table or a wooden plank, on top of them. The person appears to be bleeding, which suggests that they may have experienced a severe injury or accident. The scene is quite dramatic and potentially dangerous, as the person is in a vulnerable position with the wooden object on top of them. It is important to note that the image may not depict an actual amputation, but rather a representation of a severe injury or hemorrhage.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258577886166991",
+        "image": "21/0/1726258577886166991.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly dead or injured, with blood on their clothes. They are wearing a uniform, which suggests that they might be a soldier or a police officer. The person is lying on a concrete surface, and there is a wall nearby.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly dead, with a head injury. The person is wearing a uniform, which suggests that they might be a soldier or a police officer. The head injury appears to be a bullet wound, indicating that the person might have been shot. The image is in black and white, which adds to the dramatic and somber atmosphere of the scene.",
+                "trauma_torso": "The scene shows a person lying on the ground, possibly dead, with a significant amount of blood on their body. The person is wearing a camouflage outfit, which suggests that they might have been involved in some sort of military or combat situation. The presence of blood and the person's attire indicate that they have sustained severe injuries, possibly including a torso injury. The exact type of injury cannot be determined from the image alone, but it is clear that the person is in a dire situation and requires immediate medical attention.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground, possibly dead, with a head injury. The person is wearing a uniform, which suggests that they might be a soldier. The image is in black and white, adding a dramatic and somber tone to the scene. The person's lower extremities are not visible in the image, so it is not possible to determine if they have any injuries in that area.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground, possibly dead, with a bloodied arm. The person is wearing a camouflage outfit, which suggests that they might be a soldier. The setting appears to be a parking lot, with a wall nearby. The presence of blood and the person's attire indicate that they might have been involved in a violent incident or an accident.",
+                "alertness_ocular": "The scene shows a person lying on the ground, possibly dead, with their eyes closed. They are not responsive, and their body appears to be covered in blood. The person is wearing a uniform, which suggests that they might be a soldier or a law enforcement officer. The setting is an outdoor area, possibly a street or a parking lot, with a building in the background.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground, bleeding severely. The person appears to be in a state of distress, possibly due to an accident or an attack. The blood loss is significant, and the person's condition is quite concerning. The image does not show any signs of amputations or other severe injuries, but the bleeding is the primary focus of the scene.",
+                "value-dict": "{\"trauma_head\": \"{'trauma\\\\_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258637148050297",
+        "image": "21/1/1726258637148050297.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly dead or injured, in front of a building. The person is wearing a military uniform, and there is blood on the ground near them.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly dead, with a head injury. The person is wearing a military uniform, and there is a bloodied head visible in the image. The person is lying on a sidewalk next to a building, which suggests that the incident might have occurred in an urban setting.",
+                "trauma_torso": "The scene shows a person lying on the ground, possibly dead, with a visible torso injury. The person is wearing a military uniform, and there is a blood trail nearby. The setting appears to be a street or an alley, with a building in the background. The presence of the blood trail and the person's attire suggest that this could be a scene from a war or a violent incident.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground, possibly dead, in front of a building. The person has a missing leg, which indicates a severe injury or trauma. The image is black and white, adding to the dramatic and somber atmosphere of the scene.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground, possibly dead, with a bloodied arm. The person is wearing a military uniform, and there is a building in the background. The image is black and white, which adds to the dramatic and intense atmosphere of the scene.",
+                "alertness_ocular": "In the scene, there is a person lying on the ground, possibly dead, with their eyes closed. They are not responsive, and it appears that they are not moving or showing any signs of life. The person is wearing a military uniform, which suggests that they might be a soldier. The setting is an alleyway, and there is a building nearby. The overall atmosphere of the image is quite somber and concerning.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a military uniform, which suggests that they might be a soldier. The image is black and white, adding a dramatic and intense atmosphere to the scene. The person is lying on the ground next to a building, which could be a wall or a structure in a city. The situation appears to be quite serious, and it is unclear whether the person is dead or alive.",
+                "value-dict": "{\"trauma_head\": \"{'trauma\\\\_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258174527604626",
+        "image": "17/0/1726258174527604626.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a mannequin lying on the ground, possibly in a parking lot or a similar outdoor setting. The mannequin appears to be in a somewhat damaged or disfigured state, with blood on its face and arm. It is not a real person, but rather a dummy or a prop used for display or artistic purposes.",
+                "trauma_head": "The scene features a person lying on the ground, possibly dead, with a head injury. The person is wearing a camouflage uniform, which suggests that they might be a soldier. The head injury appears to be a bullet wound, as there is a visible hole in the person's head. The person is also wearing a pair of sunglasses, which adds to the overall appearance of the scene. The setting is outdoors, with a wall nearby, and the person is lying on the ground, possibly on a sidewalk or a similar surface.",
+                "trauma_torso": "The scene features a person lying on the ground, possibly a dummy or a mannequin, with a fake torso injury. The person appears to be wearing a military uniform, and there is a knife sticking out of their chest. The setting is outdoors, with a wall nearby. The overall scene gives an impression of a staged or simulated situation, possibly for training or demonstration purposes.",
+                "trauma_lower_ext": "The scene features a person lying on the ground, possibly a dummy or a mannequin, with a fake arm injury. The person appears to be wearing a military uniform, and there is a blood-soaked cloth on the ground near them. The setting seems to be a street or an outdoor area, as there is a wall in the background. The presence of the fake arm injury and the blood-soaked cloth suggest that the scene is staged or created for a specific purpose, such as a training exercise, a movie, or a theatrical performance.",
+                "trauma_upper_ext": "The scene features a person lying on the ground, possibly a dummy or a mannequin, with a fake arm injury. The person appears to be wearing a military uniform, and there is a knife sticking out of their arm. The setting is outdoors, with a wall nearby. The overall scene gives an impression of a staged or artificial situation, possibly for a movie, theatrical performance, or a display.",
+                "alertness_ocular": "The scene features a person lying on the ground, possibly dead, with their eyes open. They are not responsive, suggesting that they might be a dummy or a mannequin. The person is wearing a camouflage uniform, which adds to the impression that they could be a dummy or a mannequin. The setting appears to be a street or an outdoor area, with a wall nearby.",
+                "severe_hemorrhage": "The scene features a mannequin lying on the ground, appearing to be bleeding severely. The mannequin is positioned in a way that it seems to be bleeding from its arm, which is a part of its design. The mannequin is not a real person, but rather a prop or display used for various purposes, such as training, demonstration, or artistic expression. The severity of the bleeding is exaggerated to create a dramatic effect, but it is not a real-life situation involving a human being.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'presence'}\", \"trauma_torso\": \"{'trauma_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'wound'}\", \"alertness_ocular\": \"{'alertness_ocular': 'open'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258246182186424",
+        "image": "17/1/1726258246182186424.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the ground, possibly a dummy or a mannequin, with a fake head and a fake arm. The person appears to be in a damaged or destroyed condition, with blood coming out of their head.",
+                "trauma_head": "The scene features a person lying on the ground, possibly a dummy or a mannequin, with a fake head injury. The person has a fake head wound, which could be a result of an accident or a deliberate act of mutilation. The person is positioned against a wall, and the overall setting appears to be a street or an outdoor area.",
+                "trauma_torso": "The scene features a person lying on the ground, possibly a dummy or a mannequin, with a fake head injury. The person appears to be wearing a dress and has a fake head wound, which could be a result of an accident or a deliberate act of vandalism. The person is positioned against a wall, and the overall setting seems to be an urban environment.",
+                "trauma_lower_ext": "The scene features a person lying on the ground, possibly a dummy or a mannequin, with a fake head injury. The person appears to be wearing a dress and has a fake head wound, which could be a prop or a part of a costume. The person is positioned against a wall, and there is a handbag nearby. The overall setting seems to be a street or an outdoor area, with the person lying on the ground, possibly as part of a performance or a display.",
+                "trauma_upper_ext": "The scene features a person lying on the ground, possibly a dummy or a mannequin, with a fake head injury. The person has a fake arm injury as well, which appears to be a severed arm. The person is positioned against a wall, and the overall setting seems to be a street or an outdoor area. The presence of a fake severed arm and a fake head injury suggests that this could be a part of a Halloween display or a prank.",
+                "alertness_ocular": "The scene features a person lying on the ground, possibly dead, with their eyes open. They are not responsive, suggesting that they might be a dummy or a prop. The person is wearing a dress and is positioned against a wall, which adds to the eerie atmosphere of the scene.",
+                "severe_hemorrhage": "The scene features a person lying on the ground, bleeding severely. The person appears to be in a state of shock, with blood pouring out of their head. The situation is quite alarming and requires immediate medical attention.",
+                "value-dict": "{\"trauma_head\": \"{'trauma\\\\_head': 'presence'}\", \"trauma_torso\": \"{'trauma_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'wound'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254243648443738",
+        "image": "6/0/1726254243648443738.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly dead or injured, in a grassy field. The person is wearing a uniform, which suggests that they might be a soldier or a law enforcement officer.",
+                "trauma_head": "The scene shows a person lying on the grass in a field, possibly injured. The person is wearing a helmet, which suggests that they might have experienced a head injury. The exact type of injury cannot be determined from the image alone, but it is clear that the person is in a vulnerable position and may require assistance.",
+                "trauma_torso": "The scene shows a person lying on the grass in a field, possibly in a park. The person appears to be wearing a camouflage uniform, and there is a backpack nearby. The person has a visible torso injury, which is described as a bullet wound. This suggests that the person might have been involved in a shooting incident or a military operation, and the injury is a result of that event.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass in a field, possibly injured. The person is wearing a uniform, which suggests that they might be a soldier or a police officer. The person has a missing leg, indicating that they have suffered a severe injury. The presence of a backpack nearby might suggest that they were carrying essential items or supplies during their time in the field. The overall atmosphere of the image is somber, as it depicts a person who has experienced a significant loss or injury.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass in a field, possibly injured. The person is wearing a camouflage uniform, which suggests that they might be a soldier. The person has a bandaged arm, indicating that they have suffered an injury. The exact type of injury cannot be determined from the image alone, but it is clear that the person is in a vulnerable state and possibly in need of medical assistance.",
+                "alertness_ocular": "The scene shows a person lying on the grass in a field, wearing a camouflage uniform. The person's eyes are closed, and they appear to be unresponsive. It is unclear whether they are sleeping or simply resting, but their lack of responsiveness suggests that they might be in a state of deep relaxation or even unconsciousness.",
+                "severe_hemorrhage": "The scene shows a person lying on the grass, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a camouflage uniform, which suggests that they might be a soldier. The image is in black and white, adding to the dramatic and intense atmosphere of the situation. The person's condition is concerning, and it is crucial to seek immediate medical assistance in such cases.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254282970009760",
+        "image": "6/1/1726254282970009760.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the grass, possibly dead or in a lifeless state. The person is wearing a gray suit and is positioned in a way that resembles a body lying on the ground.",
+                "trauma_head": "The scene shows a person lying on the grass in a park, possibly injured. The person is wearing a gray outfit and has a white shoe on. It is not possible to determine the exact nature of the injury, but it appears that the person might have a head injury, as they are described as having a \"busted head.\" The presence of a car in the background suggests that the park is located near a road or parking area.",
+                "trauma_torso": "The scene shows a person lying on the grass in a park, possibly injured. The person is wearing a gray shirt and has a visible torso injury, which appears to be a stab wound. The park is located near a street with several cars parked or passing by. The presence of the person with a stab wound in the park suggests a potentially dangerous situation, and it is important to seek help and medical assistance for the individual.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass in a park, possibly injured. The person is wearing a gray outfit and has a white shoe on. The image does not provide enough information to determine the exact type of injury, but it is evident that the person is in a vulnerable position and may require assistance.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass in a park, possibly injured. The person has a broken arm, which is visible in the image. The park is located near a street with several cars parked or passing by. The presence of the person with a broken arm in the park suggests that they might have been involved in an accident or experienced some other form of injury.",
+                "alertness_ocular": "In the scene, a person is lying on the grass in a park, appearing to be dead. Their eyes are closed, and they are not responsive. The person is wearing a gray suit, which adds to the impression of a lifeless body. The park setting, with trees and cars in the background, further emphasizes the contrast between the person's lifeless state and the lively, natural environment.",
+                "severe_hemorrhage": "The scene shows a person lying on the grass in a park, possibly bleeding severely. The person is wearing a gray outfit, and there is a box nearby. The park is located near a street with several cars parked or passing by. The presence of the box and the person's condition suggest that this might be a staged or artistic scene, rather than a real emergency situation.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness\\\\_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256555350668737",
+        "image": "14/0/1726256555350668737.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a man lying on the grass in a park, possibly sleeping or resting. He is wearing a camouflage outfit, which adds a unique touch to the image.",
+                "trauma_head": "The scene shows a man lying on the grass in a park, possibly injured. He is wearing a camouflage outfit and appears to be unconscious. The presence of a QR code in the image suggests that it might be a staged or artificial situation. It is not possible to determine the exact nature of the injury or the severity of the situation from the image alone.",
+                "trauma_torso": "The scene shows a man lying on the grass in a park, possibly taking a break or resting. He is wearing a camouflage outfit, which suggests that he might be a soldier or participating in a military-related activity. The man appears to be injured, as he has a visible wound on his torso. The presence of a backpack nearby might indicate that he is carrying essential items or supplies for his activity.",
+                "trauma_lower_ext": "The scene shows a man lying on the grass in a park, possibly taking a break or resting. He is wearing a camouflage outfit, which suggests that he might be a soldier or participating in a military-related activity. The man appears to have a leg injury, as he is wearing a cast on his leg. This indicates that he might have experienced an accident or injury during his activities, and is now taking some time to recover and rest in the park.",
+                "trauma_upper_ext": "The scene shows a man lying on the grass in a park, possibly taking a break or resting. He is wearing a camouflage outfit, which suggests that he might be a soldier or participating in a military-related activity. The man has a bandaged arm, which indicates that he might have experienced an injury or is recovering from one. The presence of a backpack nearby suggests that he might be carrying some belongings or supplies with him.",
+                "alertness_ocular": "In the scene, a man is lying on the grass in a park, possibly sleeping or resting. His eyes are closed, and he appears to be unresponsive to his surroundings. The man is wearing a camouflage outfit, which adds a unique touch to the image. The park setting, with its open space and natural environment, provides a peaceful and relaxing atmosphere for the man to enjoy his time outdoors.",
+                "severe_hemorrhage": "In the image, a man is lying on the grass in a park, possibly bleeding severely. He is wearing a camouflage outfit and appears to be in a state of distress. The scene is quite concerning, as the man's condition suggests that he may be experiencing a severe hemorrhage or some other form of injury that requires immediate medical attention.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256715763427564",
+        "image": "16/0/1726256715763427564.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the grass, possibly injured or in a vulnerable state. They are wearing a plaid shirt and black pants, and their legs are covered in bandages.",
+                "trauma_head": "The scene shows a person lying on the grass in a park, possibly with a head injury. The person is wearing a plaid shirt and black pants, and their legs are crossed. The head injury appears to be a cut or a wound, which might require medical attention. The person is also wearing a white shirt, which is visible despite the plaid shirt being on top of it.",
+                "trauma_torso": "The scene shows a person lying on the grass in a park, possibly with a broken arm. The person is wearing a plaid shirt and black pants, and they are using their arm to cover their face. The grassy field is fenced in, and the person is positioned near the fence. The presence of a broken arm suggests that the person might be experiencing pain or discomfort, and they are trying to shield their face from the sun or other environmental factors.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass in a park, possibly enjoying the sun or taking a break. The person has a leg injury, as they are wearing a cast on their leg. This suggests that they might have experienced a fracture or another type of injury that required medical attention and the use of a cast for healing and support.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass in a park, possibly with a broken arm. The person is wearing a plaid shirt and black pants, and they are using their arm to cover their face. The grassy field is fenced in, and the person is positioned near the fence. The presence of a broken arm suggests that the person might be experiencing pain or discomfort, and they are trying to shield their face from the sun or simply resting in a comfortable position.",
+                "alertness_ocular": "In the scene, a person is lying on the grass with their eyes closed. They are wearing a plaid shirt and black pants. It is not possible to determine if the person is responsive or not, as their eyes are closed, and there is no clear indication of their facial expression or body language.",
+                "severe_hemorrhage": "In the image, a person is lying on the grass, possibly bleeding or experiencing severe hemorrhage. The person is wearing a plaid shirt and black pants, and their legs are covered in bandages. The scene appears to be quite serious, as the person is in a vulnerable position on the ground. It is important to note that the image does not provide enough information to determine the exact cause or severity of the situation, but it does suggest that the person is in a state of distress or injury.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254445189709593",
+        "image": "8/0/1726254445189709593.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground in a grassy area, possibly in a park. They appear to be in a sleeping or resting position, and there is a backpack nearby. The person is not in a typical sleeping position, as they are lying on the ground rather than on a bed or a sleeping bag.",
+                "trauma_head": "The scene shows a person lying on the grass in a park, possibly injured. The person is wearing a white shirt and appears to be unconscious. There is a backpack nearby, which might belong to the person. The park is surrounded by a fence, and there are several cars parked in the vicinity. The presence of the backpack and the person's unconscious state suggest that they might have experienced a head injury, but the specific type of injury cannot be determined from the image alone.",
+                "trauma_torso": "The scene shows a person lying on the grass in a park, possibly injured. The person has a missing torso, which indicates a severe injury or trauma. The park is surrounded by a chain-link fence, and there are cars parked nearby. The presence of a backpack in the scene suggests that the person might have been carrying belongings with them. The overall atmosphere of the image is quite disturbing and concerning due to the person's missing torso and the park setting.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass in a park, possibly injured. The person has a broken leg, as indicated by the visible injury. The person is surrounded by a backpack and a suitcase, suggesting that they might be traveling or on a trip. The park is fenced in, providing a sense of security for the person.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass in a park, possibly injured. The person has a broken arm, as indicated by the visible injury. The park is surrounded by a chain-link fence, and there are cars parked nearby. Additionally, there is a suitcase and a backpack close to the person, suggesting that they might have been traveling or carrying their belongings with them.",
+                "alertness_ocular": "The scene shows a person lying on the grass in a park, possibly sleeping or resting. The person's eyes are closed, and it is not possible to determine if they are responsive or not based on the image alone. The park is surrounded by a fence, and there are cars parked nearby. Additionally, there is a suitcase next to the person, which might suggest that they are traveling or have recently arrived at the park.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground in a grassy area, possibly in a park. The person appears to be bleeding severely, which could be due to an amputation or a severe hemorrhage. The person is surrounded by a chain-link fence, and there are cars parked nearby. Additionally, there is a suitcase and a backpack close to the person, which might belong to them. The situation is quite concerning, and it is essential to seek immediate medical assistance for the person.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma\\\\_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness\\\\_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254486220381273",
+        "image": "8/1/1726254486220381273.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the ground, possibly dead or injured, with a fence nearby. The person is wearing a military uniform, and there is a backpack close to them.",
+                "trauma_head": "The scene shows a person lying on the grass, possibly a soldier, with a head injury. The person is wearing a helmet, which suggests that they might have been involved in some form of combat or accident. The presence of a fence in the background indicates that the location could be a military base or a restricted area. The person's condition and the context of the scene suggest that they might have sustained a head injury during their duties or while performing a task.",
+                "trauma_torso": "The scene features a person lying on the grass, possibly a soldier, with a fake torso injury. The person is wearing a military uniform and appears to be in a field. The fake injury suggests that this could be a training exercise or a simulation, possibly to prepare for real-life situations or to practice emergency response procedures.",
+                "trauma_lower_ext": "The scene features a person lying on the grass, possibly a soldier, with a fake head and a fake leg. The person appears to be wearing a military uniform, and the fake head and leg are placed in a way that suggests they have been blown off. The person is lying next to a fence, and there is a backpack nearby. The presence of the fake injuries and the military uniform suggest that this could be a training exercise or a staged scene for a specific purpose.",
+                "trauma_upper_ext": "The scene features a person lying on the grass, possibly a soldier, with a fake arm injury. The person is wearing a military uniform and appears to be in a field. The fake arm injury suggests that this might be a training exercise or a simulation, possibly to prepare for real-life situations or to practice emergency response procedures.",
+                "alertness_ocular": "In the scene, a person is lying on the grass, possibly dead or injured, with their eyes closed. They are wearing a military uniform, and there is a fence nearby. The person appears to be unresponsive, which raises concerns about their well-being. The presence of a backpack and a handbag in the scene suggests that the person might have been carrying belongings with them. The situation requires immediate attention and assistance from emergency services or medical professionals to determine the cause of the person's condition and provide necessary help.",
+                "severe_hemorrhage": "The scene shows a person lying on the grass, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a military uniform, and there is a backpack nearby. The setting appears to be outdoors, with a fence in the background. The person's condition is quite concerning, and it is essential to seek immediate medical assistance in such situations.",
+                "value-dict": "{\"trauma_head\": \"{'trauma\\\\_head': 'absence'}\", \"trauma_torso\": \"{'trauma\\\\_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726259283387628722",
+        "image": "27/0/1726259283387628722.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the ground, possibly dead or in a lifeless state. They are positioned next to a box, which is placed on the ground. The person appears to be a dummy or a mannequin, and they are lying on the sidewalk.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly dead, with a box nearby. The person has a head injury, which appears to be a bullet wound. The presence of the box and the person's condition suggest that this might be a staged or fake scene, possibly for a movie or a photoshoot.",
+                "trauma_torso": "The scene shows a person lying on the ground, possibly dead, with a box nearby. The person has a missing torso, which suggests that they might have been involved in an accident or a violent incident. The presence of the box could indicate that the person was carrying or handling the box before the incident occurred. The overall atmosphere of the scene is quite disturbing and unsettling.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground, possibly dead, with a box nearby. The person has a broken leg, which is a lower extremity injury. The presence of the box and the person's position against a wall suggest that this might be a staged or accidental scene.",
+                "trauma_upper_ext": "The scene features a person lying on the ground, possibly a dummy or a mannequin, with a broken arm. The person is positioned next to a box, which is placed on the ground. The setting appears to be outdoors, with a wall nearby. The broken arm suggests that the person might have experienced an accident or an intentional act of damage.",
+                "alertness_ocular": "The scene shows a person lying on the ground, possibly dead, with their eyes closed. They are not responsive, and their body is positioned against a wall. The person is wearing a jacket, and there is a box nearby. The overall atmosphere of the scene suggests a sense of tragedy or distress.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground, possibly bleeding severely or experiencing a severe hemorrhage. The person is positioned next to a box, which is placed on the ground. The situation appears to be quite concerning, as the person's condition is not stable, and they might require immediate medical attention.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness\\\\_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726259343130828987",
+        "image": "27/1/1726259343130828987.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a mannequin lying on the ground, possibly on a sidewalk or a street. The mannequin appears to be in a somewhat dirty or disheveled condition, and it is wearing a jacket.",
+                "trauma_head": "The scene shows a mannequin lying on the ground, possibly on a sidewalk or a street, with a box nearby. The mannequin appears to have a head injury, as it is missing its head. This could be a result of an accident or an intentional act of vandalism. The presence of the box suggests that the mannequin might have been discarded or abandoned, and the head injury adds a sense of tragedy or mystery to the scene.",
+                "trauma_torso": "The scene features a mannequin lying on the ground, possibly on a sidewalk or a street, with a box nearby. The mannequin appears to have a fake torso injury, as it is described as having a \"busted torso.\" This could be a result of the mannequin being damaged or purposely altered to create a dramatic or shocking effect. The presence of the box might suggest that the mannequin was recently placed there or is part of an art installation or a promotional display.",
+                "trauma_lower_ext": "The scene features a mannequin lying on the ground, possibly on a sidewalk or a street, with a box nearby. The mannequin appears to be wearing a camouflage jacket and sunglasses. It is not clear if the mannequin has any lower extremity injuries, as the image does not provide enough information to determine if the legs are damaged or not.",
+                "trauma_upper_ext": "The scene features a mannequin lying on the ground, possibly on a sidewalk or a street, with a box nearby. The mannequin has a fake arm injury, as it appears to be missing an arm. This could be an intentional design choice or a result of damage to the mannequin. The presence of the box suggests that the mannequin might have been discarded or placed there temporarily.",
+                "alertness_ocular": "The scene features a mannequin lying on the ground, possibly on a sidewalk or a street, with its eyes closed. The mannequin appears to be in a relaxed position, and it is not responsive to its surroundings. The mannequin is positioned next to a brick wall, which adds to the urban setting of the scene.",
+                "severe_hemorrhage": "The scene shows a mannequin lying on the ground, possibly bleeding or having amputations. It is positioned against a wall, and there is a box nearby. The mannequin appears to be in a severely injured or dead state, which may be interpreted as a severe hemorrhage or amputation. The presence of the box and the mannequin's position against the wall suggest that this might be a staged or artistic scene, possibly intended to evoke emotions or provoke thought.",
+                "value-dict": "{\"trauma_head\": \"{'trauma\\\\_head': 'absence'}\", \"trauma_torso\": \"{'trauma\\\\_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness\\\\_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254591864491484",
+        "image": "9/0/1726254591864491484.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly injured or unconscious, in a grassy area. They are located near a soccer net, which suggests that they might have been playing soccer or engaged in some other outdoor activity.",
+                "trauma_head": "The scene shows a person lying on the ground in a grassy area, possibly in a park. The person appears to be injured, as they are wearing a helmet and have a bandage on their head. It is unclear whether the person is a baseball player or not, but the presence of the helmet suggests that they might be involved in a sport or activity that requires head protection. The person is lying on the ground, possibly resting or recovering from the injury.",
+                "trauma_torso": "The scene shows a person lying on the ground in a grassy area, possibly in a park. The person appears to be injured, as they are wearing a neck brace. The presence of the neck brace suggests that they might have suffered a head or neck injury. The person is lying on the grass, and there is a soccer net nearby, indicating that they might have been playing soccer when the injury occurred.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground in a grassy area, possibly in a park. The person appears to be injured, as they are wearing a cast on their leg. The cast suggests that they might have a broken leg or another injury that requires immobilization. The person is lying on the ground, possibly resting or seeking help.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground in a grassy area, possibly a soccer field. The person appears to have a broken arm, as indicated by the visible injury. The person is surrounded by a fence, and there are several cars parked nearby. The presence of the fence and the cars suggests that the location might be a public space or a sports facility.",
+                "alertness_ocular": "In the scene, there is a person lying on the ground, possibly sleeping, in a grassy area. The person's eyes are closed, and it is not possible to determine if they are responsive or not. The person is located near a soccer net, which suggests that they might be taking a break from playing soccer or simply resting in the grass.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground, possibly bleeding severely, with a baseball bat nearby. The person is located in a grassy area, and there is a fence in the background. The presence of the baseball bat suggests that the person might have been playing baseball or engaged in some other activity that led to the bleeding. The severity of the bleeding cannot be determined from the image alone, but it is clear that the person is in a distressing situation and requires immediate medical attention.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{\\n\\\"alertness\\\\_ocular\\\": [\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"closed\\\",\\n\\\"\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254807442123487",
+        "image": "11/0/1726254807442123487.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the grass, possibly dead or in a state of distress. The person is wearing a military uniform, and there are apples scattered around them.",
+                "trauma_head": "The scene shows a person lying on the grass in a park, possibly injured. The person appears to have a head injury, as they are described as having a \"busted head.\" The presence of a bus in the background suggests that the park is located near a road or transportation hub. The person is wearing a uniform, which could indicate that they are a soldier or a member of a specific organization. The overall atmosphere of the scene is quite concerning, as the person's condition and the presence of a busted head suggest that they might be in need of medical assistance.",
+                "trauma_torso": "The scene shows a person lying on the grass in a park, possibly dead or injured. The person has a missing torso, which indicates a severe injury or a fatality. The park is located near a street, and there are several cars parked or passing by in the background. The presence of a missing torso suggests that this is a disturbing and potentially dangerous situation that requires immediate attention from authorities.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass in a park, possibly injured or dead. The person has a missing leg, which indicates a severe lower extremity injury. The park is located near a street, as there are cars and a bus visible in the background. The presence of the missing leg suggests that the person might have been involved in an accident or experienced some form of trauma.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass in a park, possibly injured. The person has a missing arm, which indicates a severe injury. The park is located near a street, as there are cars and a bus visible in the background. The presence of the missing arm suggests that the person might have experienced an accident or an incident that led to this injury.",
+                "alertness_ocular": "In the scene, there is a person lying on the grass, possibly dead or unconscious. Their eyes are closed, and they are not responsive. The person is wearing a military uniform, which suggests that they might be a soldier. The setting appears to be a park or a field, with a bus and a car nearby. The presence of the bus and car indicates that this might be a public area or a location with some traffic.",
+                "severe_hemorrhage": "The scene shows a person lying on the grass, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a military uniform, and there are several apples scattered around them. In the background, there are cars and a bus, indicating that the location might be near a road or a parking area. The presence of the apples and the person's uniform suggest that this could be a staged or artistic scene, rather than a real-life emergency situation.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726255445254407611",
+        "image": "11/0/1726255445254407611.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows two people lying on the grass, possibly sleeping or resting. They are positioned next to each other, and there is a car nearby.",
+                "trauma_head": "The scene shows two people lying on the grass in a park. One of the individuals appears to have a head injury, specifically a head wound. The person with the head wound is lying on the grass, while the other person is also lying down nearby. The presence of the head wound suggests that the individuals might have been involved in an accident or some form of physical altercation.",
+                "trauma_torso": "The scene shows two people lying on the grass in a park. One of the individuals has a visible torso injury, specifically a bullet wound. The presence of the bullet wound suggests that the person might have been involved in a dangerous situation or an accident. The other person is lying next to the injured individual, possibly providing support or assistance. The park setting and the presence of cars in the background indicate that this incident might have occurred in a public area.",
+                "trauma_lower_ext": "The scene shows two people lying on the grass in a park. One of the individuals has a leg injury, specifically a broken leg. They are both wearing camouflage clothing, which suggests that they might be soldiers. The park is surrounded by cars, indicating that it is a public space with parking facilities nearby.",
+                "trauma_upper_ext": "The scene shows two people lying on the grass in a park. One of the individuals has a broken arm, which is visible in the image. The person with the broken arm is lying on their back, while the other person is lying on their stomach. The park is surrounded by trees, and there are cars parked nearby. The presence of the broken arm suggests that the individuals might have been involved in an accident or some other incident that led to their injuries.",
+                "alertness_ocular": "In the scene, two people are lying on the grass in a park. They appear to be sleeping or resting, as they are not responsive to their surroundings. Their eyes are closed, and they are not engaging with the environment or each other. The park setting, with trees and cars in the background, suggests a relaxed and peaceful atmosphere.",
+                "severe_hemorrhage": "In the image, there is a person lying on the grass in a park, possibly bleeding or experiencing severe hemorrhage. The person is wearing a camouflage uniform, which suggests that they might be a soldier. There are several cars parked nearby, and a fire hydrant is also visible in the scene. The presence of the fire hydrant indicates that the park is located in an urban area. The person's condition is concerning, and it is essential to seek immediate medical assistance to address the situation.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma\\\\_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726259246763849664",
+        "image": "26/0/1726259246763849664.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly a homeless person, with a suitcase nearby. The person appears to be in a poor condition, possibly dead or in a state of distress.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly on a sidewalk or a street, with a head injury. The person is wearing a hat and glasses, and there is a bottle nearby. The presence of the head injury suggests that the person might have been involved in an accident or experienced some form of trauma. It is important to note that the exact nature of the injury cannot be determined from the image alone, but it is clear that the person is in a vulnerable and potentially dangerous situation.",
+                "trauma_torso": "The scene shows a person lying on the ground, possibly dead, with a missing torso. The person is wearing a camouflage outfit and sunglasses. The body is positioned next to a window, and there is a dog nearby. The presence of a missing torso and the person's attire suggest that this could be a staged or fake scene, possibly for a movie or a photoshoot.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground, possibly a homeless person, with a pair of sneakers on. The person is wearing a hat and glasses, and there is a bottle nearby. The person appears to have a lower extremity injury, as one of their legs is missing. This suggests that the person might have experienced an accident or some other unfortunate event that led to the loss of their leg. The presence of the bottle and the person's homeless appearance indicate that they might be struggling with their circumstances and facing challenges in their daily life.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground, possibly a homeless person, with a broken arm. The person is wearing a camouflage jacket and sunglasses, and they are positioned next to a wall. The broken arm suggests that the person might have experienced an accident or an incident that led to their current situation.",
+                "alertness_ocular": "The scene shows a person lying on the ground, possibly dead, with their eyes closed. They are not responsive, and their body appears to be lifeless. The person is wearing a uniform, which suggests that they might have been a soldier or a member of a specific organization. The setting is outdoors, with a building nearby.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a camouflage outfit and is positioned next to a window. The situation appears to be quite concerning, as the person's condition is not stable, and they might require immediate medical attention.",
+                "value-dict": "{\"trauma_head\": \"{'trauma\\\\_head': 'absence'}\", \"trauma_torso\": \"{'trauma\\\\_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness\\\\_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258468652209698",
+        "image": "19/0/1726258468652209698.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly dead or injured, with their head turned to the side. They are wearing a camouflage uniform, which suggests that they might be a soldier.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly dead, with a head injury. The person is wearing a camouflage uniform, which suggests that they might be a soldier. The head injury appears to be a bullet wound, indicating that the person might have been shot. The presence of a suitcase nearby could suggest that the person was carrying belongings or equipment when the incident occurred. The overall atmosphere of the scene is quite somber and concerning.",
+                "trauma_torso": "The scene shows a person lying on the ground, possibly dead, with a suitcase nearby. The person has a visible torso injury, which appears to be a bullet wound. The presence of the suitcase and the person's condition suggest that this could be a staged or realistic representation of a crime scene or a dramatic situation.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground, possibly dead, with a suitcase nearby. The person has a missing leg, which indicates a severe lower extremity injury. The presence of the suitcase suggests that the person might have been traveling or on the move when the injury occurred. The overall atmosphere of the scene is quite disturbing and unsettling.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground, possibly dead, with a suitcase nearby. The person has a missing arm, which suggests that they might have been involved in an accident or experienced some form of trauma. The presence of the suitcase could indicate that the person was traveling or on the move when the incident occurred. The overall atmosphere of the scene is quite disturbing and raises concerns about the person's well-being and the circumstances surrounding their situation.",
+                "alertness_ocular": "The scene shows a person lying on the ground, possibly dead, with their eyes closed. They are not responsive, and their body is positioned in front of a window. The person is wearing a uniform, which suggests that they might be a soldier or a member of a specific organization. The presence of a suitcase nearby could indicate that they were traveling or on a mission. The overall atmosphere of the scene is somber and concerning, as the person appears to be in a state of distress or unconsciousness.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a camouflage uniform, which suggests that they might be a soldier. The image also includes a box nearby, which could be related to the situation or simply coincidental. The presence of a window in the background indicates that the scene might be taking place in an urban or semi-urban setting.",
+                "value-dict": "{\"trauma_head\": \"{'trauma\\\\_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254358699718528",
+        "image": "7/0/1726254358699718528.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the ground in a grassy field. The person appears to be in a lifeless or unconscious state, possibly due to an accident or other unforeseen circumstances.",
+                "trauma_head": "The scene shows a person lying on the grass in a field, possibly with a head injury. The person is wearing a red shirt and appears to be unconscious or in a state of distress. The exact type of head injury cannot be determined from the image alone, but it is clear that the person is in a vulnerable position and may require assistance.",
+                "trauma_torso": "The scene shows a person lying on the grass in a field, possibly in a park. The person appears to be a woman, and she is wearing a red shirt. There is no visible torso injury in the image. The person is lying on her back, possibly enjoying the outdoors or taking a break. The field is surrounded by trees, creating a peaceful and natural setting.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass in a field, possibly in a park. The person appears to be wearing a red shirt and has a head injury. It is not possible to determine the exact type of injury from the image, but it is clear that the person is in a vulnerable position and may require assistance or medical attention.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass in a field, possibly in a park. The person appears to be wearing a red shirt and has a broken arm. The broken arm suggests that they might have experienced an accident or injury, and they are now resting on the grass while recovering.",
+                "alertness_ocular": "In the image, a person is lying on the grass in a field, possibly in a park. Their eyes are closed, and they appear to be unresponsive, as if they are sleeping or resting. The person is wearing a red shirt, and the scene is set against a backdrop of a blue sky.",
+                "severe_hemorrhage": "In the image, a person is lying on the grass in a field, possibly bleeding or experiencing severe hemorrhage. The person is wearing a red shirt, and there is a bottle nearby. The scene appears to be quite dramatic and concerning, as the person's condition is not immediately clear. It is important to note that the image may not depict a real-life situation, as it could be a staged or fictional scene.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'absence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254398698326718",
+        "image": "7/1/1726254398698326718.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the ground in a grassy field. They appear to be in a relaxed or possibly sleeping position.",
+                "trauma_head": "The scene shows a person lying on the ground in a grassy field, possibly in a park. The person appears to be unconscious or sleeping, and there is a visible head injury. The head injury is described as a cut, which suggests that the person might have experienced an accident or an incident that led to the injury. The person is wearing a red shirt, and the field is surrounded by trees, creating a serene and peaceful atmosphere.",
+                "trauma_torso": "The scene shows a person lying on the grass in a park, possibly enjoying the sun or taking a break. The person is wearing a red shirt and jeans. There is no visible indication of any torso injuries in the image.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass in a park, possibly enjoying the sunshine. The person is wearing a red shirt and jeans. There is no visible lower extremity injury in the image.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass in a park, possibly enjoying the sunshine. The person has a broken arm, which is visible in the image. The broken arm suggests that the person might have experienced an accident or injury, and they are now resting in the park while recovering.",
+                "alertness_ocular": "In the scene, a person is lying on the grass in a park, possibly sleeping or resting. Their eyes are closed, and they appear to be unresponsive to their surroundings. The person is wearing a red shirt, and the setting includes a field with trees in the background. The overall atmosphere suggests a peaceful and relaxing environment.",
+                "severe_hemorrhage": "In the image, a person is lying on the grass in a park, possibly bleeding or experiencing severe hemorrhage. The person is wearing a red shirt, and there is a backpack nearby. The scene appears to be quite serious, as the person is lying on the ground, possibly in need of immediate medical attention.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'absence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258694601258127",
+        "image": "22/0/1726258694601258127.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the ground, possibly dead or injured, with blood on their clothes. They are positioned next to a building, and there is a suitcase nearby.",
+                "trauma_head": "The scene features a person lying on the ground, possibly dead, with a head injury. The person is wearing a white shirt and is positioned next to a building. The presence of a head injury suggests that the person might have been involved in an accident or a violent incident. The exact type of injury cannot be determined from the image alone, but it is clear that the person is in a distressing situation.",
+                "trauma_torso": "The scene features a person lying on the ground, possibly dead, with a knife sticking out of their chest. The person is wearing a white shirt and is positioned in front of a building. The presence of the knife and the person's position suggest that they might have been a victim of a violent incident.",
+                "trauma_lower_ext": "The scene features a person lying on the ground, possibly dead, with a knife sticking out of their chest. The person is wearing a white shirt and is positioned near a wall. The presence of the knife and the person's position suggest that they might have been stabbed or attacked.",
+                "trauma_upper_ext": "The scene features a person lying on the ground, possibly on a sidewalk or a street, with a fake arm injury. The person appears to be wearing a white shirt and is positioned in front of a building. The fake arm injury suggests that this might be a part of a performance, art installation, or a prank.",
+                "alertness_ocular": "The scene features a person lying on the ground, possibly dead, with their eyes closed. They are wearing a white shirt and a pair of pants. The person appears to be in a state of shock or unresponsiveness, as they are not reacting to their surroundings. The image is set in an urban environment, with a building nearby and a suitcase close to the person.",
+                "severe_hemorrhage": "The scene depicts a person lying on the ground, appearing to be bleeding severely. The person is wearing a white shirt and is positioned in front of a building. The situation seems to be quite dramatic and concerning, as the person is bleeding profusely, which could indicate severe injuries or a medical emergency.",
+                "value-dict": "{\"trauma_head\": \"{'trauma\\\\_head': 'presence'}\", \"trauma_torso\": \"{'trauma\\\\_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'wound'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253536992221181",
+        "image": "3/0/1726253536992221181.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the ground, possibly dead or injured, with a fence in the background. There is also a dummy lying on the grass, which might be a part of a Halloween display or a prank.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly injured, with a helmet on their head. The person is wearing a camouflage uniform, which suggests that they might be a soldier or a military personnel. The helmet is placed on the ground next to the person, and there is a fence nearby. The presence of the helmet and the camouflage uniform indicate that the person might have experienced a head injury, possibly due to an accident or an incident related to their military duties.",
+                "trauma_torso": "The scene features a person lying on the grass, possibly injured or dead, with a fence in the background. The person has a missing torso, which suggests that they might have been involved in an accident or a violent incident. The presence of a fence and the person's position on the grass indicate that this might be a public or outdoor area.",
+                "trauma_lower_ext": "The scene features a person lying on the grass, possibly injured or dead, with a fence in the background. The person has a lower extremity injury, specifically a missing leg. The presence of a fake head and a fake leg suggests that this might be a dummy or a prop used for a specific purpose, such as a training exercise or a theatrical performance.",
+                "trauma_upper_ext": "The scene features a person lying on the grass, possibly injured, with a fence in the background. The person has a fake arm injury, as indicated by the fake arm lying next to them. The presence of the fence and the person's position on the grass suggest that this might be a staged or simulated situation, possibly for training or demonstration purposes.",
+                "alertness_ocular": "In the scene, there is a person lying on the ground, possibly dead, with their eyes closed. They are wearing a camouflage uniform, and there is a sign nearby. The person appears to be unresponsive, and their eyes are closed, which suggests that they might be in a state of unconsciousness or even death. The presence of the sign and the person's attire indicate that this could be a staged or symbolic scene, possibly related to a military or political context.",
+                "severe_hemorrhage": "The scene depicts a person lying on the ground, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a camouflage uniform, and there is a fake head nearby. The setting appears to be outdoors, with a fence in the background. There are also two other people in the scene, one standing close to the person lying on the ground and another person further away. The presence of the fake head and the person's condition suggest that this might be a staged or dramatic scene, possibly for a movie, play, or artistic performance.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253700117884508",
+        "image": "3/1/1726253700117884508.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the ground, possibly dead or injured, with a fence in the background. The person is wearing a military uniform, and there is a box nearby.",
+                "trauma_head": "The scene shows a person wearing a military uniform, lying on the grass in a fenced-in area. The person appears to have a head injury, as they are wearing a bandage on their head. The presence of the bandage suggests that they might have experienced a head trauma or a similar injury. The person is also holding a cell phone, which could be used for communication or other purposes.",
+                "trauma_torso": "The scene shows a person wearing a military uniform, lying on the grass in a fenced-in area. The person appears to be injured, as they have a missing torso. The image is quite disturbing and unusual, as it is not common to see someone with such severe injuries in a public setting. The presence of the fence and the person's military attire suggest that this might be a staged or controlled environment, possibly for a training exercise or a performance art piece.",
+                "trauma_lower_ext": "The scene shows a person wearing a military uniform, sitting on the grass with a fake leg. The person appears to be a dummy or a mannequin, and the fake leg is placed on the ground next to them. The setting is outdoors, with a fence in the background.",
+                "trauma_upper_ext": "The scene shows a person wearing a military uniform, possibly a soldier, sitting on the grass in a field. The person has a missing arm, which indicates that they might have experienced an injury or an amputation. The presence of a fence in the background suggests that the location could be a military base or a secure area. The person is also wearing a hat, which adds to their military appearance.",
+                "alertness_ocular": "The scene shows a person lying on the grass, possibly dead or injured, with their eyes closed. They are wearing a military uniform and are positioned next to a fence. The person appears to be unresponsive, and their condition is uncertain. The presence of a suitcase nearby adds to the mysterious and potentially dangerous atmosphere of the scene.",
+                "severe_hemorrhage": "In the image, a person is lying on the grass, possibly bleeding severely or experiencing a severe hemorrhage. The person is wearing a military uniform, and there is a box nearby. The scene appears to be set in a fenced-in area, which could be a park or a similar outdoor space. The person's condition is quite concerning, and it is essential to seek immediate medical assistance in such situations.",
+                "value-dict": "{\"trauma_head\": \"{'trauma\\\\_head': 'presence'}\", \"trauma_torso\": \"{'trauma\\\\_torso': 'presence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256271888354568",
+        "image": "13/0/1726256271888354568.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person who appears to be a dummy or a mannequin, sitting on the grass next to an orange barricade. The person is positioned in such a way that it seems like they are leaning against the barricade.",
+                "trauma_head": "The scene features a person sitting on the grass next to an orange barricade. The person appears to have a head injury, specifically a head wound, which could be a result of an accident or an intentional act. The presence of the barricade suggests that the area might be restricted or dangerous, and the person's injury could be related to their proximity to the barricade.",
+                "trauma_torso": "The scene features a person sitting on the grass next to an orange barricade. The person appears to be a dummy or a mannequin, and they have a cut in their torso. This could be a result of an accident or an intentional act of vandalism. The presence of the orange barricade suggests that the area might be restricted or under construction, which could be a reason for the dummy's placement there.",
+                "trauma_lower_ext": "The scene features a person sitting on the grass next to an orange barricade. The person appears to have a broken leg, as they are sitting with a cast on their leg. The presence of the barricade and the person's injury suggest that the area might be restricted or undergoing maintenance, and the person might be waiting for assistance or observing the situation.",
+                "trauma_upper_ext": "The scene features a person sitting on the grass next to an orange barricade. The person appears to be a mannequin or a dummy, and it has a broken arm. The broken arm suggests that the mannequin might have been damaged or mishandled, possibly during transportation or installation. The presence of the orange barricade indicates that the area might be under construction or restricted for some reason.",
+                "alertness_ocular": "The scene features a person sitting on the grass next to an orange barricade. The person appears to be a dummy or a mannequin, as they are not responsive and have their eyes closed. The setting seems to be a park or an outdoor area, with a car visible in the background. The person is positioned in such a way that they are leaning against the orange barricade, creating an interesting and unusual visual effect.",
+                "severe_hemorrhage": "The scene shows a person sitting on the grass next to an orange barricade. The person appears to be bleeding severely, which could be interpreted as a severe hemorrhage or amputation. The situation is quite concerning, and it is essential to seek immediate medical assistance for the person involved.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256351743503447",
+        "image": "13/1/1726256351743503447.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the grass, possibly sleeping or resting. They are positioned next to an orange barricade or construction barrier.",
+                "trauma_head": "The scene shows a person lying on the grass next to an orange barricade. The person appears to be unconscious or possibly injured, as they are described as having a head injury. However, the specific type of head injury cannot be determined from the image alone. The person is wearing a black shirt and is positioned close to the orange barricade, which is placed in the grass.",
+                "trauma_torso": "The scene shows a person lying on the grass next to an orange barricade. The person appears to be injured, as they are described as having a broken torso. This suggests that they might have experienced a severe trauma or accident, which has led to their current condition. The presence of the orange barricade indicates that the area might be restricted or undergoing maintenance, and the person's injury could be related to their proximity to the barricade or the activities taking place nearby.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass next to an orange barricade. The person appears to be injured, as they are wearing a cast on their leg. This suggests that they might have experienced a lower extremity injury, such as a fracture or a sprain, which requires the use of a cast for support and healing. The presence of the orange barricade indicates that the area might be restricted or under construction, which could be a contributing factor to the person's injury.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass next to an orange barricade. The person appears to be injured, as they have a broken arm. The broken arm suggests that they might have experienced an accident or an incident that led to their current condition. The presence of the orange barricade indicates that the area might be restricted or under construction, which could be a contributing factor to the person's injury.",
+                "alertness_ocular": "In the scene, a person is lying on the grass next to an orange barricade. The person's eyes are closed, and it is not possible to determine if they are responsive or not. The image captures a moment of rest or relaxation for the individual, with the orange barricade providing a contrasting element to the scene.",
+                "severe_hemorrhage": "In the image, a person is lying on the grass next to an orange barricade. The person appears to be bleeding, which could be a severe hemorrhage or amputation. The scene is quite concerning, as the person's condition requires immediate medical attention. The presence of the orange barricade suggests that the area might be restricted or dangerous, adding to the urgency of the situation.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256415437048382",
+        "image": "13/2/1726256415437048382.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the ground, possibly a dummy or a mannequin, with a grassy field in the background. The person is positioned in front of an orange barricade or construction blockade.",
+                "trauma_head": "The scene shows a person lying on the grass next to an orange barricade. The person appears to have a head injury, as they are described as having a \"busted head.\" The exact type of injury cannot be determined from the image, but it is clear that the person is in a vulnerable and potentially dangerous situation.",
+                "trauma_torso": "The scene features a person lying on the grass next to an orange barricade. The person appears to be a dummy or a mannequin, as they are not moving or showing any signs of life. The dummy has a visible torso injury, which appears to be a stab wound. This adds a dramatic and potentially disturbing element to the scene.",
+                "trauma_lower_ext": "The scene features a person lying on the grass next to an orange barricade. The person appears to be a dummy or a mannequin, as they are not moving or showing any signs of life. There is no indication of any lower extremity injuries in the image.",
+                "trauma_upper_ext": "The scene features a person lying on the grass next to an orange barricade. The person appears to be a mannequin, and it has a broken arm. The broken arm suggests that the mannequin might have been damaged or mishandled, resulting in the injury. The mannequin is positioned in a way that it seems to be resting or relaxing on the grass, with the orange barricade nearby.",
+                "alertness_ocular": "In the scene, a person is lying on the grass next to an orange barricade. The person's eyes are closed, and they appear to be unresponsive. It is not clear if they are a real person or a dummy, but their position and lack of responsiveness suggest that they might be a dummy or a mannequin.",
+                "severe_hemorrhage": "In the image, there is a person lying on the grass, possibly bleeding severely. The person is positioned in front of an orange barricade, which is a large orange traffic barrier. The scene appears to be outdoors, and the person is lying on the ground, possibly injured or in distress.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256456918813765",
+        "image": "13/3/1726256456918813765.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene features a person lying on the grass, possibly a mannequin or a dummy. The person is positioned in a way that they appear to be resting or sleeping on the ground.",
+                "trauma_head": "The scene shows a person lying on the grass, possibly with a head injury. The person is wearing a plaid shirt and is positioned next to a large orange object, which could be a bench or a chair. The presence of the head injury suggests that the person might have experienced an accident or a fall, leading to the injury. However, without more information, it is not possible to determine the exact type of injury or its severity.",
+                "trauma_torso": "The scene features a person lying on the grass, possibly a mannequin or a dummy, with a broken torso. The person is positioned in front of a large orange object, which could be a bench or a piece of furniture. The presence of the broken torso suggests that the person might have experienced an accident or some form of damage, which has led to the current state of the person in the image.",
+                "trauma_lower_ext": "The scene features a person lying on the grass, possibly a mannequin or a dummy, with a broken leg. The person is positioned next to a large orange object, which could be a bench or a piece of furniture. The presence of the broken leg suggests that the person might have experienced an accident or an injury, which has led to the current situation.",
+                "trauma_upper_ext": "The scene features a person lying on the grass, possibly a mannequin or a dummy, with a broken arm. The person is positioned next to a large orange object, which could be a bench or a piece of furniture. The broken arm suggests that the person might have experienced an accident or an incident that led to the injury.",
+                "alertness_ocular": "The scene features a person lying on the grass, possibly a mannequin or a dummy, with their eyes closed. They are not responsive, as they are not moving or showing any signs of awareness. The person is positioned next to a large orange object, which could be a bench or a piece of furniture. The setting appears to be an outdoor area, possibly a park or a garden, with the person lying on the grass.",
+                "severe_hemorrhage": "The scene shows a person lying on the grass, possibly bleeding severely. The person is positioned next to a large orange object, which could be a bench or a piece of furniture. The image does not provide enough information to determine if the person has experienced amputations or severe hemorrhage. However, the presence of blood and the person's condition suggest that they may be in a state of distress or injury.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726255618285223245",
+        "image": "12/0/1726255618285223245.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly dead or in a state of distress. They are located in a grassy area, surrounded by a fence.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly in a field or a park, with a fence nearby. The person appears to have a head injury, as they are described as having a \"busted head.\" The exact type of injury cannot be determined from the image alone, but it is clear that the person is in a vulnerable and potentially dangerous situation.",
+                "trauma_torso": "The scene shows a person lying on the ground, possibly dead, with a head injury. They are positioned behind a fence, which could be a wire or a metal fence. The person is wearing a hat, and their body is covered in blood. The presence of the fence and the blood suggest that the person might have been involved in an accident or a violent incident.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground, possibly dead, with their head and legs sticking out of a chain-link fence. The person has a head injury, which could be a result of the fall or an accident. The presence of the fence and the person's position suggest that they might have been attempting to climb or jump over it, leading to the injury.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground, possibly in a field or a park, with a fence nearby. The person appears to be injured, as they have a bandaged arm. The exact type of injury cannot be determined from the image, but it is clear that the person is in a vulnerable or injured state.",
+                "alertness_ocular": "In the scene, a person is lying on the ground, possibly dead, with their eyes closed. They are positioned behind a fence, which suggests that they might be in a restricted or enclosed area. The person appears to be unresponsive, as they are not showing any signs of movement or interaction with their surroundings. The image evokes a sense of mystery and concern for the person's well-being.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground, possibly bleeding severely or experiencing a severe hemorrhage. They are surrounded by a fence, which could indicate that they are in a confined or restricted area. The person appears to be in a state of distress, and their condition is concerning.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726255678988503946",
+        "image": "12/1/1726255678988503946.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly in a fenced-in area, with a dog nearby. The person appears to be in a poor condition, possibly injured or unconscious.",
+                "trauma_head": "The scene shows a person lying on the ground in a fenced-in area, possibly a pen or a cage. The person appears to have a head injury, as they are described as having a \"busted head.\" The exact type of injury cannot be determined from the image alone, but it is clear that the person is in a vulnerable and potentially dangerous situation.",
+                "trauma_torso": "The scene shows a person lying on the ground in a fenced-in area, possibly a pen or a cage. The person appears to have a missing torso, which is a severe and unusual injury. The presence of a fence suggests that the person might be in a controlled environment, such as a hospital or a secure facility. The absence of a torso indicates that the person has likely undergone a traumatic event or medical procedure that has resulted in this unusual condition.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground in a fenced-in area, possibly a pen or a cage. The person appears to have a lower extremity injury, as they are wearing a cast on their leg. The presence of the cast suggests that they might have experienced a fracture or another type of injury that required medical attention and immobilization.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground in a fenced-in area, possibly a pen or a cage. The person appears to have a broken arm, as indicated by the visible injury. The person is surrounded by a few birds, which are also present in the enclosed space. The presence of the birds and the person's injury suggest that this might be a unique or unusual situation.",
+                "alertness_ocular": "In the image, there is a person lying on the ground, possibly in a field or a fenced-in area. The person's eyes are closed, and it is not clear whether they are responsive or not. The scene appears to be a mix of a person and a dog, with the person lying down and the dog standing nearby. The presence of a fence in the background suggests that the person might be in a controlled environment, such as a park or a designated outdoor space.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground, possibly bleeding severely, with a fence nearby. The person appears to be in a field, and there is a bird nearby. The situation is quite concerning, as the person's condition suggests a severe injury or medical emergency. It is important to seek immediate medical assistance in such cases to address the bleeding and ensure the person's safety and well-being.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{\\\"alertness\\\\_ocular\\\": [\\\"open\\\", \\\"closed\\\", \\\"untestable\\\"]}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258901070790374",
+        "image": "23/0/1726258901070790374.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly dead or injured, in front of a building. The person is wearing a military uniform, which suggests that they might be a soldier.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly injured, with their head resting on the ground. The person is wearing a military uniform, which suggests that they might be a soldier. The image does not provide enough information to determine the exact type of injury, but it is clear that the person is in a vulnerable position.",
+                "trauma_torso": "The scene shows a person lying on the ground, possibly injured, with their torso exposed. The person is wearing a camouflage uniform, which suggests that they might be a soldier. The image does not provide enough information to determine the exact type of injury, but it is clear that the person is in a vulnerable position.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground, possibly injured, with their feet visible. The person is wearing a military uniform, which suggests that they might be a soldier. The exact nature of the injury is not clear from the image, but it is evident that the person is in a vulnerable position and may require assistance.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground, possibly injured, with their arm in a cast. The person is wearing a military uniform, which suggests that they might be a soldier. The setting appears to be a street or a similar outdoor area, as the person is lying on the ground next to a building. The presence of the cast on the person's arm indicates that they might have suffered an injury, and the cast is being used to support and protect the affected limb during the healing process.",
+                "alertness_ocular": "In the scene, a person is lying on the ground, possibly dead, with their eyes closed. They are not responsive, and it appears that they are not moving or showing any signs of life. The person is wearing a military uniform, which suggests that they might be a soldier. The setting is outdoors, with a building in the background.",
+                "severe_hemorrhage": "In the image, a person is lying on the ground, possibly bleeding severely. The scene takes place in front of a building, and the person is wearing a military uniform. The situation appears to be quite serious, as the person is lying on the ground with blood visible, which could indicate severe hemorrhage or amputation. It is important to note that the image does not provide enough information to determine the exact cause or severity of the injury.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'absence'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'absence'}\", \"alertness_ocular\": \"{'alertness_ocular': 'closed'}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254770618678531",
+        "image": "10/0/1726254770618678531.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground, possibly dead or injured, in a grassy area. There is also a baseball bat nearby, suggesting that the person might have been involved in a baseball game or practice.",
+                "trauma_head": "The scene shows a person lying on the ground, possibly in a baseball field, with a head injury. The person appears to be bleeding from the head, which suggests that they might have been hit by a baseball or experienced some other form of trauma. The presence of a baseball bat in the image further supports the possibility of a baseball-related incident. The person is lying on the grass, and there is a car in the background, indicating that the incident might have occurred near a parking area or a road.",
+                "trauma_torso": "The scene shows a person lying on the ground in a grassy area, possibly a baseball field. The person appears to have a torso injury, as they are described as having a \"gut shot.\" This type of injury typically occurs when a bullet or other projectile penetrates the abdominal area, causing severe internal damage. The presence of a baseball bat in the scene suggests that the person might have been playing baseball, and the injury could have been caused by a stray ball or an accident during the game.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground in a grassy area, possibly a baseball field. The person appears to have a lower extremity injury, as they are wearing a cast on their leg. The presence of a baseball bat and a baseball glove in the scene suggests that the person might have been playing baseball when the injury occurred. The person is now resting on the ground, possibly waiting for assistance or medical attention.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground in a grassy area, possibly a baseball field. The person appears to have a broken arm, as indicated by the presence of a cast on their arm. The person is lying on a mattress, which is placed on the grass. The setting suggests that the person might be taking a break or resting during a baseball practice or game.",
+                "alertness_ocular": "In the scene, a person is lying on the ground, possibly in a field or a park, with their eyes closed. They appear to be unresponsive, as if they are sleeping or resting. The person is surrounded by a fence, which suggests that they might be in a designated area or a sports field. The presence of a baseball bat nearby indicates that the person might be involved in a baseball game or practice.",
+                "severe_hemorrhage": "In the image, there is a person lying on the ground, bleeding severely. The scene takes place in a park, with a baseball field nearby. The person appears to be in a state of distress, and the situation is quite concerning. It is important to note that the person may have experienced an amputation or severe hemorrhage, which requires immediate medical attention.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'absence'}\", \"trauma_torso\": \"{'trauma_torso': 'absence'}\", \"trauma_lower_ext\": \"{'trauma_lower_ext': 'wound'}\", \"trauma_upper_ext\": \"{'trauma_upper_ext': 'wound'}\", \"alertness_ocular\": \"{\\\"alertness\\\\_ocular\\\": \\\"closed\\\"}\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    }
+]

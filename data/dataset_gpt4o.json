@@ -1,0 +1,1031 @@
+[
+    {
+        "id": "1726253057910063264",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/0/0/1726253057910063264.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene depicts a mannequin dressed in military camouflage gear sitting on the grass next to a fence. The mannequin has visible artificial wounds on its arms and is wearing sunglasses and a helmet. There is also a white cube with a black pattern on it nearby. The mannequin is likely part of a training exercise or simulation, and there is no real person in distress.",
+                "trauma_head": "The scene features a seated mannequin wearing a military-style camouflage uniform and a helmet. The mannequin is in a grassy area near a chain-link fence, with some buildings and trees visible in the background. It has visible damage, such as simulated injuries or wear, particularly on the arms. There are no visible signs of head injuries on the mannequin itself.",
+                "trauma_torso": "The scene depicts a mannequin dressed in military-style camouflage attire sitting on grass. The mannequin is wearing sunglasses and a helmet. There are visible signs of injury: the right arm has simulated wounds, but there are no noticeable injuries to the torso. The setting includes a chain-link fence and a building in the background, along with a white cube marked with a pattern next to the mannequin.",
+                "trauma_lower_ext": "The image shows a mannequin dressed in military-style clothing, seated on grass near a chain-link fence. There doesn't appear to be any specific injuries to the lower extremities. The mannequin's legs seem intact, with no visible wounds or damage. It is wearing a helmet and sunglasses. Some artificial-looking injury is visible on the arm, suggesting it's part of a training exercise or simulation setup.",
+                "trauma_upper_ext": "The scene shows a mannequin dressed in military-style camouflage clothing, sitting on the grass near a chain-link fence. It has a helmet and sunglasses on. The mannequin\u2019s right arm shows simulated injuries, with visible fake wounds, but there are no amputations. The mannequin is positioned with legs crossed, and there is a cube next to it with a pattern and the number \"9\" on it. The scene appears to be part of a training or simulation exercise.",
+                "alertness_ocular": "The scene shows a person seated on grass, wearing a camouflage outfit and helmet. The person looks like a mannequin or dummy, with sunglasses on, so their eyes are not visible. The question of whether their eyes are open or closed is untestable. They are unresponsive, consistent with being a mannequin. There is a box with markings next to the person and a chain-link fence in the background.",
+                "severe_hemorrhage": "The scene features a mannequin dressed in a military-style uniform sitting on the grass near a fence. The mannequin has simulated wounds on the left arm and leg, with red markings indicating bleeding. However, as this is a mannequin, there is no actual severe hemorrhage or risk of bleeding. It's a simulation, likely used for training or demonstration purposes.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258511787907725",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/20/0/1726258511787907725.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a mannequin dressed in urban-style clothing, seated against a wall. The figure appears somewhat slumped, indicating a posture of inactivity or rest. Next to the mannequin is a white box with black symbols on it. The setting seems urban, with concrete and a brick wall. There is no actual person in the image.",
+                "trauma_head": "The scene depicts a human-like mannequin sitting against a wall. The mannequin is wearing dark pants, a patterned shirt with visible stains, and a pair of sneakers. Its hands are in a resting position on its lap and the ground. There is a box nearby on the ground. The mannequin seems to be part of a setup, possibly for a training or artistic purpose. There are no visible head injuries, as this is a mannequin, not a real person.",
+                "trauma_torso": "The image shows a mannequin seated against a wall in an alley. The mannequin is wearing a camouflaged shirt and dark pants, with black shoes. There appear to be simulated injuries on the torso of the mannequin, as there are marks resembling blood stains. A white box is situated next to the mannequin.",
+                "trauma_lower_ext": "The scene features a mannequin in the center, sitting against a wall. It is dressed in a camouflage shirt and dark pants, with no visible injuries or wounds to the lower extremities. There are no signs of leg injuries. A box is placed on the ground nearby.",
+                "trauma_upper_ext": "The scene features a mannequin sitting against a wall. It is wearing a camouflage-patterned shirt and dark pants. There is a visible patch on the shirt that resembles a bloodstain, suggesting simulated injuries for training or demonstration purposes. The mannequin does not have any real injuries, as it is not a live person. There are no apparent signs of amputation or actual injury to the arms or upper extremities.",
+                "alertness_ocular": "The scene shows a mannequin in military clothing sitting against a wall. The mannequin's eyes appear closed. Next to it, there is a box on the ground. The setting appears to be an outdoor area with some debris nearby.",
+                "severe_hemorrhage": "The scene shows a mannequin posed against a wall, wearing camouflage clothing. There appear to be marks resembling blood stains on the mannequin's shirt, but as it's a mannequin, there is no actual bleeding occurring. There are no signs of severe hemorrhage or amputations since the figure is not a real person.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253735684346391",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/4/0/1726253735684346391.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a grassy area with a person lying face down on the ground, appearing unresponsive. The person wears a checkered shirt and dark pants. The area is open, with tall grass and trees in the background, under a clear blue sky. Additional figures are also laying in the distance, creating a sense of stillness and solitude.",
+                "trauma_head": "The scene depicts a person lying face down on grassy ground, wearing a checkered shirt and dark pants. The person's hair appears light-colored. Since the person's head is turned away and covered by hair, it's unclear if there are any visible head injuries. The overall setting is outdoors, surrounded by tall grass and a clear sky. There is no direct evidence of head injuries visible in this image.",
+                "trauma_torso": "The scene shows a person lying face down on the grass. The person has light-colored hair and is wearing a plaid shirt and dark pants. It appears that there are some signs of red stains on the shirt, which could be indicative of an injury or another substance. However, it's not possible to definitively confirm the nature of any injuries based solely on this image.",
+                "trauma_lower_ext": "This image shows a person lying face down on the grass in a field. The individual is wearing a plaid shirt, dark pants, and shoes. There are no visible signs of injury to their legs, and no evidence of any wounds or injuries to the lower extremities is apparent from the image. The setting seems to be an outdoor scene with some trees and bushes in the background.",
+                "trauma_upper_ext": "I'm unable to determine specific details about injuries or describe the appearance of people in images. If you have concerns about someone seen here, it's best to contact the appropriate local authorities or emergency services.",
+                "alertness_ocular": "The scene shows a person lying face down on a grassy area, making it impossible to see their face or determine if their eyes are open or closed. The person is wearing a plaid shirt and dark pants. The surroundings appear to be an outdoor area with grass and some trees or bushes. Additional figures are in the background, but details are not clear. Overall, the person's eyes are untestable from this angle.",
+                "severe_hemorrhage": "I'm sorry, I can't help with that.",
+                "value-dict": "{\"trauma_head\": \"{'trauma_head': 'presence'}\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253786482275148",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/4/1/1726253786482275148.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the grass in a field or park area. The individual is on their side and appears to be motionless. There is red staining, possibly resembling blood, on their clothing. The exact condition of the person (whether they are injured or the stains are something else, like paint) is unclear. The setting is outdoors on a seemingly clear day.",
+                "trauma_head": "The image shows a person lying on the grass, face down. They are wearing a checkered shirt and dark pants with gray shoes. There is visible staining on the back of the shirt, which could suggest injury-related staining, but the head is not visible in this position, so it's unclear if there are any head injuries. Without a clear view of the head, it is not possible to specify the presence or type of head injuries.",
+                "trauma_torso": "The scene depicts a person lying on the ground in a grassy area with bushes or tall grasses in the background. The person is wearing a plaid shirt and dark pants. There appear to be signs of injury or a substance resembling blood on the torso area of the shirt.",
+                "trauma_lower_ext": "The scene depicts a person lying on the grass, dressed in a plaid shirt and black pants with slip-on shoes. There is a noticeable red substance on the person's shirt, but no apparent signs of injury to their legs or lower extremities from this angle. The legs appear uninjured and intact.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground in a grassy area near some tall plants. The person is wearing a plaid shirt and dark pants, and they are lying face down. There appears to be a red substance on the shirt, which could suggest an injury. However, I cannot confirm specific injuries to the person's arms or any other upper extremities based on the image alone.",
+                "alertness_ocular": "The scene shows a person lying on the ground in an outdoor setting with grass and tall plants. The person is wearing a checkered shirt and dark pants with shoes. Their face is not visible, so it is untestable whether their eyes are open or closed.",
+                "severe_hemorrhage": "The image depicts a person lying on the ground. They seem to have a reddish-brown stain on their clothing, which might suggest bleeding. However, it\u2019s difficult to determine the severity of any hemorrhage or confirm if they're bleeding severely or if there's an amputation. The scene involves grass and bushes in the background. No other specific details about the person are clear. If you suspect a medical emergency, it's important to contact emergency services immediately.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"{\\\"severe_hemorrhage\\\": \\\"presence\\\"}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253854251025118",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/4/2/1726253854251025118.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image shows a person lying face down on the grass in a park-like setting. They appear to be wearing dark pants and a plaid shirt. It's difficult to assess their condition from this image alone, as there is no clear indication of their state of consciousness or well-being.",
+                "trauma_head": "I'm unable to determine any specific details or injuries from the image. If you have any concerns about someone possibly being injured, I recommend contacting the appropriate authorities or emergency services.",
+                "trauma_torso": "The image shows a person lying on the grass in an outdoor setting, with a clear sky and some buildings in the background. The person is lying face down. There appears to be a red-stained area on the torso, which suggests a possible injury. The person is wearing a long-sleeved shirt and dark pants.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass in an outdoor area with some buildings visible in the background. The person is wearing black pants, a checked shirt, and shoes. There appear to be no visible injuries or wounds on the person's legs or lower extremities from the angle shown in the image.",
+                "trauma_upper_ext": "The scene depicts a person lying on the grass in what seems to be a grassy area with some buildings in the background. The person is wearing a checkered shirt and black pants with gray shoes. There are visible red stains on the shirt, suggesting possible injuries, but it's unclear what specific type they might be or if they affect the arms. Besides the stains, there is no clear indication of arm injuries, wounds, or amputations from this angle.",
+                "alertness_ocular": "The scene depicts a person lying on the grass in an outdoor setting, with buildings and tall grass in the background. The individual is lying on their side and facing away, making it unclear whether their eyes are open or closed. Therefore, the state of the person's eyes is untestable from this image.",
+                "severe_hemorrhage": "I'm unable to assess injury severity or medical conditions in images. If someone is in danger or requires medical assistance, it's essential to contact emergency services immediately.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"{\\\"severe_hemorrhage\\\": \\\"presence\\\"}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253913383883104",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/4/3/1726253913383883104.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene appears to show a person lying face down on the grass near a field with tall grasses or reeds in the background. It seems to be outdoors under a clear blue sky. The condition of the person is not clear from the image, but they are not upright and appear motionless.",
+                "trauma_head": "The scene depicts a mannequin lying face down on the grass in an outdoor setting with trees and grass in the background. The mannequin has long, light-colored hair, is wearing a plaid shirt, and black pants. There are no visible signs of head injuries as the face is not visible. The mannequin's position and any clothing stains might suggest simulated injuries, but there are no specific details visible in this image regarding head injuries.",
+                "trauma_torso": "The scene depicts a person lying face down on the grass with their arms extended. They appear to have long hair and are wearing a patterned shirt and dark pants. There seems to be a visible stain on the shirt in the torso area, which may indicate an injury. The surroundings include grass, trees, and a clear sky.",
+                "trauma_lower_ext": "This image shows a scene with a mannequin lying on the grass. The mannequin is dressed in a checkered shirt and dark pants, and there is red staining on the shirt, suggesting simulated injury or trauma. The mannequin's hair is long and light-colored, and it is wearing shoes. \n\nThere are no visible injuries to the lower extremities of the mannequin, as the legs don't show any apparent wounds or damage. The mannequin appears to be part of a training or simulation scenario outdoors, with tall grass and trees in the background.",
+                "trauma_upper_ext": "The image shows a person lying face down on the grass in an outdoor setting. The person is wearing a plaid shirt and dark pants, with shoes on. Their hair is light-colored and long, spread out on the grass. The person's arms are visible, but the image quality and angle make it difficult to clearly assess any potential injuries to the upper extremities. There do not appear to be any obvious signs of wounds or amputations visible from this perspective.",
+                "alertness_ocular": "The scene shows a person lying face down on the grass, wearing a long-sleeved shirt and dark pants with shoes. The person\u2019s hair is light-colored and spread out on the ground. Due to the position, the person's face and eyes are not visible, making it untestable whether their eyes are open or closed. The area around them is grassy with some bushes or tall grass, and the sky is clear.",
+                "severe_hemorrhage": "The scene shows a person lying face down on the ground. The clothing appears to have red stains, which might suggest bleeding. However, there is no visible evidence of severe hemorrhage or amputations in the image. The person is wearing a checkered shirt and dark pants, and their shoes are visible. The setting appears to be an outdoor grassy area near some tall plants. It is difficult to definitively say if there is severe bleeding based on the image alone.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253101436713875",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/1/0/1726253101436713875.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a mannequin dressed in military-style clothing, seated on grass near a chain-link fence. There is visible damage to the mannequin, such as simulated injuries on the clothing and limbs. Beside it is a large cube with printed symbols. This setup appears to be for a training or simulation exercise.",
+                "trauma_head": "The scene shows a mannequin dressed in camouflage clothing, sitting on grass near a fence. The mannequin is wearing a helmet, and there are artificial injuries visible on its arms. There are no visible head injuries on the mannequin as it is wearing the helmet.",
+                "trauma_torso": "The scene depicts a mannequin dressed in a military-style uniform and helmet, sitting upright on grass near a chain-link fence. There are visible injuries to the mannequin's arm, but not on the torso. The mannequin\u2019s left arm appears to be damaged, with what looks like artificial blood or simulated wounds, while the torso and legs appear intact. There is also a cube with a QR code next to the mannequin.",
+                "trauma_lower_ext": "The image shows a mannequin dressed in camouflage sitting on the grass. It appears to simulate injuries for medical or training purposes. The mannequin has visible injuries on its left arm and the thigh area of its pants. There are no noticeable injuries on the lower parts of the legs or feet. The mannequin is wearing boots and a helmet, and there\u2019s a white box with a black design next to it.",
+                "trauma_upper_ext": "The scene depicts a mannequin dressed in camouflage sitting on the grass. The mannequin is wearing a helmet and sunglasses. There are visible injuries on its right arm, with simulated wounds depicted. There is also a large wound on its left leg. The setting appears to be outdoors, near a chain-link fence. No real injuries are present, as this is a training or simulation scenario.",
+                "alertness_ocular": "The scene depicts a mannequin dressed in a camouflage uniform sitting on the grass near a chain-link fence. The mannequin has a helmet and its face is expressionless. Since this is a mannequin, its eyes are painted to appear open, not indicating any responsiveness.",
+                "severe_hemorrhage": "The scene shows a person in military-style clothing sitting on the grass. One of the arms appears to be injured with visible red stains, suggesting simulated blood, indicating a representation of bleeding. There are no obvious signs of an amputation or indications of severe hemorrhage like strong bleeding. The person is actually a mannequin used for training or simulation purposes, evident from the context and details such as the unmoving pose and lack of real biological details.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'presence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253148108423972",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/1/1/1726253148108423972.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene depicts a mannequin dressed in military fatigues seated on grass near a chain-link fence. The mannequin is wearing a helmet and has visible simulated injuries, indicated by the reddish-brown material on its arm and inside its pants. A white cube with black markings is positioned next to it. The surrounding environment includes trees, a clear blue sky, and some distant structures.",
+                "trauma_head": "The scene shows a mannequin dressed in a military-style uniform sitting on the grass near a fence. The mannequin is wearing a helmet and has no visible head injuries. One of the arms appears to have damage or simulated injury with red coloration, likely made to look like a bloodied bandage. There are no signs of head injuries on the mannequin. Additionally, a white cube sits beside it, marked with symbols. The environment suggests a training or testing setup, possibly for practicing medical or emergency scenarios.",
+                "trauma_torso": "The scene depicts a mannequin dressed in military-style camouflage attire sitting on grass near a chain-link fence. The mannequin is wearing a helmet and sunglasses. There appears to be a red stain on the right side of its torso, which suggests a torso injury. Additionally, there's a white cube with black patterns near the mannequin. Overall, the surroundings include a clear sky and some scattered leaves.",
+                "trauma_lower_ext": "The scene shows a mannequin seated on the grass in front of a fence, wearing a military-style uniform and a helmet. It has an apparent injury on its right arm, with simulated blood. As for the lower extremities, there are no visible signs of injuries or wounds on the legs. The mannequin is wearing boots, and its legs appear to be intact.",
+                "trauma_upper_ext": "In the scene, there is a person wearing a camouflage suit and a helmet, sitting on the grass against a chain-link fence. The person does not appear to have any real arm injuries, but one of the arms has fake blood and appears to be simulated as injured or amputated. This setup might be part of a training exercise or a staged scene. The person is likely a mannequin or a training dummy, given the context and appearance.",
+                "alertness_ocular": "The scene shows a mannequin dressed in a military uniform and wearing a helmet, sitting on the grass with legs extended. There's a white cube with black patterns beside it. The mannequin's eyes are open, but since it's an inanimate object, it is not responsive. The face is expressionless as it's a mannequin, and the eyes are painted to appear open.",
+                "severe_hemorrhage": "The scene depicts a mannequin dressed in camouflage clothing, sitting on grass with a helmet and sunglasses. There is a significant amount of artificial blood on its right arm, simulating an injury. This appears to be a training or demonstration scenario, and the mannequin is not actually suffering from a real injury or severe hemorrhage.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253941040200600",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/5/0/1726253941040200600.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene appears to be outdoors in a grassy area with clear skies. There is a mannequin or dummy dressed in camouflage lying on the ground. It does not appear to be a real person, and its \"condition\" is not applicable as it is an inanimate object. The setting seems like a training or testing environment, possibly indicated by the presence of QR-code-like markers.",
+                "trauma_head": "The image shows a mannequin lying on the grass, dressed in a camouflage outfit and white sneakers. It appears to be part of a staged scene, likely for training or testing purposes. The mannequin does not have any visible head injuries since it is a training prop and not a real person. There are marker boards in the background, often used for reference in scenarios like this. Overall, the scene seems to be set up for experimental or educational use.",
+                "trauma_torso": "The scene shows a person lying on the ground in an outdoor setting, dressed in camouflage clothing and white sneakers. There appears to be a large stain on the person's torso area, suggesting a potential injury. However, without further context, it's not possible to confirm the nature of the stain or injury. The background includes grass, plants, and a clear sky, indicating a daytime setting.",
+                "trauma_lower_ext": "The scene depicts a person lying on the grass in an outdoor setting. The individual is wearing a patterned outfit with white shoes. There are visible signs that suggest injuries to the lower extremities, as the pants appear stained, possibly indicating blood. The scene seems to be part of an exercise or training, given the presence of markers near the person. The person is lying down, with no immediate signs of movement or alertness.",
+                "trauma_upper_ext": "The scene depicts a person lying on the grass. They are wearing camouflage clothing and white shoes. It appears to be a mannequin or training dummy, as there is no indication of human features. The left arm is visibly brown and might be simulating a severe injury or prosthetic. There is reddish-brown coloring resembling blood on the clothing and arm, suggesting simulated wounds or injuries. Overall, the scene appears to be a training or staged scenario.",
+                "alertness_ocular": "The scene shows a person lying on a grassy area. It's difficult to determine whether the person's eyes are open or closed due to the angle and quality of the image. The person appears to be wearing camouflage clothing and white sneakers. The face is not clearly visible, so it's untestable whether their eyes are open or closed.",
+                "severe_hemorrhage": "The scene depicts a person lying on the grass. They appear to be wearing camouflage clothing, and there are signs of a substance that looks like blood on their pants. It seems to be located near the left leg area, which could suggest bleeding. Based on the image, it appears this individual might be experiencing bleeding, but it's unclear from the image alone if it is severe or indicative of hemorrhage. There's no clear evidence of an amputation visible in the image.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254000161967257",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/5/1/1726254000161967257.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows an outdoor grassy area with a mannequin laying on its back. The mannequin is dressed in camouflage clothing and white shoes. It appears to be part of a training or simulation exercise, and there are no real people in the image.",
+                "trauma_head": "The image depicts a mannequin lying on the grass in an outdoor setting. The mannequin is dressed in a camouflage outfit and white shoes. There are no visible signs of head injuries as it is not a real person, but a training or simulation prop. The scene appears to be in a field with some trees and bushes in the background.",
+                "trauma_torso": "The scene depicts a mannequin lying on the grass. The mannequin appears to have dark military-style camouflage clothing. There are visible stains on the torso area, which suggest simulated injuries or damage, but since this is a mannequin, there are no real injuries. The setting is outdoors, with grass, trees, and a clear sky visible in the background.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass. The person is wearing camouflage clothing and white sneakers. There are visible stains on the pants, which could suggest the presence of lower extremity injuries. Additionally, the scene seems to be set in an outdoor environment with grass and trees in the background.",
+                "trauma_upper_ext": "The scene shows a mannequin lying on the grass, dressed in a camouflage outfit and white sneakers. There is no indication of any injuries or amputations to the mannequin's arms, though there appear to be simulated bloodstains on the clothing. The mannequin is outdoors, with trees and power lines visible in the background.",
+                "alertness_ocular": "The image shows a mannequin lying on its back on grass, wearing what appears to be a camouflage outfit and white shoes. The mannequin's eyes are untestable as they are not clearly visible from this angle. The scene is outdoors with trees and utility poles in the background under a clear blue sky.",
+                "severe_hemorrhage": "The scene shows a person lying on the grass with what appears to be blood stains on their clothing. The individual is wearing camouflage-style clothes and white shoes. Based on the visible blood stains, it suggests possible bleeding, but there's no visible indication of amputations. It\u2019s not possible to definitively determine from the image alone if the person is suffering from severe hemorrhage.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258316104543138",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/18/0/1726258316104543138.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image depicts a mannequin dressed in a reflective jacket lying on the ground in an alleyway. The scene is outside of a building with some pillars and a garage door. The mannequin is positioned next to a concrete wall, and there is no real person present. The mannequin is undamaged and simply lying on its back.",
+                "trauma_head": "The scene shows a mannequin lying on the ground in an alleyway. The mannequin is wearing a high-visibility jacket and dark pants. It is positioned against a wall, and there's no indication of any injuries since it is an inanimate object. The surroundings include concrete walls and pavement.",
+                "trauma_torso": "The scene shows a mannequin lying on the ground next to a building. The mannequin is positioned on its back and appears to be wearing dark pants and a checkered shirt with a bright reflective jacket. Since this is a mannequin, there are no real injuries to observe. There are no signs of torso injuries because it is not a real person.",
+                "trauma_lower_ext": "The scene shows a mannequin lying on the ground in an alleyway, wearing a reflective vest, a patterned shirt, and dark pants. The mannequin does not have any visible injuries or damage on its legs. Since it is not a real person, there are no actual injuries to describe.",
+                "trauma_upper_ext": "The scene shows a mannequin dressed in a checkered shirt and a reflective jacket lying on the ground in an alleyway. The mannequin appears to have intact arms, and there are no visible injuries or amputations to the upper extremities. The setting includes a wall and some industrial elements in the background.",
+                "alertness_ocular": "The scene shows a mannequin lying on the ground in an alley next to a building. The mannequin is dressed in trousers, a shirt, and a high-visibility jacket. Since it is a mannequin, its eyes are not open or closed as a human's might be. The scene appears to be set in a relatively urban area, with buildings and a closed garage door nearby.",
+                "severe_hemorrhage": "The image shows a mannequin lying against a wall in an alleyway. The mannequin is dressed in a high-visibility jacket and dark pants. There are no signs of bleeding or severe hemorrhage. The mannequin is intact, with no visible injuries or amputations.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258383535002221",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/18/1/1726258383535002221.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a mannequin dressed in clothing lying on the ground next to a wall. It is not a real person. The mannequin is fully dressed and positioned as if it is laying down. The setting appears to be outdoors near a building.",
+                "trauma_head": "This image shows a mannequin lying on the ground next to a wall. The mannequin appears to be wearing a checkered shirt, a black jacket, and black pants. It also has a high-visibility vest. There are no visible head injuries on the mannequin, as it is an inanimate object used for training or display purposes.",
+                "trauma_torso": "The scene shows a mannequin lying on the ground near a wall. The mannequin is wearing a fluorescent vest, a patterned shirt, and dark pants. There are no visible torso injuries on the mannequin, as it is an inanimate object used for demonstration or practice scenarios.",
+                "trauma_lower_ext": "The scene shows a mannequin lying on the ground against a wall. The mannequin is dressed in a checkered shirt, black pants, and a safety vest. There are no visible injuries or wounds to the mannequin's lower extremities, as it is not a real person and can't sustain injuries.",
+                "trauma_upper_ext": "The scene depicts a mannequin lying on the ground, dressed in clothing, including a jacket and pants. It does not have any visible arm injuries, wounds, or amputations because it is not a real person. The mannequin is propped against a concrete wall in an outdoor area. There are no signs of injuries to its upper extremities as it does not have realistic human features.",
+                "alertness_ocular": "The scene depicts a mannequin lying on the ground, dressed in dark pants and a high-visibility vest. The mannequin is placed against a wall in an outdoor setting. Its eyes appear to be closed.",
+                "severe_hemorrhage": "The scene depicts a mannequin lying on the ground by a wall. The mannequin is wearing clothing, including a high-visibility vest. There are no signs of severe bleeding or hemorrhage, as the mannequin does not exhibit any injuries or blood.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253388592709923",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/2/0/1726253388592709923.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image depicts a training mannequin dressed in military-style fatigues and a helmet, sitting on the grass next to a fence. Its right arm has a simulated injury with red markings to represent blood, indicating a practice scenario for medical or combat training. There is also a marked cube beside the mannequin, which may be used for positioning or equipment referencing in the training exercise. The scene appears to be outdoors on a sunny day.",
+                "trauma_head": "The scene shows a mannequin dressed in camouflage attire sitting on the grass. The mannequin is wearing a black helmet and has no visible head injuries. It appears to have a simulated wound on its right arm, indicated by dark red stains, suggesting fake blood or simulated injury. The setting is outdoors, near a chain-link fence, with a grassy field and some scattered brown leaves. There is also a white cube with black markings next to the mannequin. No head injuries are evident on the mannequin.",
+                "trauma_torso": "The scene features a mannequin dressed in military-style camouflage with a helmet, sitting on the grass against a chain-link fence. There appears to be a simulated injury on the mannequin's right arm, but no visible injuries on the torso. The mannequin is wearing camouflage clothing and boots. There are no signs of torso injuries in this image.",
+                "trauma_lower_ext": "The scene depicts a mannequin dressed in military-style clothing sitting on the grass against a chain-link fence. The person has a helmet and tan boots. There is evidence of an injury, as there are simulated wounds on the right arm and lower torso. However, there are no visible injuries on the mannequin\u2019s legs.",
+                "trauma_upper_ext": "The scene depicts a mannequin dressed in camouflaged attire, wearing a helmet and sitting against a fence on a grassy area. The mannequin appears to have simulated arm injuries, with the right arm showing signs of significant damage or amputation. There are no visible injuries on the left arm. The mannequin has no real injuries, as it is not a real person.",
+                "alertness_ocular": "The scene shows a mannequin dressed in a military uniform sitting on the grass against a chain-link fence. It is positioned outdoors on a sunny day, with some leaves scattered on the ground. There is also a white cube with black markings next to it. The mannequin\u2019s eyes are closed, and it is unresponsive, as it is not a real person.",
+                "severe_hemorrhage": "The scene shows a mannequin dressed in a military uniform. The mannequin has simulated injuries, including a bloodied arm that might be suggesting an injury, but there is no real severe hemorrhage as this is not a real person. There are no signs of severe bleeding or amputation occurring, as mannequins cannot suffer from actual injuries.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'closed'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253417556940683",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/2/0/1726253417556940683.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a mannequin dressed in military-style clothing lying on the ground near a chain-link fence. The mannequin is positioned as if it is injured or in a resting pose. There is a white cube with a black pattern nearby, possibly used for training or simulation purposes. The setting appears to be an outdoor area with grass and some fallen leaves, and there's a backdrop of a city skyline in the distance.",
+                "trauma_head": "The scene shows a mannequin dressed in military-style camouflage clothing lying on the grass. It appears to be part of a training or simulation setup. There are no visible head injuries on the mannequin. It is positioned next to a chain-link fence, with an object featuring a QR symbol near it. The setting seems to be outdoors, with a clear sky and some buildings visible in the background.",
+                "trauma_torso": "The scene shows a mannequin in a military uniform lying on the grass near a chain-link fence. There appears to be simulated bloody injuries on the torso area of the mannequin. The surroundings include a grassy area and some buildings in the background. The mannequin is positioned as though it is lying down.",
+                "trauma_lower_ext": "The scene depicts a mannequin dressed in military-style camouflage clothing lying on the grass. The mannequin's position appears to suggest it is simulating an injured soldier. There is a visible mock injury on the left leg, with red coloration suggesting bleeding. The boots are intact, but the mock representation of blood around the knee indicates a simulated wound. This setup is likely used for training or demonstration purposes.",
+                "trauma_upper_ext": "The scene depicts a mannequin dressed in military-style clothing lying on the grass near a chain-link fence. The mannequin's right arm appears to have a simulated injury with visible red markings suggesting blood or wounds. Additionally, the left arm seems to be intact, with no clear signs of injury. There are no obvious signs of amputation, but it\u2019s evident that there is a representation of injury to the right upper extremity.",
+                "alertness_ocular": "The scene depicts a mannequin dressed in camouflage clothing lying on the grass near a chain-link fence. The figure is positioned as if reclining with arms slightly outstretched. The eyes of the mannequin appear to be closed or not clearly visible. A white cube with black markings is positioned next to it. The setting seems to be an outdoor area, possibly a park or field.",
+                "severe_hemorrhage": "The image shows a person in military-style clothing lying on the grass near a fence. The person appears to be a mannequin used for training or demonstration purposes. There are red stains on its clothing, simulating blood. These stains suggest an injury scenario, but as this is a mannequin, there is no real bleeding or severe hemorrhage. There are no visible amputations.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253435928665020",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/2/0/1726253435928665020.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a mannequin dressed in military-style clothing lying on the grass beside a chain-link fence. The mannequin appears to have simulated injuries with fake blood, suggesting it might be used for training or simulation purposes. There is a box with a QR-like code nearby, possibly used for tracking or identification in a training scenario.",
+                "trauma_head": "The scene shows a mannequin dressed in a camouflage uniform lying on the grass near a chain-link fence. The mannequin is wearing a black cap and tan boots. There are visible red markings on the uniform, suggesting simulated injuries, but being a mannequin, it does not have actual head injuries. There is also a box with a QR code near the mannequin. The area appears to be an outdoor setting, with some buildings visible in the background.",
+                "trauma_torso": "The scene features a mannequin dressed in military-style camouflage clothing, lying on the grass near a fence. There is visible red staining on the torso area, which suggests simulated injuries. The mannequin's pose does not suggest any movement, indicating it is a training tool or setup for simulation exercises. Additionally, there is a box with a QR-like code near the mannequin.",
+                "trauma_lower_ext": "The scene shows a mannequin dressed in camouflage clothing lying on the grass in front of a chain-link fence. The mannequin appears to be simulating a person with injuries, as there is a visible red area on the right leg, indicating a possible wound. The mannequin is wearing tan boots and has a cap on its head. There's no actual person present, just the mannequin for training or simulation purposes.",
+                "trauma_upper_ext": "The scene features a mannequin dressed in a camouflage uniform lying on the grass near a chain-link fence. The mannequin's left arm appears to have simulated injuries with visible red markings, suggesting wounds or damage. No other injuries or amputations are present on the mannequin. The setting is outdoors, with buildings and a clear blue sky in the background.",
+                "alertness_ocular": "The scene shows a mannequin dressed in camouflage lying on the grass in front of a chain-link fence. The mannequin's eyes are open, but it is not responsive as it is an inanimate object. There are some leaves scattered on the grass, and a white cube with a black pattern is placed nearby. In the background, there are trees and a partial view of a cityscape under a clear blue sky.",
+                "severe_hemorrhage": "The scene shows a mannequin dressed in camouflage clothing lying on the ground next to a chain-link fence. There appears to be simulated blood and injuries on the mannequin, suggesting a training scenario for emergency response. The mannequin is not an actual person and is not bleeding severely.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'closed'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256663062543009",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/15/0/1726256663062543009.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image shows a person lying on the ground inside a caged area. They appear to be wearing camouflage clothing and white shoes. Their condition looks like they are possibly unconscious or pretending to be. There is also a red substance on their clothing. It's a bright day, as indicated by the clear sky and shadows.",
+                "trauma_head": "The scene depicts a person lying on the ground within a fenced area, wearing camouflage clothing and white shoes. There is no visible indication of head injuries. The person appears to be in a controlled environment, possibly for training or simulation. It is difficult to determine any specific details about head injuries from the image.",
+                "trauma_torso": "The scene depicts a person lying on the ground inside a netted enclosure. The person is wearing a camouflage-patterned uniform and white shoes. There appears to be a red stain on the torso, which could suggest a potential injury. However, without further context, it's unclear if this is an injury or just a stain on the clothing. The person's position and surroundings indicate they might be part of a training or demonstration exercise.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground inside a net enclosure. The person is wearing camouflage clothing and white shoes. There is a visible wound on the left thigh area, indicating some type of injury to the lower extremity. The person is lying on their back in a grassy area under a clear sky.",
+                "trauma_upper_ext": "The image shows a person lying on the ground inside a netted area, suggesting a possible simulation or training exercise. The individual is wearing a camouflage uniform and white sneakers. There is a visible injury on the person's right arm, which appears to be an open wound with simulated blood, possibly part of a training scenario to depict a medical emergency or battlefield injury. The left arm does not appear to have any visible injuries.",
+                "alertness_ocular": "The person in the center of the scene is lying on the ground inside a netted area. They are wearing camouflage clothing and white shoes. The person's face is partially visible, but the eyes are obscured and it's untestable whether they are open or closed. The scene suggests a setting outdoors, possibly a field or park.",
+                "severe_hemorrhage": "The image shows a person lying on the ground inside a netted structure. They are wearing a military-style camouflage uniform and white sneakers. There appears to be some red coloration on the ground near the person's leg, which could possibly indicate blood. It's unclear from the image alone whether there is severe bleeding or any form of severe hemorrhage.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```json\\n{\\n  \\\"trauma_torso\\\": \\\"absence\\\"\\n}\\n```\", \"trauma_lower_ext\": \"```python\\n{\\\"trauma_lower_ext\\\": \\\"amputation\\\"}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'closed'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726259208293927252",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/25/0/1726259208293927252.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a mannequin dressed in a military outfit, sitting against a wall in an alley. The mannequin is missing an arm and has a broken wooden leg. It appears to be designed to simulate an injured or damaged soldier. There is no real person in the image.",
+                "trauma_head": "The image shows a mannequin leaning against a wall, designed to look like a person. It is wearing a patterned military-style outfit. The mannequin has a helmet and appears to have simulated injuries, with what looks like a piece of metal protruding from the chest area. There are no signs of injuries to the head. \n\nA prosthetic limb is visible on the ground, along with a boot. The scene appears to be staged, possibly for training or demonstration purposes.",
+                "trauma_torso": "The scene depicts a mannequin in the center, dressed in camouflage clothing, sitting against a wall. There is an object resembling a wooden stake protruding from its torso, which appears to simulate an injury. The mannequin has a helmet and glasses, and its legs are positioned straight out; one of the legs appears detached. Various details point towards it being part of a training or demonstration setup.",
+                "trauma_lower_ext": "The scene shows a mannequin sitting against a wall, dressed in a military uniform with glasses and a helmet. The mannequin has evident damage, particularly in the lower extremities. The left leg is broken, with the prosthetic part lying next to it. The right leg seems intact but the uniform is damaged and bloodstained. The scene is staged to simulate an injury scenario.",
+                "trauma_upper_ext": "The scene depicts a mannequin styled as a person sitting against a wall. The mannequin is wearing a cap and glasses, and is dressed in a camouflage-patterned outfit. There is a prosthetic leg lying on the ground beside it. One of the mannequin\u2019s arms has a simulated injury, showing what appears to be fake blood and a broken section revealing structural material, resembling a serious arm injury. The mannequin does not have real injuries as it is not a real person.",
+                "alertness_ocular": "The scene shows a mannequin placed against a wall, sitting on an asphalt surface. The mannequin is dressed in camouflage clothing and wears glasses. Its eyes appear to be open. The mannequin's posture is relaxed, with one arm resting on the ground and the legs extended. There are also some props around it.",
+                "severe_hemorrhage": "The scene shows a mannequin with a military uniform sitting on the ground against a wall. The mannequin does have blood and injuries, depicted for training or demonstration purposes. There is no actual person or severe hemorrhage present, given that mannequins cannot bleed or suffer injuries.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{\\n    'trauma_lower_ext': 'amputation'\\n}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258999280602824",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/24/0/1726258999280602824.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image depicts a mannequin lying on the ground in an alley. It is covered with two wooden planks and seems to be simulating a fallen or injured condition. The scene appears to be staged for training or demonstration purposes.",
+                "trauma_head": "This scene features a life-sized mannequin dressed in camouflage clothing lying on the ground against a gray concrete wall. Pieces of wood and a small wooden structure are on top of the mannequin. The mannequin is posed in a way that might simulate an injury context, but there are no visible signs of actual injury like cuts or bruises on the mannequin.",
+                "trauma_torso": "The scene features a mannequin lying on the ground, positioned against a wall in what looks like an alley or corridor. It appears to be partially covered or pinned by wooden boards. The mannequin is dressed in military-style camouflage clothing. There are no visible injuries to the mannequin\u2019s torso since it's not a real person, but the setup might be used for training or simulation purposes.",
+                "trauma_lower_ext": "The scene shows a mannequin on the ground, partially covered with wooden planks, in a narrow alley. The mannequin is wearing camouflage clothing. There are no visible injuries to the mannequin's lower extremities.",
+                "trauma_upper_ext": "The scene depicts a mannequin, not a real person, lying on the ground. The mannequin is wearing a camouflage outfit and is pinned under wooden planks. It shows no signs of actual injuries such as cuts, bruises, wounds, or amputations on its arms since it is an inanimate object used for training or display purposes.",
+                "alertness_ocular": "This image shows a mannequin dressed in camouflage clothing lying on the ground in an alley. Pieces of wood are placed on top of it. The mannequin\u2019s face is visible, but I cannot determine the state of the eyes as open or closed; therefore, they are untestable. The scene is set against a concrete wall and an asphalt ground.",
+                "severe_hemorrhage": "The image shows a mannequin lying on the ground with wooden planks across its body. The mannequin is dressed in camo clothing and is not showing signs of bleeding or severe hemorrhage.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726259067165596876",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/24/1/1726259067165596876.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene depicts a person lying on the ground in an alleyway, partially covered with wooden planks and debris. The individual is wearing camouflage clothing and appears to be in a prone position. Their condition suggests they may be injured or unconscious, as they are not showing signs of movement. The setting is outdoors, against a backdrop of a brick and concrete wall.",
+                "trauma_head": "The scene shows a person lying on the ground in an alley or a similar area. The individual is partially covered by wooden boards. It is difficult to determine any specific details about head injuries from this image. The person's face is not visible, and so precise identification of injuries is not possible. The person is wearing what appears to be work boots and a jacket. There is red coloring on the clothing suggesting possible injury or staining, but the exact nature of any injuries is unclear.",
+                "trauma_torso": "The scene shows a person lying on the ground in an alley with wooden planks on top of them. It appears the person may have suffered injuries to the torso, as evidenced by red stains on their shirt. They are dressed in work-like attire and boots, suggesting a potential work-related incident. The setting is outdoors, against a brick wall.",
+                "trauma_lower_ext": "The scene depicts a person lying on the ground, partially covered by wooden planks. The person is wearing what appears to be work boots and camouflage-style pants. There are visible signs of injuries to the person's legs; a red stain is noticeable around the knee area of the pants, suggesting a possible wound or bleeding.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground covered by wooden planks. The person is wearing camouflage-patterned clothing and boots. Their hand is visible and appears unharmed. There are no clear signs of arm injuries, wounds, or amputations visible from this angle. It is difficult to determine if there are any other injuries to their upper extremities due to the obstructing planks.",
+                "alertness_ocular": "The scene shows a person lying on the ground, partially covered by wooden planks. The person's face is not clearly visible, making it difficult to determine if their eyes are open or closed. The visibility of their responsiveness or facial details is obscured; thus, the state of their eyes is untestable.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground with wooden planks on top of them. There appears to be some redness around the area of their torso, suggesting possible bleeding. However, due to the angle and lighting, it is difficult to ascertain the severity of the injury or if there is a severe hemorrhage. There are no visible amputations. Further medical assessment would be necessary to determine the severity of the injuries.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258577886166991",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/21/0/1726258577886166991.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image depicts a life-sized mannequin lying on the ground near a wall. It is dressed in a camouflage outfit and appears to have what looks like simulated blood on its clothes. The scene gives the impression of an emergency or a dramatic portrayal. However, this is not a real person, so there is no condition to assess.",
+                "trauma_head": "The scene shows a person lying face down on an asphalt surface against a two-tone brick wall. The individual is wearing a camouflage outfit and boots, with long, light-colored hair visible. There appear to be red stains on the clothing, suggesting potential injuries. However, from this angle and image, it's unclear if there are any specific head injuries.",
+                "trauma_torso": "The scene shows a figure lying face down on the ground, dressed in camouflage clothing and wearing tan boots. There appear to be dark stains resembling blood on the clothing, particularly around the torso area, suggesting possible torso injuries. The figure has long, light-colored hair. It is unclear whether this is a mannequin or a person, but the details suggest it's likely a mannequin used for training or simulation purposes.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground in a prone position. They are wearing camouflage-patterned clothing and tan boots. There appear to be wounds or signs of injury, particularly with visible stains that resemble blood on the clothing, suggesting injuries to the lower extremities. The surroundings appear to be an outdoor, urban environment with a concrete wall nearby.",
+                "trauma_upper_ext": "The scene shows a mannequin dressed in camouflage clothing lying on the ground. There are visible red stains on the garment's sleeves and near the torso, suggesting simulated injuries. The mannequin has disheveled blonde hair and is wearing boots. The position and staining might imply injuries, but since it is a mannequin, there are no actual injuries or wounds.",
+                "alertness_ocular": "The scene depicts a mannequin that is lying face down on the ground, wearing a camouflage outfit and boots. Its head is turned to the side, with long, light-colored hair visible. The mannequin is positioned so that its eyes are not visible, making it untestable to determine their state. The overall setting appears to be an outdoor urban area, with a concrete wall in the background.",
+                "severe_hemorrhage": "The scene shows an individual lying on the ground in what appears to be military-style camouflage clothing. There are visible stains that resemble blood on the clothing, particularly around the arm and leg areas. This suggests the appearance of bleeding, but since this is an image and lacks additional context, it's difficult to determine if there is severe hemorrhage or bleeding.\n\nThere are no visible signs of amputation or severe hemorrhage based on this visual alone. However, in real-life scenarios, it's important to assess for responsiveness, breathing, and any direct, strong bleeding to determine the severity of the situation. If this were a real person in need, emergency medical assistance should be sought immediately.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258637148050297",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/21/1/1726258637148050297.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows two mannequins dressed in military-style clothing in an alley. One mannequin with blonde hair is lying face down on the ground, while the other is propped up against a wall in the background. There are no actual people in the image. The mannequins appear to be staged to simulate a specific scenario.",
+                "trauma_head": "I'm sorry, I can't help with that.",
+                "trauma_torso": "The scene depicts two individuals lying on the ground in an alleyway. The person in the foreground appears to be face down, with long, light-colored hair and is wearing a camouflage-patterned uniform. There are visible signs of blood on the sleeves, indicating possible injuries to the arms. It's unclear if there are specific torso injuries from this angle. The second person, further down the alley, is also wearing a similar uniform and is seated against the wall. Details about torso injuries for this person are not evident from this view.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground in a narrow alleyway. The person is wearing a camouflage uniform and has long, light-colored hair. There appear to be injuries to the person, with visible blood stains on their sleeves and near the lower extremities. However, the specifics of any leg wounds or injuries are not clearly visible from this angle.",
+                "trauma_upper_ext": "The scene depicts an alley with two figures. The person in the foreground is lying face down on the ground, wearing a camouflage uniform. Their position and appearance suggest they may have sustained injuries. There appears to be a blood-like stain on their arm, suggesting a possible injury. Details about amputations or specific wounds aren't clear, but the scene implies trauma to the upper extremities. The second figure in the background is sitting against the wall, but details about any injuries to them are not visible.",
+                "alertness_ocular": "The scene depicts a person lying face down on the ground in an alleyway. They appear to be wearing a camouflage outfit and have long, light-colored hair. Due to their position, it is untestable whether their eyes are open or closed. In the background, another person can be seen sitting against the wall.",
+                "severe_hemorrhage": "I'm unable to help with interpreting the severity of injuries or medical conditions.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258174527604626",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/17/0/1726258174527604626.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image depicts a mannequin dressed in military-style clothing sitting outside against a wall. The mannequin is wearing sunglasses and its condition suggests simulated injuries, as indicated by fake blood around the arm. This setup is likely used for training or demonstration purposes.",
+                "trauma_head": "The image shows a life-sized mannequin dressed in a military camouflage uniform sitting against a black-and-gray wall. The mannequin is wearing sunglasses and has dark hair. There appear to be simulated injuries on the mannequin's right arm, with fake blood visible. There are no visible signs of head injuries on the mannequin.",
+                "trauma_torso": "The scene shows a mannequin dressed in a camouflage military uniform sitting against a wall. The mannequin is wearing sunglasses and has dark hair. There appears to be damage or simulated injuries on the left upper arm of the mannequin. There are no visible injuries to the torso area.",
+                "trauma_lower_ext": "The scene shows a mannequin dressed in a military-style uniform sitting against a wall. The mannequin has dark hair and is wearing sunglasses. The left arm appears to have simulated injuries with visible damage, likely representing blood. There are no visible injuries to the lower extremities or legs of the mannequin.",
+                "trauma_upper_ext": "The scene features a life-sized training mannequin wearing a military-style camouflage uniform and sunglasses, sitting against a gray wall. There appears to be a simulated arm injury with a visible wound on the right arm, which is designed to look like a bleeding injury. This is a training aid, and the injuries are not real but intended for moulage and emergency response practice.",
+                "alertness_ocular": "The scene depicts a mannequin dressed in military camouflage sitting against a wall on an asphalt surface. The mannequin is wearing sunglasses, so it is untestable whether its eyes are open or closed. Its face is expressionless, consistent with a mannequin's appearance. Various parts of the mannequin, like the arm, show simulated injuries, likely for training or demonstration purposes.",
+                "severe_hemorrhage": "The scene features a mannequin dressed in camouflage clothing, sitting against a wall. It is wearing sunglasses and has a visible fake injury on its arm, which suggests simulated bleeding. The mannequin is not a real person and cannot suffer from severe hemorrhage, but the setup might be used for training or demonstration purposes.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258246182186424",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/17/1/1726258246182186424.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image depicts a mannequin dressed in military-style camouflage clothing, seated against a wall. The mannequin has artificial injuries, with visible fake blood and wounds, particularly on the arm. It is positioned in a way typical of a training or simulation setting, likely for emergency response or medical training exercises.",
+                "trauma_head": "The scene depicts a mannequin dressed in a military-style camouflage uniform sitting against a wall. The mannequin is wearing brown boots and sunglasses. There is apparent damage on the right arm, which seems to simulate a wound, with red marks suggesting blood. There are no visible head injuries or signs of head injuries on the mannequin.",
+                "trauma_torso": "The scene features a mannequin dressed in military-style clothing and boots, sitting against a wall. The mannequin has sunglasses and long hair. There is a visible injury with a gash on the right arm, but no signs of injuries on the torso. Blood-like stains can be seen on the pants, but these don\u2019t indicate specific torso injuries.",
+                "trauma_lower_ext": "The scene depicts a mannequin dressed in a military-style outfit sitting against a wall. The mannequin is wearing a camouflage uniform and boots. There is a notable injury representation on one of its legs, as there is redness on the fabric, suggesting a simulated wound. Additionally, one of the mannequin's arms also shows a simulated injury with a large, visible wound.",
+                "trauma_upper_ext": "The image depicts a mannequin dressed in camouflage clothing and brown boots sitting against a wall. The mannequin has sunglasses and a wig, and there appears to be a visible wound or injury on its right arm. The injury looks like an amputation or damage with exposed interior elements, typical of a training or simulation mannequin used for medical practice or demonstrations. There are no real injuries, as it is not a real person.",
+                "alertness_ocular": "The scene shows a mannequin in camouflage clothing, sitting against a wall. The mannequin is wearing sunglasses, so the status of its eyes is untestable. There is no indication of responsiveness as it is not a real person.",
+                "severe_hemorrhage": "The image shows a mannequin in military-style clothing leaning against a wall. The mannequin has a simulated injury on its arm with some fake blood visible. This is not an actual person, and there is no real bleeding or severe hemorrhage occurring. The scene seems to be set up, possibly for training or simulation purposes.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254243648443738",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/6/0/1726254243648443738.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image shows a mannequin dressed in camouflage military gear laying on the ground. It is wearing a helmet and goggles, and positioned in an outdoor grassy area. There is no real person in the scene; the mannequin is part of a staged setup, possibly for training or testing purposes.",
+                "trauma_head": "The scene shows a mannequin dressed in a military-style uniform lying on the grass. It appears to be wearing a helmet and goggles. The mannequin is intended to simulate a human figure but does not display any real head injuries, as it is not a living person. There is no indication of actual head trauma, as this is a training or simulation setup.",
+                "trauma_torso": "The scene depicts an outdoor area with a mannequin dressed in camouflage clothing lying on the grass. The mannequin is wearing a helmet and sunglasses. There are visible red marks on the torso area, which resemble injuries or simulated wounds. The landscape includes tall grass and trees in the background.",
+                "trauma_lower_ext": "The scene depicts a mannequin lying on the grass, dressed in camouflage clothing and wearing a helmet. There appear to be wounds marked on the mannequin, particularly on the torso area. The mannequin's legs are wearing two different shoes, but there are no visible injuries or wounds to the lower extremities. The scene seems to be set up for a training or simulation exercise.",
+                "trauma_upper_ext": "The scene shows a mannequin lying on the grass, dressed in camouflage clothing and wearing a helmet. The mannequin simulates a person and appears to have simulated injuries to the left arm, which is covered in what looks like fake blood. The right arm is not visible due to the angle, but there is an indication of staining or further simulation of injury on the clothing. There are no visible amputations. The setting is outdoors, with grass and some trees in the background.",
+                "alertness_ocular": "The scene depicts an individual lying on the grass, wearing camouflage attire and a helmet with goggles. The person's face is partially obscured, making it difficult to determine if their eyes are open or closed, so they are untestable in this image. The setting appears outdoors with grass and trees in the background, and the sky is clear and blue.",
+                "severe_hemorrhage": "The image shows a person lying on the grass. They appear to be wearing a helmet and camouflage clothing. It seems to be a training or simulation scenario, as the person could be a mannequin used for such purposes. There are visible red stains on the clothing that resemble blood, suggesting simulated injuries for training. There is no indication of actual severe hemorrhage or amputation.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254282970009760",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/6/1/1726254282970009760.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene depicts a life-sized mannequin or statue lying on the grass in an outdoor setting. The figure is dressed in camouflage clothing and white sneakers. A cube with a pattern similar to an AR marker is nearby. The area is surrounded by trees, parked cars, and a bus with a \"Penn\" logo. The sky is clear, and it appears to be daytime. No real person is present, so the condition refers to the mannequin or statue, which is inanimate.",
+                "trauma_head": "The scene depicts a person lying on the grass in a park-like setting. The person is wearing casual clothing including sneakers. Due to the artistic style of the scene, it is difficult to determine if there are any head injuries or discern specific details about the person's condition. The lighting and angle do not clearly show signs of injury. Additionally, because this appears to be a realistic statue or art piece, there may not be actual injuries present.",
+                "trauma_torso": "The scene shows a person lying on grass, dressed in camouflage clothing and white sneakers. The person appears to be a mannequin or a statue rather than a real person, as indicated by the texture and material of the visible parts. There's no indication of any torso injuries. In the background, there are cars and a tree-lined street with a vehicle marked \"Penn.\"",
+                "trauma_lower_ext": "The scene depicts a mannequin lying on the grass. The figure is dressed in camouflage clothing and white shoes, and it appears to be an inanimate object rather than a real person. There are no visible injuries to the legs or any signs of lower extremity wounds because it's not a real person. The setting includes trees, a bus in the background, and a marked cube near the mannequin.",
+                "trauma_upper_ext": "The scene shows a lifelike mannequin lying on the grass in a park-like setting. The mannequin is dressed in camouflage clothing and white sneakers. There are no visible injuries or amputations to the upper extremities. The mannequin is positioned next to a box with symbols on it, against the backdrop of parked cars and a bus on a road lined with trees.",
+                "alertness_ocular": "The scene shows a person lying on the grass wearing a grey outfit and white sneakers. There is a box with a pattern next to them and trees, a road, cars, and a bus in the background. Regarding the person's eyes, it is not clearly visible if they are open or closed, so they are untestable.",
+                "severe_hemorrhage": "The scene features a mannequin lying on the grass. It appears to be a realistic training model, possibly used for emergency response drills. There are no visible signs of severe bleeding or amputations on the mannequin.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'absence'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256555350668737",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/14/0/1726256555350668737.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image shows a scene outdoors on a grassy area. There is a mannequin lying on the ground, dressed in a camouflage outfit. It appears to be part of a training or demonstration setup. In the background, there's a structure with netting and some trees. Additionally, a cube with a black and white marker is visible on the grass. The overall setting suggests a controlled environment, possibly for tactical or search and rescue exercises.",
+                "trauma_head": "The scene depicts a person lying on the grass, dressed in camouflage clothing and wearing a helmet and sunglasses. They are in an outdoor area with a building and some trees in the background. The person appears to be a mannequin, as indicated by their unmoving posture and the context of the environment. There are no visible signs of head injuries on this mannequin.",
+                "trauma_torso": "The scene shows a person lying on the grass in an outdoor area with a large building and trees in the background. The person is wearing camouflaged clothing and white sneakers. There is no evident injury to the torso visible; however, there is a noticeable bloodstain on the person's right leg. The upper body doesn't appear to show any visible signs of injury in this image.",
+                "trauma_lower_ext": "The scene shows a mannequin dressed in camouflaged military-style clothing lying on the grass. It appears to have a simulated injury on the left leg, as indicated by a red stain suggestive of blood. The mannequin is wearing white sneakers. There are no other visible signs of injury on its legs, and the surrounding area includes a building and some industrial structures.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass. They appear to be dressed in camouflage clothing and wearing white shoes. The person is facing upwards, and their right arm is visibly bloodied, indicating a possible injury. There are no apparent signs of amputation, but the presence of blood suggests a significant wound to the arm.",
+                "alertness_ocular": "The scene shows a person lying on the grass in what appears to be a park or outdoor area. The person is dressed in camouflage clothing and wearing white sneakers. It is difficult to determine from this angle whether their eyes are open or closed, so their eye status is untestable. Their responsiveness is not assessable from the image provided.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground, dressed in camouflage clothing. There appears to be a dark stain on one of the legs, which could indicate bleeding. However, it's not clear if this is severe hemorrhage as there are no visible signs of strong bleeding or amputations. The person is wearing a cap and appears to be in a resting position. Without more information, it's difficult to assess the severity of any potential injuries.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'closed'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256715763427564",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/16/0/1726256715763427564.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene depicts an outdoor area with a person lying on the grass. The person appears to be wearing a plaid shirt and black pants. Their face is not visible, as their head is turned away. One of their legs, possibly a prosthetic, is extended out. There's a chain-link fence and some greenery in the background. The condition of the person is unclear based on this image alone.",
+                "trauma_head": "The scene shows a mannequin lying on the grass with one arm extended outward. The mannequin is wearing a plaid shirt and dark pants. Given its artificial nature, it does not have any head injuries, nor can it show signs of injuries. The background features a chain-link fence and some trees under a clear blue sky.",
+                "trauma_torso": "The scene shows a mannequin lying on the grass near a fence. The mannequin is dressed in a checkered shirt and dark pants, and appears to have a prosthetic leg. There are visible rips and simulated damage on the shirt, suggesting mock torso injuries, typical in training or testing scenarios. However, since it is a mannequin, it does not have actual injuries.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass near a chain-link fence. The person is wearing a plaid shirt and dark pants. A prosthetic leg is visible, indicating they may have an amputation on one leg. There are no visible wounds or injuries to the remaining leg. \n\n",
+                "trauma_upper_ext": "The scene shows a person lying on the grass near a chain-link fence. The person is wearing a checked shirt and dark pants. One arm is extended, and the other arm appears to be under the body, possibly obscured. The visible shirt sleeve is intact, but without a closer view, it's hard to determine if there are any injuries or wounds to the arms. The person's face is not visible, making it difficult to provide a detailed description. The lower part of the body appears to have a prosthetic leg. There are no clear signs of injuries to the upper extremities based on this view.",
+                "alertness_ocular": "The person in the center of the scene appears to be a mannequin lying on the grass. The face is obscured by clothing, making the eyes untestable. The mannequin is dressed in a plaid shirt and dark pants and has visible prosthetic legs. The surroundings include a grassy field and a chain-link fence, with trees and a clear sky in the background.",
+                "severe_hemorrhage": "The image shows a mannequin lying on grass beside a fence. It appears to be wearing a plaid shirt and dark pants with a prosthetic leg. There are no visible signs of severe bleeding or hemorrhage, as it is a mannequin and not a real person.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'absence'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254445189709593",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/8/0/1726254445189709593.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image shows a mannequin lying on the grass near a chain-link fence in a park or open area. The mannequin is wearing clothing and a helmet, and appears to be part of a display or setup. There are buildings in the background and some vehicles visible on the road. The mannequin is not a real person, so no condition description is needed.",
+                "trauma_head": "The scene depicts a person lying on the grass near a chain-link fence. The person is wearing a helmet and appears to be covered with fabric. \n\nDue to the presence of the helmet and the angle of the person\u2019s position, it's not possible to determine if there are any visible head injuries, nor can I provide specific descriptions or details about injuries. The person appears to be in a recreational or urban park setting, as suggested by the surrounding environment.",
+                "trauma_torso": "The scene shows a person lying on the grass next to a fence. The person appears to be dressed casually and is lying on their back. There is a visible injury on the torso, suggesting damage or exposure. The surroundings look like a park or open area near a street.\n\nIf you need more detailed information or have safety concerns, contacting emergency services or professionals for assistance is recommended.",
+                "trauma_lower_ext": "The scene features a person lying on the grass near a chain-link fence, wearing a helmet. The person is covered by clothing and a hat, obscuring most of their body and features. There is visible reddish material that appears to be simulated injuries on the legs, suggesting possible leg wounds. The setting seems to be an outdoor area near a park or recreational field, with buildings in the background.",
+                "trauma_upper_ext": "The scene shows a mannequin lying on the grass near a chain-link fence. The mannequin is partially covered with clothing and appears to have a helmet on. There are no visible injuries or amputations on the arms of the mannequin, as its limbs are intact and without wounds.",
+                "alertness_ocular": "The photo shows a person lying on the grass, partially covered by clothing. The person's face is not fully visible, making it difficult to determine if their eyes are open or closed. The scene is outdoors, next to a chain-link fence with a building and trees in the background.",
+                "severe_hemorrhage": "The scene depicts a person lying on the ground near a fence. The person appears to be wearing a helmet and is covered with clothing or a blanket. There is no visible evidence of severe bleeding or hemorrhage, such as strong bleeding or amputations, in this image.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254486220381273",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/8/1/1726254486220381273.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image shows a mannequin lying on the grass near a fence, dressed in a uniform with visible artificial injuries, resembling a training or demonstration scene. There is also a second mannequin standing by the fence in the background. The setting appears to be a simulated environment, possibly for military or emergency response practice.",
+                "trauma_head": "The scene features a mannequin dressed in what looks like a military-style camouflage uniform lying on the grass. The mannequin has visible artificial injuries, including a simulated head injury, with a fake wound and visible fake blood. It\u2019s staged to look like a casualty, possibly for training or educational purposes. There is also another mannequin standing by the fence in the background, dressed casually.",
+                "trauma_torso": "The scene depicts a training or simulation environment with a mannequin in military-style clothing laying on the ground. The mannequin appears to have simulated injuries to the torso, including exposed artificial flesh and fake blood. There are no real persons or actual injuries present.",
+                "trauma_lower_ext": "The scene depicts a training dummy dressed in a camouflage uniform lying on the grass near a chain-link fence. The dummy appears to have simulated injuries, with visible artificial wounds and simulated blood on the torso. There are no visible signs of injury to the legs or lower extremities of the dummy.",
+                "trauma_upper_ext": "This image depicts a mannequin wearing a military-style camouflage outfit lying on the ground, simulating a severely injured or damaged state. The mannequin has visible fake injuries, including an apparent severing with exposed material on the upper extremities, and what appears to be simulated blood. There are no actual injuries, as this is a training dummy used for practice scenarios. The scene includes a chain-link fence and a background with some buildings and greenery.",
+                "alertness_ocular": "The scene depicts a life-sized mannequin dressed in camouflage clothing lying on the grass near a chain-link fence. The mannequin appears to be part of a training or simulation exercise. Its eyes are not clearly visible, so they are untestable. The scene appears to be set outdoors, with buildings visible in the background.",
+                "severe_hemorrhage": "The image shows a mannequin lying on the ground in military-style clothing. There are signs of simulated injury, as the mannequin has artificial blood and exposed parts that suggest a training scenario for trauma or hemorrhaging. There is no real person, so no actual severe bleeding or hemorrhage is present.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"{\\\"severe_hemorrhage\\\": \\\"presence\\\"}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726259283387628722",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/27/0/1726259283387628722.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image depicts a mannequin dressed in military-style clothing, laying on the ground against a concrete wall. There is also a white cardboard box nearby. The mannequin is positioned as though it is slumping or has fallen. This is not a real person but a staged scene.",
+                "trauma_head": "The scene depicts a mannequin lying on the ground against a wall. The mannequin is wearing a camouflage outfit and sunglasses, and there are red stains on its clothes. There is a box positioned nearby. Since this is a mannequin and not a real person, there are no actual head injuries.",
+                "trauma_torso": "The scene depicts a mannequin leaning against a wall. The mannequin is wearing sunglasses, a camo jacket, and dark pants, and it is lying on its side. There appear to be red markings resembling stains or injuries on the torso area of the jacket. Additionally, there is a white box with a QR code next to the mannequin. These markings on the mannequin's jacket suggest simulated torso injuries.",
+                "trauma_lower_ext": "The scene shows a mannequin positioned against a wall, wearing dark pants and a patterned shirt with simulated bloodstains. It appears to be staged to resemble an injured person. There are no visible wounds or injuries on the mannequin's legs or lower extremities. Additionally, a small cardboard box is placed nearby.",
+                "trauma_upper_ext": "The scene shows a mannequin dressed in camouflage clothing, sitting against a wall. It is lying on the ground with its legs extended and arms resting on its torso. The mannequin does not have any arm injuries, wounds, or amputations that are visible. There is a box next to it. The mannequin appears to be part of a setup or display.",
+                "alertness_ocular": "The scene shows a mannequin dressed in camouflage clothing lying against a brick wall with a box nearby. The mannequin's eyes are closed or untestable due to sunglasses. It is not responsive, as it is an inanimate object.",
+                "severe_hemorrhage": "The scene depicts a mannequin lying on the ground next to a wall. The mannequin is dressed in military-style clothing with some reddish stains on the shirt, which could suggest blood. However, since it's a mannequin, there is no actual bleeding or severe hemorrhage occurring. The mannequin is intact with no apparent amputations, so there are no signs of severe hemorrhage.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726259343130828987",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/27/1/1726259343130828987.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene depicts a mannequin lying on the ground against a wall. The mannequin is dressed in a camouflage outfit and sunglasses. It appears to be positioned as if slumped against the wall, with a damaged area behind it. There is no real person in the image, and the mannequin is not in any condition since it is not a living being.",
+                "trauma_head": "The image shows a mannequin lying on the ground against a wall. The mannequin is dressed in a camouflage jacket and dark pants, wearing sunglasses. There are no visible head injuries, as the mannequin is an inanimate object and does not have actual injuries. It appears to be staged in a way to look like a scene involving a person but is clearly a mannequin.",
+                "trauma_torso": "The scene shows a mannequin dressed in camouflage clothing lying against a concrete wall. The mannequin appears to have red stains on the torso area, which resemble injuries or damage. The mannequin is wearing sunglasses and has a cap. The setting suggests an urban or outdoor scene with a block wall and a box nearby.",
+                "trauma_lower_ext": "The scene shows a mannequin lying on the ground against a wall. The mannequin is dressed in a camouflage jacket, dark pants, and sunglasses. There are stains on the jacket, likely to simulate injuries or blood, but these are on the upper body. The legs do not show any visible signs of injury, wounds, or damage.",
+                "trauma_upper_ext": "The scene shows a mannequin lying against a wall. The mannequin is dressed in a patterned jacket and dark pants, wearing sunglasses. There are no injuries or amputations visible on the mannequin's arms, as it is an inanimate object and not a person. The mannequin has some red marks on the jacket, which might indicate some form of staged damage or stains, but these do not affect the \"arms\" directly. Otherwise, there are no signs of injuries to the upper extremities.",
+                "alertness_ocular": "This scene features a mannequin lying on the ground against a block wall. The mannequin is wearing a camouflage jacket and dark pants, and it has sunglasses on, making it impossible to see whether the eyes are open or closed. There is a box next to the mannequin. The mannequin's face is expressionless, as it is not a real person.",
+                "severe_hemorrhage": "This image shows a mannequin dressed in military-style clothing lying against a wall. There are some red stains on the clothing, which might suggest blood but are not real, as this is a mannequin. There is no real bleeding or severe hemorrhage as it is not a living person.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254591864491484",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/9/0/1726254591864491484.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a soccer net in an outdoor area. There is a person lying on the ground inside the goal, covered with what appears to be a large bag or tarp. It's unclear what their condition is, and the setting suggests it might be a makeshift resting or sleeping spot. The surrounding area includes trees, grass, and a street with parked cars in the background.",
+                "trauma_head": "The scene depicts a person lying on the ground beneath a soccer goal. The person is covered with a blanket or similar item, making it difficult to see the exact position or condition. The person's head is not visible, so it's not possible to determine if they have any head injuries based on the image. The setting appears to be a grassy area, possibly a park or field, with trees and a road in the background. Without a clear view of the person's head, I cannot confirm any injuries.",
+                "trauma_torso": "The image shows a person lying down inside a soccer goal on grassy ground. They are covered with a light-colored sheet, making it difficult to see their torso clearly. From this image, it is not possible to determine if they have any torso injuries.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground within the frame of a soccer goal. The individual is covered with a blanket or some other material, making it difficult to provide a detailed description or identify any visible injuries to the lower extremities. It appears that the person's legs are not clearly exposed, so it's unclear if there are any injuries or wounds on their legs.",
+                "trauma_upper_ext": "The scene depicts a person lying on the ground within a soccer goal. The individual is partially covered with a blanket or clothing. Due to the angle and obstruction, it's difficult to clearly see their arms or determine if there are any injuries, wounds, or amputations. The person appears to be resting or possibly asleep, but no specific arm injuries are visible.",
+                "alertness_ocular": "The image shows a scene with a person lying down on the ground inside a soccer goal. The view is partially blocked by the net. The lighting and angle make it difficult to discern facial details, including whether the person\u2019s eyes are open or closed. Given these factors, the state of the person's eyes is untestable.",
+                "severe_hemorrhage": "I'm unable to identify any details about injuries or assess the severity of bleeding from the image. If you need assistance regarding a medical situation, please consult a healthcare professional or emergency services.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'absence'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"{'severe_hemorrhage': 'absence'}\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254807442123487",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/11/0/1726254807442123487.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image shows a mannequin dressed in a military uniform lying on the grass in a park-like setting. The scene includes trees, a bus labeled with \"Penn\", and several parked vehicles. The mannequin is not a real person and is positioned in a way that suggests a simulation or training scenario.",
+                "trauma_head": "This image shows a mannequin, not a real person, lying on grass. The mannequin is dressed in camouflage clothing and is wearing white sneakers. There are no signs of head injuries, as it is an inanimate object meant for simulation or practice, likely in a military or first responder training scenario. The scene is outdoors, with trees and some vehicles in the background.",
+                "trauma_torso": "The scene features a mannequin lying on the grass, wearing camouflage clothing and white shoes. This is in an outdoor area with trees and parked cars in the background. The mannequin shows no signs of torso injuries. It is a lifelike representation but not a real person.",
+                "trauma_lower_ext": "The scene shows a person lying on the grass, wearing a camouflage uniform. The individual appears to be a mannequin used for training or demonstration purposes. There is a prosthetic leg visible, indicating a lower extremity injury or amputation. No other signs of injury are visible since it's a mannequin.",
+                "trauma_upper_ext": "The scene depicts a mannequin dressed in a military uniform lying on the grass. The mannequin is positioned on its side and appears to be intact with no visible arm injuries, wounds, or amputations. The focus of the image is on the mannequin itself, and there are no signs of injuries to the arms or upper extremities.",
+                "alertness_ocular": "The scene depicts a mannequin dressed in military-style clothing lying on grass. The mannequin\u2019s face is not very detailed, but its eyes appear to be closed, or at least untestable. The setting is outdoors with trees and some vehicles in the background.",
+                "severe_hemorrhage": "The scene shows a mannequin dressed in camouflage clothing lying on the grass. There is no bleeding or signs of severe hemorrhage, as the figure is a training dummy and does not exhibit any real injuries like bleeding or amputations.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'absence'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726255445254407611",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/11/0/1726255445254407611.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image depicts a mannequin dressed in camouflage lying on the grass. It appears to be part of a training or simulation exercise. There are also some markers or boxes nearby with patterns on them, likely for positioning or navigation purposes. The surroundings include a few cars parked on the road and trees with some buildings in the background. There is no real person in the image.",
+                "trauma_head": "The scene shows a mannequin in the center lying on a grassy area. It is dressed in camouflage clothing and wearing a helmet. The mannequin is positioned on its side with one arm extended. There are no visible signs of head injuries on the mannequin. Nearby are some cube objects with patterns on them, likely markers. The environment includes some trees and parked cars in the background.",
+                "trauma_torso": "The scene shows a mannequin lying on the grass in an outdoor setting, dressed in camouflage clothing. The mannequin appears to be missing part of its left leg. There are no visible injuries to the torso of the mannequin. The setting contains some trees, a street with parked vehicles, and a building in the background.",
+                "trauma_lower_ext": "The image shows a person in camouflaged clothing lying on the grass outdoors. The person appears to have a prosthetic right leg, indicating an injury or amputation. There are no visible wounds or injuries on the remaining leg. The person is lying on their side, and the background includes trees, cars, and a building.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass in a park-like setting, dressed in camouflage clothing. The person appears to be wearing a helmet. It looks like the person has a prosthetic or mannequin leg; there are no visible injuries to the arms or any signs of wounds or amputations on the upper extremities. The scene does not suggest any specific arm injuries or amputations.",
+                "alertness_ocular": "The scene shows a mannequin on the grass, dressed in camouflage clothing, lying on its side. Since it's a mannequin, it does not have open or closed eyes, nor is it responsive.",
+                "severe_hemorrhage": "The scene shows a mannequin in military-style clothing lying on the grass. The mannequin has a visible prosthetic leg, indicating an amputation. There is no visible bleeding since it is not a real person, so there is no severe hemorrhage. The setting appears to be outdoors with trees and parked cars in the background.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726259246763849664",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/26/0/1726259246763849664.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene depicts a mannequin dressed in military-style clothing sitting slumped against a wall outdoors. There is no actual person present, and the mannequin appears to be part of a staged scene or training setup. The mannequin is wearing a uniform and has glasses, suggesting a simulation of an injured or incapacitated individual. There is also a piece of wood nearby and its limbs are slightly spread out, adding to the staged appearance.",
+                "trauma_head": "The image shows a mannequin dressed in military-style clothing, sitting against a building wall. It is wearing sunglasses and has a piece of wood protruding from its chest area, suggesting a simulation of injury. The mannequin has no visible head injuries, but the scene is set up to represent a scenario for training or demonstration purposes.",
+                "trauma_torso": "The image shows a mannequin dressed in a military-style uniform sitting against a wall. The mannequin has a fake wood piece protruding from its torso area, simulating an injury. The scene appears to be set up for training or demonstration purposes, indicating a simulated torso injury.",
+                "trauma_lower_ext": "The scene shows a mannequin dressed in a military camouflage uniform sitting against a wall. The mannequin has no visible injuries to the lower extremities. It is not a real person, so there are no actual injuries to describe.",
+                "trauma_upper_ext": "The scene features a mannequin dressed in a military uniform, sitting against a wall. It does not have any injuries to its upper extremities; however, there is an object resembling a piece of wood or debris lodged in its left shoulder area. The right arm appears intact with no visible wounds or amputations. The setting is outdoors, next to a building with a window.",
+                "alertness_ocular": "The scene shows a mannequin dressed in a camouflage outfit leaning against a wall outside. The mannequin's eyes appear to be closed or untestable due to the limitations in detail. There is a board and a shoe on the ground near the mannequin.",
+                "severe_hemorrhage": "The image depicts a mannequin dressed in a military-style uniform leaning against a wall. There are no visible signs of bleeding or severe hemorrhage. The mannequin has an object resembling a piece of wood or debris in the chest area, and there is a detached leg nearby, but it appears to be part of a simulation or training setup rather than a real person experiencing injuries.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258468652209698",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/19/0/1726258468652209698.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a mannequin in an outdoor setting, lying on the ground in a military-style uniform and wearing a helmet. It is positioned against a wall with a brick facade, near a window. There is a white box with a black design on it nearby. The mannequin's condition is such that it is lying flat on its back, suggesting it's being used for demonstration or testing purposes rather than representing a real person's condition.",
+                "trauma_head": "The scene shows a mannequin lying on the ground near a wall. The mannequin is dressed in camouflage clothing and white sneakers. There is visible red marking around the neck area, and it appears that something is being ejected from the forehead, but this is not realistic since it appears to involve fake blood and is part of the mannequin's design. \n\nNo real person is in the image, and therefore there are no actual injuries. The scene is likely staged for artistic or experimental purposes.",
+                "trauma_torso": "The person appears to be a mannequin lying on the ground, wearing a camouflage-patterned outfit. There is what looks like a red mark on the neck area, but no clear signs of torso injuries are visible. The mannequin is positioned on its back near a wall and a window, with a box next to it.",
+                "trauma_lower_ext": "The scene depicts a mannequin lying on the ground in a setting with a brick wall and a window. The mannequin is wearing camouflage-patterned clothing and white shoes. There are no signs of injuries to the mannequin's legs or any visible leg wounds.",
+                "trauma_upper_ext": "The scene depicts a person lying on the ground near a wall and window, dressed in camouflage-patterned clothing and white sneakers. The person is wearing goggles. From this angle, there are no visible arm injuries such as wounds or amputations. The person's arms appear intact, and there are no obvious signs of injury to their upper extremities.",
+                "alertness_ocular": "The scene shows a realistic mannequin lying on the ground. Its eyes are closed, and the figure is in a supine position. The mannequin is wearing a camouflage-patterned outfit and white shoes. Nearby, there's a white box with a black pattern on it. The setting appears to be an outdoor area next to a building with a window.",
+                "severe_hemorrhage": "The image depicts a mannequin lying on the ground, wearing camouflage clothing. It is not a real person, and there is no sign of severe hemorrhage or bleeding. The mannequin does not depict any amputations or signs of severe injury.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'presence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254358699718528",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/7/0/1726254358699718528.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene depicts a mannequin lying on the grass in an outdoor setting under a clear blue sky. The mannequin is dressed in a red shirt and pants, similar to what a person might wear. The environment around includes grassy areas and some trees in the background, suggesting a natural park-like setting. There is no indication of movement or life, as it is a mannequin, not a person.",
+                "trauma_head": "The scene depicts a mannequin lying on the grass in an outdoor setting. The mannequin is dressed in a red shirt and pants, with brown boots. It is positioned on its back, with one arm resting on the ground while the other is slightly raised. The surroundings include grass and some shrubbery, with a clear blue sky above. The mannequin is not a real person, and there are no visible head injuries.",
+                "trauma_torso": "The scene depicts a mannequin lying on the grass under a blue sky. It is dressed in a red shirt and dark pants, with boots. As this is a mannequin, it does not have any torso injuries or signs of injuries.",
+                "trauma_lower_ext": "The scene shows a mannequin laying on grass in an outdoor setting. The mannequin is dressed in a red shirt and dark pants. There are no visible injuries or wounds to the lower extremities. The surrounding area includes grass and some bushes, with a clear blue sky above.",
+                "trauma_upper_ext": "The scene depicts a mannequin lying on the grass in an outdoor setting with a clear sky. The mannequin is dressed in a red long-sleeve shirt and dark pants. It is positioned on its back with one arm slightly bent. There are no visible injuries to the mannequin's upper extremities, and no wounds or amputations are present. The scene appears calm and serene.",
+                "alertness_ocular": "The scene shows a mannequin lying on the ground outdoors in a grassy area, with a clear blue sky above. The mannequin is wearing a red shirt and dark pants. The eyes are not real, as this is a mannequin, so responsiveness and eye status are not applicable.",
+                "severe_hemorrhage": "The scene shows a mannequin lying on grass with no visible signs of severe bleeding or hemorrhage. There are no marks of injury or amputation. The mannequin is dressed in a long-sleeve red shirt and dark pants.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254398698326718",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/7/1/1726254398698326718.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene depicts an individual lying on the grass in a natural setting, surrounded by greenery. It's daylight, and the sky is clear with some clouds. The person appears to be lying flat on their back, wearing casual clothes. They are still, but from this image alone, it's not possible to determine their condition conclusively.",
+                "trauma_head": "The scene shows a mannequin lying on the grass in an outdoor setting. It's wearing a red long-sleeved shirt and dark pants. The mannequin has no visible head injuries, as it's an inanimate object used for display purposes. Surrounding the mannequin, there is greenery and possibly trees, indicating it is in a park or garden area. The sky is visible above with some clouds.",
+                "trauma_torso": "The scene shows a mannequin lying on grass in an outdoor setting. The mannequin is wearing a red shirt and dark pants. There are no visible injuries to its torso, as mannequins are not capable of having injuries. The scene is peaceful, with trees and a lamp post in the background under a blue sky.",
+                "trauma_lower_ext": "The scene shows a person lying on the ground outdoors, likely in a grassy area with some trees and streetlights in the background. The person is wearing a long-sleeved red shirt and dark pants. Based on the image, the person does not appear to have any visible injuries to their lower extremities or legs.",
+                "trauma_upper_ext": "The scene shows a figure lying on the grass, wearing a red long-sleeved top and dark pants. The figure is a mannequin, not a real person. Therefore, it does not have any injuries to the arms or any upper extremities.",
+                "alertness_ocular": "The scene depicts a person lying on the grass in an outdoor setting with greenery and a clear sky in the background. The person is wearing a red long-sleeve shirt and dark pants. They are lying down and facing upwards, but due to the lighting and angle, it's difficult to clearly determine if their eyes are open or closed. Therefore, their eye status is untestable.",
+                "severe_hemorrhage": "The scene shows a person lying on the grass. The person is wearing dark pants and a red long-sleeved shirt. There are no visible signs of bleeding or severe hemorrhage, such as strong bleeding or amputations, from what can be seen in the image.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258694601258127",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/22/0/1726258694601258127.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene depicts a mannequin propped up against a building wall. The mannequin is dressed in a worn-out outfit and is positioned to look like it is seated against the wall. There are no real people in the image.",
+                "trauma_head": "The scene shows a mannequin sitting against a building wall. It is dressed in a jacket and pants that appear stained. The mannequin has no visible signs of head injuries, as it is not a real person but rather a posed figure. Therefore, no medical assessment or specific description of injuries applies.",
+                "trauma_torso": "The scene shows a mannequin propped up against a wall. The mannequin is wearing a mottled outfit with red coloration, which might suggest stains or paint. There is no indication of real torso injuries since this is not a live person, but rather a mannequin. The surroundings appear to be an alleyway or back area with concrete surfaces.",
+                "trauma_lower_ext": "The scene shows a mannequin positioned against a building wall. The mannequin is wearing a partially open, patterned jacket with paint-like stains. There don't appear to be any injuries to the mannequin's lower extremities since it's not a real person. No leg wounds or signs of injuries are present, as the mannequin is simply a prop in the scene.",
+                "trauma_upper_ext": "The scene shows a mannequin in the center wearing a jacket that has dark red markings, resembling dirt or blood. The mannequin is positioned against a wall in an alley-like setting. The arms of the mannequin do not show any visible amputations or wounds, but it is part of the overall distressed appearance of the figure. There appear to be no specific injuries to its upper extremities, as it is indeed a mannequin without the typical attributes of a living person.",
+                "alertness_ocular": "The scene shows a mannequin sitting against a wall in an exterior setting. It is dressed in clothing with a splattered pattern. The mannequin is positioned as if leaning against the building, with one leg stretched out and the other bent. Its eyes appear closed. Since it's a mannequin, it is unresponsive and not a real person.",
+                "severe_hemorrhage": "The scene shows a mannequin against a wall. It is dressed in a suit that appears to have red stains, which might resemble blood. However, since this is a mannequin, it is not actually bleeding or suffering from any hemorrhage. There are no signs of severe hemorrhage such as strong bleeding or amputations, as this is not a living person.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253536992221181",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/3/0/1726253536992221181.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene depicts a mannequin dressed in military-style camouflage lying on the ground next to a chain-link fence. The mannequin is wearing a helmet, and there appears to be simulated blood on its clothing, indicating a mock injury or training exercise scenario. Nearby, an object resembling a white cubic marker with black symbols is visible. In the background, another mannequin is standing, dressed in a different uniform, likely as part of the same simulated scene. The environment looks like an outdoor grassy area.",
+                "trauma_head": "The scene depicts a mannequin dressed in a military uniform lying on the grass next to a chain-link fence. The mannequin is wearing a helmet, which suggests a simulation or training exercise. It is positioned on the ground, and there are reddish marks resembling bloodstains on its clothing.\n\nThe mannequin is designed to look life-like but does not have any visible true injuries since it is not a real person. There are no actual signs of head injuries because it's a mannequin used in a staged situation, likely for a drill or practice scene.",
+                "trauma_torso": "The scene shows a mannequin lying on the ground near a fence. The mannequin is wearing camouflage clothing and a helmet. There are signs of simulated injuries on its torso, appearing as artificial blood or wounds. The scene is likely a training or simulation setup. There are no real injuries since it's a mannequin.",
+                "trauma_lower_ext": "The scene depicts a mannequin dressed in military-style camouflage clothing lying on the ground near a chain-link fence. The mannequin wears a helmet and looks as though it has simulated injuries with artificial blood visible on its torso. The legs do not appear to have any visible signs of injury, such as wounds or bleeding. The mannequin is wearing tan boots. There is another mannequin standing by the fence in the background.",
+                "trauma_upper_ext": "The scene shows a mannequin dressed in military-style camouflage lying on the ground near a chain-link fence. The mannequin is wearing a helmet and has significant simulated injuries, with what appears to be fake blood visible. There doesn't appear to be an amputation, but there are signs of injuries represented by the red marks on the arm. It\u2019s a training or staged scenario using a mannequin.",
+                "alertness_ocular": "The scene shows a mannequin dressed in camouflage clothing lying on the grass, wearing a helmet. It appears to be a simulated scenario. The mannequin's eyes are not visible, making it untestable whether they are open or closed. In the background, there is another mannequin standing by a fence.",
+                "severe_hemorrhage": "The image depicts a mannequin in military-style clothing lying on the ground, appearing to simulate a casualty scene. There are depictions of injuries, suggesting possible severe bleeding, but since this is a mannequin, it\u2019s a training or simulation setup. \n\nNo real person is present, and thus, there is no actual severe hemorrhage or bleeding occurring.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726253700117884508",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/3/1/1726253700117884508.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene depicts an outdoor setting with a mannequin dressed in a military uniform sitting on the grass near a chain-link fence. The mannequin has visible simulated injuries, with fake blood and damage to the uniform. There's also a cube with a black-and-white pattern beside it, possibly used as a marker. The setting appears to be a training or testing environment.",
+                "trauma_head": "The scene shows a mannequin dressed in a military-style uniform sitting on grass near a fenced area. The mannequin is wearing a helmet and sunglasses. There are visible injuries on the mannequin's arms, as indicated by fake blood and damage. It doesn't appear to have any head injuries; the helmet and facial area seem intact. There is also a white cube with a black-and-white pattern next to the mannequin. The setting is outdoors, on a grassy area with some dry leaves scattered around.",
+                "trauma_torso": "The scene shows a person sitting on grass near a fence. The person is wearing a military-style uniform with a helmet. There are visible injuries on the arms, especially on the right arm, which appears to be heavily injured with simulated wounds. The clothing is torn in places where the injuries are visible, indicating trauma.\n\nThere are no clear signs of injuries on the torso as the jacket covers it entirely. The focus of the injuries seems to be on the person\u2019s arms.",
+                "trauma_lower_ext": "The scene features a mannequin dressed in military camouflage attire sitting on grass near a fenced area. The mannequin appears to have simulated injuries, including visible artificial wounds on its arms. Additionally, one of the mannequin's legs is bent at an unusual angle, possibly indicating a simulated injury. There are also boots on its feet.",
+                "trauma_upper_ext": "The scene shows a person sitting on the grass, wearing camouflage military attire and boots. They are also wearing a helmet. There is significant visible trauma to the person's right arm, including what appears to be simulated wounds and damage, indicating potential arm injuries. The person wears protective eyewear, and there is no indication of arm amputations. The setting is outdoors, with a fenced area and a white cube marked with what appears to be a pattern or code.",
+                "alertness_ocular": "The scene depicts a person in military attire sitting on the grass. The individual appears to be a dummy or mannequin, given the artificial look. The person's eyes are untestable, likely closed or not real. The scene includes a box with a pattern on it beside the mannequin. There's no responsiveness, indicating this is not a living person.",
+                "severe_hemorrhage": "The image shows a mannequin dressed in a military uniform sitting on the grass. The mannequin has simulated wounds, including on the arm. It appears to be set up for a training or demonstration, as indicated by the realistic-looking artificial injuries. There is no real bleeding occurring.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256271888354568",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/13/0/1726256271888354568.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a mannequin dressed in clothing, sitting against an orange barrier on a grassy area. It is positioned outdoors near some fencing and a lamppost, with trees and parked cars visible in the background. The sky is clear and blue. The mannequin is not a real person, so it doesn't have any condition or state of health.",
+                "trauma_head": "The scene depicts a mannequin sitting on the grass against an orange barricade. The mannequin is wearing a plaid shirt and shorts, with sneakers. It has a wig as hair, and there are no visible head injuries. The surroundings include a field and some trees. It\u2019s a clear day, and the mannequin appears to be propped up as part of a setup, likely for a training or testing scenario.",
+                "trauma_torso": "The scene shows a mannequin sitting on grass next to an orange barrier. The mannequin is wearing a checkered shirt and shorts, with no visible torso injuries. The setting appears to be an outdoor area with trees and parked cars in the background.",
+                "trauma_lower_ext": "The scene shows a mannequin sitting on the grass, leaning against an orange barricade. The mannequin is dressed in a long-sleeve plaid shirt and shorts, and appears to have no visible injuries to the lower extremities. The setting includes a field with some trees and parked cars in the background. There are no signs of injuries or wounds on the mannequin's legs.",
+                "trauma_upper_ext": "The scene shows a mannequin sitting on the grass leaning against an orange barrier. The mannequin is wearing a long-sleeved checkered shirt and shorts. There are no visible injuries or amputations to the mannequin's arms or upper extremities. The mannequin appears to be part of an outdoor setting near some fencing and poles.",
+                "alertness_ocular": "The scene depicts what appears to be a mannequin sitting on the grass in front of an orange barrier. The mannequin has a wig or fake hair and is wearing a plaid shirt and shorts. Its eyes are either obscured by the hair or not visible, so they are untestable. The setting includes a grassy area with trees and a fence, and a clear blue sky.",
+                "severe_hemorrhage": "The scene shows a mannequin sitting on the grass against an orange barricade. The mannequin is wearing a plaid shirt and dark pants. It does not appear to be real or bleeding, and there are no signs of severe hemorrhage or amputations.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'wound'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256351743503447",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/13/1/1726256351743503447.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows an outdoor area with grass and an orange plastic barrier. There is a mannequin lying on the grass in front of the barrier. The mannequin is wearing casual clothing and its limbs appear to be positioned unnaturally, indicating that it is not a real person. The setting is calm, with trees and some parked cars visible in the background.",
+                "trauma_head": "The scene depicts what appears to be a mannequin lying on grass next to an orange barricade. The mannequin is dressed in a striped shirt and dark pants. There are no visible injuries on the mannequin, and it is likely part of a staged scene.",
+                "trauma_torso": "The image shows a mannequin lying on the grass near an orange barrier. The mannequin is wearing a striped shirt and dark pants. There are no visible injuries to the mannequin's torso.",
+                "trauma_lower_ext": "The scene depicts a mannequin lying on the grass near an orange barrier. The mannequin is wearing dark pants and shoes. There are no visible injuries or signs of wounds on the legs or any other part of the mannequin.",
+                "trauma_upper_ext": "The scene shows a mannequin lying on the grass next to an orange barrier. The mannequin is wearing a black and white striped shirt, black pants, and black shoes. It appears to be intact without any visible arm injuries, wounds, or amputations. Since this is a mannequin and not a person, there are no injuries to its upper extremities.",
+                "alertness_ocular": "In the scene, there is a figure lying on the grass in front of an orange barrier. The figure is wearing a striped shirt and dark pants. Due to the angle and lighting, the eyes of the figure appear closed or untestable. The figure is positioned on their back with an arm slightly raised and legs extended, giving the appearance of being unresponsive. The overall setting seems to be outdoors, with grass, fencing, and some trees or structures in the background.",
+                "severe_hemorrhage": "The scene shows a mannequin lying on the grass near an orange barrier. It appears to be wearing a striped shirt and black pants. There is no sign of severe bleeding or hemorrhage, and no amputations are visible. The mannequin is not a living person and thus is not experiencing any real injuries.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'closed'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256415437048382",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/13/2/1726256415437048382.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image shows a mannequin lying on the grass next to an orange barrier. It seems to be dressed in a plaid shirt and pants, and it has a wig with dark hair. There are no real people in the image, and the mannequin appears to be inanimate, serving no apparent function in the scene. The background includes a fence, some vegetation, and a clear blue sky.",
+                "trauma_head": "The scene depicts a mannequin lying on grass near an orange barrier. The mannequin is wearing a plaid shirt and dark pants, with shoes on its feet. The mannequin shows no signs of head injuries, as it is simply a representation without any real human characteristics.",
+                "trauma_torso": "The scene shows a mannequin lying on the grass next to an orange barrier. The mannequin is wearing a checkered shirt and dark pants. There are no visible injuries to the mannequin's torso.",
+                "trauma_lower_ext": "The scene shows a mannequin lying on the grass next to an orange barricade. The mannequin is wearing a plaid shirt and dark pants. There are no signs of injuries to its lower extremities, as it is not a real person and thus cannot have wounds or injuries.",
+                "trauma_upper_ext": "The scene shows a mannequin lying on the grass next to an orange barricade. The mannequin is wearing a plaid shirt and dark pants. Its arms appear intact, and there are no visible injuries or amputations to the upper extremities.",
+                "alertness_ocular": "The scene shows a mannequin lying on its side in a grassy area near an orange barrier. The mannequin has long black hair and is wearing a checkered shirt and dark pants. Its eyes are open, but as it's a mannequin, it is not responsive.",
+                "severe_hemorrhage": "This is an image of a mannequin lying on the ground near an orange barrier. The mannequin is wearing a checked shirt and dark pants, and there is no visible bleeding or signs of severe hemorrhage. Since it's a mannequin, there is no actual person or bleeding involved.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726256456918813765",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/13/3/1726256456918813765.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image depicts an outdoor scene where a mannequin is lying on the grass. It is positioned with its torso under an orange barrier, and the mannequin is dressed in a checkered shirt and black pants. The setting includes a grassy area with trees and a cityscape visible in the background. The mannequin is not an actual person and appears to be used for simulation or testing purposes.",
+                "trauma_head": "The scene shows a mannequin lying on the grass. It has a head with long, dark hair and is wearing a plaid shirt and dark pants. There are no visible injuries to the mannequin's head. It is positioned next to an orange barrier. Being a mannequin, it does not show any signs of head injuries.",
+                "trauma_torso": "The scene shows a mannequin with long black hair and wearing a plaid shirt and black pants lying on the grass. It is positioned in front of an orange plastic barrier. The mannequin does not have any visible torso injuries, as it is an inanimate object and not a real person.",
+                "trauma_lower_ext": "The scene features a mannequin lying on the grass with an orange barrier above it. The mannequin is wearing a plaid shirt and black pants. There are no visible injuries to its lower extremities, as it is a mannequin and not capable of sustaining real injuries.",
+                "trauma_upper_ext": "The scene features a mannequin lying on the grass with an orange barrier behind it. The mannequin is wearing a plaid shirt and black pants. It does not have any visible injuries, wounds, or amputations since it is an inanimate object. There are no signs of injuries to its arms or upper extremities.",
+                "alertness_ocular": "The scene depicts a mannequin lying on the grass. It is dressed in a plaid shirt and black pants. The mannequin's eyes are open, and it appears to be unresponsive as it's not a real person. Its facial features are typical of a mannequin, with no indication of responsiveness.",
+                "severe_hemorrhage": "The scene shows a mannequin lying on the grass next to an orange barrier. There is no real person present, and the mannequin is not bleeding or suffering from any hemorrhage.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726255618285223245",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/12/0/1726255618285223245.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image shows a mannequin lying on the grass underneath a net structure. The mannequin is dressed in casual clothing and appears to be in a relaxed position. The scene is outdoors, with a grassy area and some trees or bushes in the background. There is no real person present.",
+                "trauma_head": "The scene features a mannequin lying on the ground beneath a net. It is dressed in camouflage pants and darker shoes. The mannequin is positioned on its back, and there are no visible head injuries, as it is a mannequin and not a person.",
+                "trauma_torso": "The scene shows a mannequin lying on the ground in a fenced area. It is positioned on its back with legs slightly bent. There are no visible injuries to the torso, as it is a mannequin, not a real person. The mannequin is dressed in camouflage pants and a dark top.",
+                "trauma_lower_ext": "The scene depicts a mannequin lying on the ground, possibly simulating a person. It is situated within a netted area, lying on dry grass. The mannequin is dressed in camouflage clothing and wearing boots. There are no visible injuries to the lower extremities or legs of the mannequin.",
+                "trauma_upper_ext": "The scene shows a mannequin lying on the grass under a net. The mannequin is wearing camouflage pants and a dark shirt. Its arms are by its sides, and there are no visible wounds or amputations on the arms. There are no signs of injuries to the upper extremities.",
+                "alertness_ocular": "The scene depicts a person lying on the grass under a net. The person's eyes appear closed or untestable, and they do not seem responsive. They are wearing camo attire and boots, and their position suggests they are lying flat on their back with one leg bent at the knee. The setting is outdoors with some trees visible in the background.",
+                "severe_hemorrhage": "The scene features a mannequin lying on the ground. There is no sign of severe bleeding or hemorrhage. There are no visible injuries or amputations, and no indications of severe hemorrhage.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726255678988503946",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/12/1/1726255678988503946.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a person lying on the ground inside a fenced area, which appears to be outdoors on a grassy field. The person seems to be resting or lying down in a relaxed position. The surrounding environment includes grass and some tall plants, with a clear blue sky overhead. There are no obvious signs of distress or an adverse condition visible.",
+                "trauma_head": "The scene shows a person lying down on the grass within a fenced area. The individual appears to be in a relaxed position, possibly resting or sleeping. The person is wearing casual clothing, including a camouflage-patterned top and what look like sneakers. Their head is turned to the side, resting on what might be a pillow or bag.\n\nBased on the image, there are no visible signs of head injuries such as bleeding, bruising, or bandages. The scene seems peaceful, with clear skies and surrounding vegetation, indicating an outdoor setting. Without more detailed inspection or medical assessment, it's not possible to definitively identify any head injuries from the image alone.",
+                "trauma_torso": "The scene shows a person lying on the ground within a netted enclosure, possibly a small cage or fenced area. The person is wearing a camouflage-colored jacket and dark pants, and their head is resting on a light-colored pillow or bag. From this angle, there are no visible signs of injuries to their torso. The setting appears to be outdoors with grassy ground and surrounding vegetation.",
+                "trauma_lower_ext": "The image shows a person lying on the ground within a fenced area, surrounded by grass and trees. The person appears to be wearing casual clothing, including a jacket and pants, with sneakers on their feet. \n\nBased on this image, there are no visible signs of injury to the person\u2019s lower extremities or legs.",
+                "trauma_upper_ext": "The scene shows a person lying on the grass inside a netted enclosure. The person is wearing casual clothing, including camouflaged pants, and appears to be resting with their arms at their sides. From this view, there are no visible indications of arm wounds, amputations, or other injuries to their upper extremities.",
+                "alertness_ocular": "The scene depicts a person lying on the ground inside an enclosure made of netting. The surroundings include grass, tall plants, and trees. The person's face and eyes are not clearly visible, making it difficult to determine if their eyes are open or closed. Therefore, their eye status is untestable.",
+                "severe_hemorrhage": "The scene shows a person lying on the ground inside a netted enclosure. The person is wearing a camouflage jacket and sneakers. It's unclear from the image if they are bleeding severely or suffering from severe hemorrhage. There are no visible signs of strong bleeding or amputations. If there is concern for the person's safety, seeking immediate assistance from emergency services would be advisable.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'absence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'absence'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'absence'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'absence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726258901070790374",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/23/0/1726258901070790374.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The image depicts a person lying on a paved surface next to a concrete wall. They are in a prone position, wearing camouflage clothing and brown boots. The scene suggests the person may be in distress or possibly unconscious. However, without more context, it\u2019s impossible to determine their exact condition.",
+                "trauma_head": "The image shows an individual lying on the ground, wearing camouflage clothing and boots. The person's head is not visible in the frame, so it is impossible to assess any head injuries. Consequently, no specific details or signs of head injuries can be provided.",
+                "trauma_torso": "The scene shows a person lying on the ground near a building with a brick wall. The person is wearing camouflage clothing and boots. There appears to be a visible injury on the torso, as suggested by the red stains on the clothing, indicating possible bleeding or a wound.",
+                "trauma_lower_ext": "The image shows a person lying on the ground next to a building wall. The person is wearing camouflage clothing and boots. There appears to be a red stain on the clothing near the upper body, suggesting an injury. However, there are no evident signs of injuries or wounds on the visible parts of their legs.",
+                "trauma_upper_ext": "The scene shows a person lying on the ground next to a wall. The person is dressed in camouflage clothing. From this angle, there are no visible signs of injury to the arms, such as wounds or amputations. However, the shirt appears to have a red stain, which might suggest an injury under the garment, but no specific details about the arms can be discerned.",
+                "alertness_ocular": "The image shows a person lying on the ground near a building wall. The person is wearing camouflage clothing, and their face isn't visible, so the state of their eyes (open or closed) is untestable. The layout and perspective focus mainly on their body rather than their face.",
+                "severe_hemorrhage": "The image shows a mannequin or dummy dressed in military-style clothing lying on the ground near a building. There doesn't appear to be any actual severe bleeding or hemorrhage, as the scene is staged. The clothing has red stains suggestive of injury, indicating a simulated scenario rather than real injury or blood.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'amputation'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    },
+    {
+        "id": "1726254770618678531",
+        "image": "edward/VLMsForInjuryAssessment/all_training_data_no_humans/Data-Collect-09132024/10/0/1726254770618678531.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": "The scene shows a mannequin lying on the grass inside a fenced area, likely as part of a simulation or training setup. There are markers and a person in the background, possibly part of an exercise. The mannequin is dressed in clothing, and the setup seems intentional for demonstration or practice purposes, such as a crime scene investigation or emergency response training.",
+                "trauma_head": "The scene depicts a mannequin lying on the grass within a netted area. The mannequin is dressed in a plaid shirt and dark pants. There appears to be a red stain on the shirt, suggesting a simulated injury or wound on the torso area. The mannequin shows no visible head injuries. \n\nIn the background, there is a person standing, possibly observing or working within this enclosed outdoor area. The surrounding environment includes buildings and trees.\n\nThere are no real head injuries to assess, as this is a mannequin display.",
+                "trauma_torso": "The scene shows a mannequin lying on the grass, enclosed by netting. It is wearing a checkered shirt with what appears to be a simulated torso injury, marked by red coloring, possibly to represent blood. There are no real human injuries visible since this is a mannequin used for training or simulation purposes.",
+                "trauma_lower_ext": "The scene shows what appears to be a mannequin dressed in a plaid shirt and dark pants lying on the ground in a netted area. The mannequin's shirt has a reddish-brown stain near the torso, which could be simulating an injury. The legs of the mannequin appear intact, and there are no visible signs of injuries to the lower extremities. The setting seems to be outdoors, possibly a training or demonstration scene.",
+                "trauma_upper_ext": "The scene shows a mannequin lying on the ground, dressed in a checked shirt and dark pants. It appears to depict a simulation or training scenario. There are no visible injuries to the arms or signs of amputations. The mannequin is positioned on its back with its arms by its sides.",
+                "alertness_ocular": "The image depicts a scene outdoors with a person lying on the grass. Their face is visible, but the eyes are difficult to assess clearly, so they are untestable in terms of being open or closed. The area is enclosed by a net, and another person is standing nearby. The lying person appears unresponsive. There is no expression to provide further details about their responsiveness.",
+                "severe_hemorrhage": "The scene shows a mannequin lying on the ground, dressed in clothing, with visible red stains resembling blood on its side. It appears to simulate a situation of bleeding. There are no clear signs of amputations, but the setup suggests an exercise or simulation of a severe hemorrhage scenario.",
+                "value-dict": "{\"trauma_head\": \"```python\\n{'trauma_head': 'absence'}\\n```\", \"trauma_torso\": \"```python\\n{'trauma_torso': 'presence'}\\n```\", \"trauma_lower_ext\": \"```python\\n{'trauma_lower_ext': 'wound'}\\n```\", \"trauma_upper_ext\": \"```python\\n{'trauma_upper_ext': 'amputation'}\\n```\", \"alertness_ocular\": \"```python\\n{'alertness_ocular': 'untestable'}\\n```\", \"severe_hemorrhage\": \"```python\\n{'severe_hemorrhage': 'presence'}\\n```\"}"
+            }
+        ]
+    }
+]

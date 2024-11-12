@@ -1,0 +1,1717 @@
+[
+    {
+        "id": "1726253057910063264",
+        "image": "0/0/1726253057910063264.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image depicts an individual sitting on the grass in a field, dressed in military camouflage uniform and a helmet. The person appears to be relaxed or possibly taking a break from activities related to the military setting."
+                ],
+                "trauma_head": [
+                    "The person appears to have a bruised head, which suggests they may have suffered from an impact."
+                ],
+                "trauma_torso": [
+                    "The person is lying on the ground with their torso in close proximity to a white box, which contains a QR code. The individual appears to have some bruises and abrasions on their upper body from what seems like an impact or fall."
+                ],
+                "trauma_lower_ext": [
+                    "The person is seated on the grass with a pair of brown boots. They have no visible lower extremity injuries, and their shoes appear to be intact."
+                ],
+                "trauma_upper_ext": [
+                    "The person in the image appears to have some minor injuries. They are lying on the ground with a crumpled up piece of clothing near their leg, which suggests they may have been in an accident or involved in some sort of struggle."
+                ],
+                "alertness_ocular": [
+                    "The person is seated in the grass. There are no visible signs of open eyes, and they appear to be closed or neutral in expression, with their gaze directed off-camera towards something outside the frame."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows a person lying on the ground with their head down, surrounded by grass and some fallen leaves. The individual appears to be wearing sunglasses and a military-style uniform, which suggests they may have suffered from an injury or surgery that required significant medical attention. Despite the presence of these details, it is not possible to definitively confirm whether there are any signs of bleeding or severe hemorrhage as this would require further evaluation by medical professionals."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': \\\"Yes\\\",\\n  'absence': \\\"No\\\"\\n}\"], \"trauma_torso\": [\"{\\n  'trauma_torso': {\\n    'absence': False,\\n    'presence': True\\n  }\\n}\"], \"trauma_lower_ext\": [\"```python\\ntrauma_lower_ext = {'absence': 'No injury to the lower extremities', 'wound': 'Injury to at least one lower extremity', 'amputation': 'Missing at least one lower extremity'}\\n```\"], \"trauma_upper_ext\": [\"{\\n  'trauma_upper_ext': None,\\n  'wound': True,\\n  'amputation': False\\n}\"], \"alertness_ocular\": [\"{'untestable': 'eyes closed', 'open': 'eyes open', 'untestable': 'eyes closed' }\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': 'absence', 'presence': 'severe hemorrhage'}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726258511787907725",
+        "image": "20/0/1726258511787907725.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene depicts a solitary mannequin lying on the ground against a wall, dressed in military-style clothing with visible bullet holes and patches of blood. The mannequin's feet are propped up, and it appears to be resting or sleeping."
+                ],
+                "trauma_head": [
+                    "The person in the image has a noticeable head injury with visible bruising and damage to the skull, which suggests that they may have suffered a severe impact or collision."
+                ],
+                "trauma_torso": [
+                    "The person appears to have a round, deep-vein wound on their left hip."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to have no lower extremity injuries, as there are no visible cuts or abrasions on their legs. The shoes do not appear to be damaged either, indicating that the injuries may not be very severe."
+                ],
+                "trauma_upper_ext": [
+                    "The person has a visible arm injury with what appears to be a cut or abrasion, but the exact nature of the damage is not discernible from this angle and image."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are closed, not open. They appear to be in a state of rest or repose rather than reacting to an external stimulus."
+                ],
+                "severe_hemorrhage": [
+                    "The scene shows a mannequin positioned against a wall, sitting with one leg extended and the other bent. The person is wearing a camouflage shirt and pants, which are not in good condition. There appears to be a hole or opening on the ground behind the mannequin, suggesting some form of injury. However, without seeing the wound's severity, it's difficult to determine if there have been any significant injuries."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': 'no injury to the head',\\n  'presence': 'injury to the head'\\n}\\n```\"], \"trauma_torso\": [\"{\\n  'trauma_torso': ['absence', 'presence']\\n}\"], \"trauma_lower_ext\": [\"```python\\ntrauma_lower_ext = {'absence': 'no', 'wound': 'injury to at least one lower extremity', 'amputation': 'missing at least one lower extremity'}\\n```\\n\\nThis dictionary describes the condition of the person's legs, with no injuries or missing limbs visible in the image.\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': 'no injury to the upper extremities', 'wound': 'none', 'amputation': 'yes' }\"], \"alertness_ocular\": [\"{\\n  'alertness_ocular': 'untestable',\\n  'open': 'closed',\\n  'untestable': ''\\n}\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': 'absence', 'presence': 'absence' }\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726253735684346391",
+        "image": "4/0/1726253735684346391.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene depicts a person lying on the grass in a field, seemingly relaxed. The individual is wearing what appears to be a red and white checkered shirt with long sleeves, black pants, and dark shoes. Their condition seems to be one of comfort or restfulness, as they are not actively engaged in an activity that requires physical effort or movement."
+                ],
+                "trauma_head": [
+                    "The person lying on the grass has no visible head injuries; it appears they have a bruise or minor abrasion to the forehead."
+                ],
+                "trauma_torso": [
+                    "The scene appears to be a peaceful outdoor setting with grass and trees in the background. There is no clear indication of any injuries on the person lying down; however, their head seems slightly tilted downwards which could suggest they may have suffered from an injury like a headache or neck strain."
+                ],
+                "trauma_lower_ext": [
+                    "The person has lower extremity injuries. They have bruises on the knees and elbows."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to have a bruised arm with visible blood on the upper part."
+                ],
+                "alertness_ocular": [
+                    "The person in the image appears to be lying down on a grassy area, partially clothed. Their eyes are not open and they seem to be closed or possibly asleep. There is no indication of responsiveness; their body language does not suggest movement or alertness."
+                ],
+                "severe_hemorrhage": [
+                    "In the image, there is a person lying on their stomach in a grassy field. The individual appears to be wearing a checkered shirt and dark pants, with one leg bent at the knee. There are no visible signs of bleeding or significant injuries around the person's head, neck, torso, or limbs. The person seems to be resting or possibly asleep."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{'trauma_head': 'no', 'absence': 'presence' }\"], \"trauma_torso\": [\"```python\\n{\\n  'trauma_torso': 'absence',\\n  'presence': 'injury'\\n}\\n```\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': ['absence', 'wound', 'amputation']\\n}\"], \"trauma_upper_ext\": [\"```python\\n{\\n  'trauma_upper_ext': ['absence', 'wound'],\\n  'amputation': []\\n}\\n```\"], \"alertness_ocular\": [\"{\\n  'alertness_ocular': ['untestable', 'open']\\n}\"], \"severe_hemorrhage\": [\"```python\\n{\\n  'severe_hemorrhage': False,\\n  'absence': True,\\n  'presence': False\\n}\\n```\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726253786482275148",
+        "image": "4/1/1726253786482275148.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the ground, seemingly at rest. The individual appears to be in a relaxed or possibly reclined position, with their legs extended and feet slightly apart. There is no clear indication of distress or discomfort from this pose."
+                ],
+                "trauma_head": [
+                    "The person lying on the grass has no visible head injuries. There is a reddish substance on their shirt, possibly blood, which suggests they may have been involved in an accident or trauma."
+                ],
+                "trauma_torso": [
+                    "The person is lying face down on the grass. No, they do not have any torso injuries; there are no visible bruises or abrasions on their torso that would indicate a significant injury."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to have no visible injuries on their lower extremities."
+                ],
+                "trauma_upper_ext": [
+                    "The person lying down appears to be in a relaxed or sleeping position. There are no visible arm injuries; the person seems to have a bruise on their upper body, possibly near the shoulder and elbow area, but it is not clearly identifiable from this angle of view."
+                ],
+                "alertness_ocular": [
+                    "The scene appears to be a casual outdoor setting with the person lying down, possibly resting or enjoying some time in nature. The individual is wearing shoes and appears to have their eyes closed. There are no indications of any movement or responsiveness from the person's body language."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows a person lying on the grass, seemingly in a relaxed position. The individual is wearing a plaid shirt and black pants, along with dark-colored shoes. They appear to be resting or possibly sleeping, but without more context, it's difficult to determine if there has been any recent hemorrhage that could have caused significant bleeding. It would require medical attention for an accurate assessment of severe hemorrhage severity."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': None,\\n  'absence': False,\\n  'presence': True,\\n  'exhaustion': False,\\n  'coldness': False,\\n  'dizziness': False,\\n  'headache': False,\\n  'sweat': False,\\n  'muscle cramps': False,\\n  'tiredness': False,\\n  'injury_to_spleen': False,\\n  'injury_to_heart': False,\\n  'injury_to_lungs': False,\\n  'injury_to_mouth': False,\\n  'injury_to_tongue': False,\\n  'injury_to_nose': False,\\n  'injury_to_chest': False,\\n  'injury_to_back': False,\\n  'injury_to_ankle': False,\\n  'injury_to_humus': False,\\n  'injury_to_pain': False,\\n  'injury_to_chest': False,\\n  'injury_to_bones': False,\\n  'injury_to_knee': False,\\n  'injury_to_elbow': False,\\n  'injury_to_hand': False,\\n  'injury_to_foot': False,\\n  'injury_to_k\"], \"trauma_torso\": [\"{\\n  'trauma_torso': 'No injury to the torso',\\n  'absence': 'No injuries or complications in the body'\\n}\"], \"trauma_lower_ext\": [\"```python\\n{\\n  'trauma_lower_ext': ['absence', 'wound'],\\n  'amputation': ['none']\\n}\\n```\\n\\nThe image shows a person lying on the grass with no visible injuries to their lower extremities, such as an absence or injury to only one limb. However, without additional context or information about the location and time of day, it is not possible to definitively determine if there were any amputations in the scene.\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': 'wound', 'absence': 'no', 'amputation': 'missing at least one upper extremity'}\"], \"alertness_ocular\": [\"{'alertness_ocular': 'untestable', 'open': 'yes', 'closed': 'no', 'untestable': 'untested' }\"], \"severe_hemorrhage\": [\"```python\\nsevere_hemorrhage = {\\n    'absence': False,\\n    'presence': True\\n}\\n```\\n\\nIn this image, the person is lying on the grass with their head facing upwards and legs spread out. This suggests a lack of movement or activity in the scene. Therefore, we should label it as \\\"absence\\\".\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726253854251025118",
+        "image": "4/2/1726253854251025118.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the grass, wearing black pants and gray shoes. The individual has a reddish substance on their body which could be sweat or dirt. They appear to be relaxed or possibly asleep."
+                ],
+                "trauma_head": [
+                    "The person appears to have a minor head injury. It is not possible to determine the exact type of injury based on the image alone, as it lacks specific information such as bruises or fractures."
+                ],
+                "trauma_torso": [
+                    "The person lying on the ground has a reddish-brown bruise on their left shoulder, suggesting they may have been in an accident or fell."
+                ],
+                "trauma_lower_ext": [
+                    "The person is lying on the grass with no lower extremity injuries visible."
+                ],
+                "trauma_upper_ext": [
+                    "The person has a cut on the left side of their arm."
+                ],
+                "alertness_ocular": [
+                    "The person is lying down on a grassy area, partially open-eyed. Their facial features are not visible due to the angle and positioning of their head, which is resting on their back with both arms extended outwards and legs spread apart."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person lying on the grass, seemingly unconscious or injured. The individual appears to be wearing shorts and sneakers, with visible signs of blood on their shirt and possibly some discoloration around their legs, which could indicate bleeding. The setting suggests an outdoor environment with sparse vegetation, possibly a park or open field, under clear skies. There are no obvious injuries like cuts or bruises visible in this image. It is important for any medical professionals who encounter such scenarios to assess for hemorrhage and treat it promptly, as untreated bleeding can lead to serious health complications if not addressed immediately."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': 'No injuries to the head'\\n}\\n```\\n\\nThis response uses a simple and direct approach by providing an unambiguous label for each condition based on the given image. The absence of injury in the person's head is the most common and straightforward answer, while the presence of injury would be indicated if any other conditions were present in the image.\"], \"trauma_torso\": [\"{\\n  'trauma_torso': ['absence'],\\n  'presence': ['injury to the torso']\\n}\"], \"trauma_lower_ext\": [\"```python\\n{\\n    'trauma_lower_ext': ['absence', 'wound', 'amputation']\\n}\\n```\\n\\nNote: The labels provided do not match the clinical diagnosis, so the actual label should be added for accurate identification.\"], \"trauma_upper_ext\": [\"```python\\n{\\n  'trauma_upper_ext': ['absence', 'wound'],\\n  'wound': ['no injuries to upper extremities',\\n          'wound'],\\n  'amputation': ['missing at least one upper extremity']\\n}\\n```\\n\\nIn this image, the person appears to have suffered an injury to their lower limbs and has lost some of their upper body. The label for 'wound' suggests that there is no visible injuries on the upper extremities. Additionally, the label for 'amputation' indicates that at least one limb is missing from the upper extremity.\"], \"alertness_ocular\": [\"{'alertness_ocular': 'untestable', 'open': 'closed', 'untestable': 'untested'}\"], \"severe_hemorrhage\": [\"```python\\nsevere_hemorrhage = {'absence': 'no severe hemorrhage'}\\npresence = {'absence': 'severe hemorrhage', 'abscesses': 'yes'}\\n```\\n\\nThis output is based on the given image and labels, it can be assumed that a person with no visible signs of severe hemorrhage may not have any presence in this image. The absence of hemorrhages or abscesses is also indicative of no severe hemorrhage.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726253913383883104",
+        "image": "4/3/1726253913383883104.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene shows a person lying on the ground in an open field, seemingly relaxed or asleep. They are dressed in a white shirt and dark pants, with their arms stretched out to one side and legs bent at the ankles. There is no indication of distress or discomfort visible on their body."
+                ],
+                "trauma_head": [
+                    "The person has a bruise on the forehead."
+                ],
+                "trauma_torso": [
+                    "The person has no visible injuries on their torso. They appear to be lying face down on the grass with their arms extended forward and legs spread out in a relaxed position."
+                ],
+                "trauma_lower_ext": [
+                    "The person has a bloody hand and wrist, with visible blood."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to have a wound on their left forearm, which is bleeding. The type of injury cannot be determined from the image alone without medical expertise or further information."
+                ],
+                "alertness_ocular": [
+                    "The person appears to be lying face down on the grass, with their eyes closed and head resting forward. Their body is relaxed but not in a state of repose or alertness."
+                ],
+                "severe_hemorrhage": [
+                    "In the image, there is a person lying on their back in the grass with no apparent injuries or signs of severe bleeding. The person appears to be wearing casual clothing and seems relaxed at the moment they are depicted in this scene."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': ['absence'],\\n  'presence': ['injuries to the head']\\n}\"], \"trauma_torso\": [\"```python\\n{\\n    'trauma_torso': 'absence',\\n    'presence': 'injury to the torso'\\n}\\n```\"], \"trauma_lower_ext\": [\"```python\\n{\\n  'trauma_lower_ext': {\\n    'absence': 'No injury to the lower extremities',\\n    'wound': 'Injury to at least one lower extremity, which includes a cut or bruise on the lower arm.',\\n    'amputation': 'Missing at least one lower extremity.'\\n  }\\n}\\n```\\n\\nThis dictionary assigns each label to its corresponding category based on the type of injury observed in the image.\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': 'wound', 'absence': 'no injury to upper extremities', 'amputation': 'missing at least one upper extremity' }\"], \"alertness_ocular\": [\"```python\\n{\\n    'alertness_ocular': ['untestable', 'open'],\\n    'alertness_ocular': ['untestable', 'closed']\\n}\\n```\\n\\nThe labels you provided are the most appropriate for identifying this image based on their interpretations. 'Untestable' is a default label that does not necessarily reflect whether the eyes are open or closed, as it implies something about the visual system rather than an actual state of alertness. However, in this case, the image shows a person lying face down on grass with their eyes closed, which would be classified under 'untestable' if they were unable to open their eyes or were unable to feel anything in their body.\"], \"severe_hemorrhage\": [\"```python\\nlabels = {\\n    'severe_hemorrhage': ['absence'],\\n    'presence': []\\n}\\n```\\n\\nThis dictionary represents the presence or absence of hemorrhage in the image.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726253101436713875",
+        "image": "1/0/1726253101436713875.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene shows a person dressed in military camouflage uniform and helmet sitting on the ground. The individual appears to be holding an object, possibly a piece of equipment or a weapon, with one hand. Their condition seems calm and relaxed, without any visible signs of distress or injury."
+                ],
+                "trauma_head": [
+                    "The person has no visible head injuries; they appear to be wearing a military uniform and are sitting on the grass."
+                ],
+                "trauma_torso": [
+                    "The person has no visible injuries on their torso."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to have lower extremity injuries. The individual is lying on the grass with one leg raised and bent, suggesting that they may have fallen or are in the process of recovering from an injury. The other limb seems to be relaxed on the ground."
+                ],
+                "trauma_upper_ext": [
+                    "The person has an arm injury. It appears to be a cut or abrasion on the forearm, likely from impact with a nearby object."
+                ],
+                "alertness_ocular": [
+                    "The person is open-eyed and responsive."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person dressed in military attire, likely a soldier or an individual involved in some form of physical activity. The individual is lying on the grass with their legs bent and feet resting on the ground. Their uniform appears to be camouflage patterned. There's no immediate sign of blood or severe hemorrhage. It's possible that the person has been injured or is taking care of an injury but it's not clear from this image whether there was any significant trauma or bleeding."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{'trauma_head': 'absence', 'presence': 'no injury to the head'}\"], \"trauma_torso\": [\"```python\\n{\\n    'trauma_torso': {'absence': False, 'presence': True},\\n    'abnormal_torso': {'absence': True, 'presence': False}\\n}\\n```\\n\\nThis dictionary assigns the label \\\"absence\\\" to indicate absence of injury or distress in the torso area, and the label \\\"presence\\\" to indicate presence of an injury or distress.\"], \"trauma_lower_ext\": [\"```python\\n{\\n  'trauma_lower_ext': ['wound', 'absence'],\\n  'symptoms_of_injury': ['wound', 'absence'],\\n  'medical_diagnosis': ['injuries', 'no_injuries']\\n}\\n```\\n\\nThis dictionary provides a comprehensive list of the key labels that can be associated with the image. It includes information about what is shown in the photo, such as injuries (wounds and amputations), and symptoms (lack of lower extremities). The medical diagnosis would also be included, but it's not mentioned here for illustrative purposes only.\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': 'wound', 'absence': 'no', 'amputation': 'none'}\"], \"alertness_ocular\": [\"{'untestable': 'closed', 'untestable': 'unopened eyes'}\"], \"severe_hemorrhage\": [\"```python\\n{\\n  'severe_hemorrhage': None,\\n  'presence': False,\\n  'absence': True\\n}\\n```\\n\\nThis response assumes that the image represents a person who is in severe hemorrhage, and therefore no other condition can be determined. The presence of the white box with the QR code could indicate some form of medical device or equipment related to the situation, but without additional context it's unclear what this device is used for.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726253148108423972",
+        "image": "1/1/1726253148108423972.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene is set outdoors on a grassy field under a clear blue sky. In the foreground, there's a man lying face down in a relaxed posture. He appears to be wearing military-style camouflage clothing and a helmet with a visor. His condition looks like he has bloodstains on his uniform, suggesting that he may have been involved in some sort of combat or physical activity."
+                ],
+                "trauma_head": [
+                    "The person appears to have a bullet wound on the left side of their chest."
+                ],
+                "trauma_torso": [
+                    "The person appears to have no visible injuries, specifically no visible fractures or dislocations."
+                ],
+                "trauma_lower_ext": [
+                    "The person is wearing brown boots with visible dirt and scuffs, suggesting they have been walking on the ground for some time. There are no visible lower extremity injuries in this image."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to have a visible cut on the left forearm, which seems to be from a weapon. It could potentially be from an axe or a similar object used for combat or as part of a training exercise."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are closed."
+                ],
+                "severe_hemorrhage": [
+                    "In the image, there is a person lying on the ground with what appears to be blood around their wounds. The individual is wearing military-style camouflage clothing and brown boots, which are typical of those used in combat situations. There is also a white object with black text or symbols beside them, but it's not clear from this angle what its contents might be. This setting suggests that the person may have been involved in an altercation or has sustained injuries due to conflict or violence. The scene implies distress and concern for one's well-being."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': 'absence',\\n  'presence': 'injury to the head'\\n}\\n```\\n\\nIn this image, we observe a person lying on the ground with no visible injuries or apparent distress. Therefore, the label that best fits is 'absence'. This label suggests that there is no physical injury to the person's head present in the scene.\"], \"trauma_torso\": [\"{'trauma_torso': 'absence', 'presence': 'injury to the torso' }\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': ['wound', 'amputation'],\\n  'absence': []\\n}\"], \"trauma_upper_ext\": [\"{\\n  'trauma_upper_ext': ['no injuries', 'wound', 'amputation']\\n}\"], \"alertness_ocular\": [\"{'alertness_ocular': 'untestable', 'open': 'yes', 'closed': 'no', 'untestable': 'yes' }\"], \"severe_hemorrhage\": [\"{\\n  \\\"severe_hemorrhage\\\": [\\\"absence\\\"],\\n  \\\"presence\\\": [\\\"severe hemorrhage\\\"]\\n}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726253941040200600",
+        "image": "5/0/1726253941040200600.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene shows a person lying on the ground in an open field with grass. The individual appears to be covered by a cloth or tarp, possibly suggesting they are in distress or undergoing some form of treatment. Their condition seems grim and lifeless, as indicated by their lack of movement and visible dirt marks around them."
+                ],
+                "trauma_head": [
+                    "The person has head injuries. The head is bruised, and there's visible blood on the head."
+                ],
+                "trauma_torso": [
+                    "The person lying on the grass has no visible torso injuries."
+                ],
+                "trauma_lower_ext": [
+                    "The scene shows a person lying on the ground, seemingly unconscious or incapacitated. There are no visible lower extremity injuries, as there is no evidence of a broken bone, abrasion, or any other form of trauma. The attire appears to be standard casual clothing, and the person seems relaxed or at rest rather than in distress."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on the ground, and it's not possible to determine their specific injuries from the image alone. They are covered with a cloth that could be indicative of an injury, but without any visible signs or markings, such as bruises or cuts, it would be impossible to ascertain if there were any serious injuries."
+                ],
+                "alertness_ocular": [
+                    "The person in the image is lying on their back with their head near a box. The individual's eyes are closed, and they appear to be resting or possibly asleep."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person lying on the grass, covered with what appears to be a sheet or blanket. The individual is wearing white shoes and dark pants. There's no clear evidence of bleeding in this image; however, without more context or a closer inspection, it is not possible to accurately determine if there are any serious hemorrhages."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': \\\"absence\\\",\\n  'presence': \\\"no injuries to the head\\\"\\n}\"], \"trauma_torso\": [\"{'trauma_torso': 'absence', 'presence': 'no'}\"], \"trauma_lower_ext\": [\"```python\\ntrauma_lower_ext = {\\n    'absence': False,\\n    'wound': True,\\n    'amputation': True,\\n}\\n```\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': 'absence', 'wound': 'wound', 'amputation': 'none'}.\"], \"alertness_ocular\": [\"```python\\n{\\n  'alertness_ocular': ['untestable', 'open'],\\n  'alertness_ocular': ['untestable', 'closed'],\\n  'alertness_ocular': ['untestable', 'untestable']\\n}\\n```\\n\\nThis dictionary assigns the label 'untestable' to all three scenarios, indicating that the eyes are untestable in each of the three conditions presented.\"], \"severe_hemorrhage\": [\"```python\\n{\\n  'severe_hemorrhage': False,\\n  'presence': True,\\n  'absence': False\\n}\\n```\\n\\nThis label is appropriate as it describes the condition of the person lying on the ground, indicating a presence of hemorrhage and absence of sepsis.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726254000161967257",
+        "image": "5/1/1726254000161967257.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene is a photograph of a person lying on the ground, possibly in an outdoor setting. The individual appears to be wearing white shoes and is positioned with their head resting against some type of object or surface. They seem to be relaxed but might be unwell, given the presence of what looks like an oxygen mask placed nearby."
+                ],
+                "trauma_head": [
+                    "The person is lying on the ground with their head resting against a large rock, and there appears to be no visible signs of any head injuries. The head looks relatively normal in shape and size, without obvious bruising or deep cuts that might suggest an injury."
+                ],
+                "trauma_torso": [
+                    "The person appears to have some type of skin damage or abrasion on their chest."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to be lying on the grass, with lower extremity injuries. The legs are bent and in a relaxed position, and there is no visible signs of fractures or abrasions."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on the grass with their arm outstretched, appearing to have a cut or abrasion above the elbow area."
+                ],
+                "alertness_ocular": [
+                    "The scene appears to be a staged outdoor setting, possibly for an artistic or performance purpose. The individual is lying on their back in the grass, wearing what seems to be camouflage clothing and white shoes, which may suggest they are part of a larger installation or event. Their eyes appear closed, suggesting that they might be asleep or resting peacefully."
+                ],
+                "severe_hemorrhage": [
+                    "The image depicts a person lying on the ground, wearing what appears to be camouflage clothing. The individual is positioned with their head turned away from the camera, and it seems they are in a state of rest or unconsciousness. While there may not be immediate signs of bleeding or severe hemorrhage, one could speculate that the person might have suffered an injury, possibly as a result of an accident or physical altercation, given the presence of the helmet. However, without medical context or specific details about the nature of the injury, we cannot conclusively determine if any severe hemorrhage has occurred."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': ['absence', 'presence'],\\n  'location': ['grass', 'forested area'],\\n  'condition': ['dull, discolored skin', 'scarred body parts'],\\n  'person': ['sitting figure in uniform'],\\n  'time_of_day': ['daytime', 'afternoon']\\n}\\n```\"], \"trauma_torso\": [\"```python\\n{\\n  'trauma_torso': {\\n    'absence': None,\\n    'presence': 'Yes'\\n  }\\n}\\n```\\n\\nThis is a Python dictionary that assigns 'absence' to 'No' and 'presence' to 'Yes', assuming the absence of any injuries or other medical indicators on the torso.\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': ['wound', 'absence'],\\n  'trauma_lower_ext': ['wound', 'absence']\\n}\"], \"trauma_upper_ext\": [\"```python\\n{\\n    'trauma_upper_ext': {\\n        'absence': False,\\n        'wound': False,\\n        'amputation': True\\n    }\\n}\\n```\\n\\nThis Python dictionary assigns a label to each category based on the conditions provided in the image. The condition that the person is lying down with no visible injuries to their upper extremities suggests they may be experiencing a state of weakness or illness, while the presence of an amputation indicates some form of injury at least one upper extremity.\"], \"alertness_ocular\": [\"{'alertness_ocular': 'untestable', 'open': 'not open', 'closed': 'not closed', 'untestable': 'unknown'}\"], \"severe_hemorrhage\": [\"```python\\nsevere_hemorrhage = {'absence': 'No severe hemorrhage'}\\npresence = {'absence': 'Yes', 'hemorrhage': 'Severe hemorrhage'}\\n```\\n\\nNote: The provided image contains a scene with a person lying on the ground, which might not necessarily indicate a medical condition. However, based on common clinical practices and symptoms of hemorrhage such as bleeding, if there is no significant swelling or discoloration around the head and neck area, it could be an absence of hemorrhage but the presence of blood in the mouth or nose suggests a more severe hemorrhage. Therefore, for this scenario, we would need to refer to the labels associated with the condition 'absence' to determine if the person has any signs of hemorrhage.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726258316104543138",
+        "image": "18/0/1726258316104543138.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the ground near a cement curb, which appears to be an urban alley. The individual is wearing a bright yellow safety jacket and black pants with black boots. They have their head turned away from the camera, showing only their upper body. There are no visible signs of distress or injury, suggesting they might be resting or possibly taking a break while performing some work in the area."
+                ],
+                "trauma_head": [
+                    "The person is lying on the ground with no visible head injuries. The head of the individual seems to be in a neutral position, without any signs of fractures or damage."
+                ],
+                "trauma_torso": [
+                    "The person appears to have a severe neck injury, with visible damage and possibly vertebrae broken. There are no clear signs of any other injuries such as fractures or abrasions that could be indicative of more serious trauma."
+                ],
+                "trauma_lower_ext": [
+                    "The person has a visible wound on their lower left leg, which could be a bruise or a cut. The type of injury is not definitively clear from the image alone, but it suggests a minor abrasion or slight injury to the skin due to prolonged contact with the ground or pavement."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to have a small abrasion on the lower part of their right arm, which could be described as mild."
+                ],
+                "alertness_ocular": [
+                    "The person is lying on the ground, with their head tilted slightly to one side. They do not appear to be looking directly at the camera, and their eyes are closed."
+                ],
+                "severe_hemorrhage": [
+                    "The image depicts a person lying on the ground with their head resting against the cement wall of a building, which appears to be an industrial or commercial area. The individual is wearing what seems like protective clothing, possibly a safety vest and pants, along with shoes that are light in color. Their legs are bent at the knees, and their arms are relaxed. This scene suggests that they may have suffered from a severe hemorrhage.\n\nThe background shows typical urban infrastructure elements such as a garage door, electrical wiring, and a utility box on the side of the building. There's also a patch of concrete that could indicate some form of repair work, given its irregular shape and lack of uniformity compared to surrounding areas. The lighting suggests it might be daytime due to the shadows cast by the objects around. Overall, the environment does not appear to be particularly violent but rather ordinary for someone who has sustained an injury."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{'trauma_head': 'absence', 'presence': 'injury to the head' }\"], \"trauma_torso\": [\"{\\n  'trauma_torso': 'presence',\\n  'absence': 'absence'\\n}\"], \"trauma_lower_ext\": [\"```python\\ntrauma_lower_ext = {\\n    'absence': False,\\n    'wound': True,\\n    'amputation': False\\n}\\n```\\n\\nThis response meets the criteria by correctly identifying that the person is lying on their back with no apparent injury to their lower extremities, indicating absence of a wound. It also correctly identifies amputations as not present in this case.\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': ['no injury to the upper extremities', 'wound', 'amputation'], 'absence': ['none']}, 'trauma_upper_ext': ['no injury to the upper extremities', 'wound', 'amputation'], 'absence': ['none'], 'wound': ['none'], 'amputation': ['none']}, 'trauma_upper_ext': ['no injury to the upper extremities', 'wound', 'amputation'], 'absence': ['none'], 'wound': ['none'], 'amputation': ['none']]}\"], \"alertness_ocular\": [\"{\\n  'alertness_ocular': ['untestable']\\n}\"], \"severe_hemorrhage\": [\"```python\\nsevere_hemorrhage = {\\n    'absence': None,\\n    'presence': 'Yes',\\n}\\n```\\n\\nNote: The presence of a mannequin lying on the ground in the image suggests that there could be some form of injury or distress, possibly related to the work environment. However, without additional context, it is not possible to determine if the severe hemorrhage has been caused by any such event.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726258383535002221",
+        "image": "18/1/1726258383535002221.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a lifeless mannequin lying on the ground, appearing to be in a state of decay or repurposed as an artistic installation. The individual is dressed in a safety vest and has what appears to be bullet holes across the chest area, suggesting it was used for some form of defense or protection against violence."
+                ],
+                "trauma_head": [
+                    "The person lying on the ground does not appear to have any head injuries. They are wearing a yellow reflective vest, which suggests they might be in an environment where visibility is important for safety reasons, such as construction sites or work zones."
+                ],
+                "trauma_torso": [
+                    "The person appears to have a torso injury, which could be severe based on the severity of the bruises and the length of the cut. The specific type cannot be determined without further information about the circumstances surrounding this incident or the extent of the injuries sustained."
+                ],
+                "trauma_lower_ext": [
+                    "The person is lying on the ground, not wearing any lower extremity injuries. There are no visible signs of cuts, bruises, or abrasions that would indicate a recent injury to the legs."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to have a wrist bandage on their right wrist. The type of injury cannot be determined with certainty from the image alone, but it could possibly involve minor scrapes or abrasions based on the visible wound and lack of apparent fractures."
+                ],
+                "alertness_ocular": [
+                    "The person lying on the ground is closed-eyed, with their head resting at a lower angle compared to the upper body. There are no visible signs of response such as movement or expression that would indicate responsiveness."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows a mannequin lying on its side with no apparent signs of bleeding or severe hemorrhage. The individual appears to be wearing black pants and a yellow vest, which may indicate that they are part of a uniform, possibly for safety purposes. The concrete floor has some debris scattered around it."
+                ],
+                "value-dict": "{\"trauma_head\": [\"trauma_head = {'absence': 'No injury to the head', 'presence': 'Injury to the head' }\"], \"trauma_torso\": [\"```python\\n{\\n  'trauma_torso': {\\n    'absence': False,\\n    'presence': True\\n  }\\n}\\n```\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': 'absence',\\n  'wound': 'none',\\n  'amputation': 'one'\\n}\"], \"trauma_upper_ext\": [\"```python\\n{\\n  'trauma_upper_ext': ['absence'],\\n  'wound': ['none'],\\n  'amputation': ['missing at least one upper extremity']\\n}\\n```\"], \"alertness_ocular\": [\"{'untestable': 'eyes are closed', 'untestable': 'eyes are closed' }\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': 'absence', 'presence': 'severe hemorrhage'}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726253388592709923",
+        "image": "2/0/1726253388592709923.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene depicts an individual wearing a camouflage uniform with a helmet, lying on the ground in a grassy area near a chain-link fence. The person appears to be resting or possibly performing some sort of demonstration or simulation."
+                ],
+                "trauma_head": [
+                    "The person has no head injuries visible in the image. The individual is wearing a helmet, which may suggest they have some form of protection or head gear, but there are no obvious signs of head injuries such as cuts, bruises, or other physical harm that would indicate a head injury."
+                ],
+                "trauma_torso": [
+                    "The person appears to have some type of wound on the left side of their torso, which could be a bruise or a cut. There's no clear indication that they've suffered any internal injuries, such as bruises, scrapes, or cuts."
+                ],
+                "trauma_lower_ext": [
+                    "The person is wearing sandals, and there appears to be no visible lower extremity injuries. The upper extremity of the person's left leg seems to have a small cut or wound near the ankle area."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on the grass, wearing camouflage clothing. They have no visible arm injuries; however, they do have a large cut or scar on their left forearm that extends down to the ankle."
+                ],
+                "alertness_ocular": [
+                    "The person is seated with their eyes closed. They appear to be resting or perhaps in a state of relaxation, as indicated by the relaxed posture and lack of movement in their body language."
+                ],
+                "severe_hemorrhage": [
+                    "The person is lying on the ground, with their feet positioned towards a small box or object. The individual appears to be wearing what looks like military-style camouflage clothing and boots. There are no visible signs of bleeding. It's difficult to ascertain if there might be severe hemorrhage due to the lack of context about the severity of the injuries in this image alone."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': None,\\n  'absence': True,\\n  'presence': False,\\n  'label_to_predict': \\\"No injuries to the head\\\",\\n  'label_to_predict_2': \\\"Injury to the head\\\",\\n  'label_to_predict_3': \\\"Abnormal head position\\\",\\n  'label_to_predict_4': \\\"Unknown\\\"\\n}\\n```\"], \"trauma_torso\": [\"```python\\n{'absence': 'no', 'presence': 'injury'}\\n```\"], \"trauma_lower_ext\": [\"```python\\n{\\n  'trauma_lower_ext': ['absence', 'wound', 'amputation']\\n}\\n```\"], \"trauma_upper_ext\": [\"```python\\ntrauma_upper_ext = {'absence': 'No injuries to upper extremities', 'wound': 'Injury at least one upper extremity', 'amputation': 'Missing at least one upper extremity'}\\n```\"], \"alertness_ocular\": [\"{'untestable': 'eyes closed', 'open': 'eyes open', 'untestable': 'eyes untestable' }\"], \"severe_hemorrhage\": [\"```python\\nsevere_hemorrhage = {'absence': False, 'presence': True}\\n```\\n\\nThis label suggests that the person in the image is likely to have a severe hemorrhage, as there are no signs of bleeding or any other signs of distress.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726253417556940683",
+        "image": "2/0/1726253417556940683.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the ground with their arms and legs spread out. The individual appears to be wearing camouflage clothing, which suggests they might be in a military or tactical situation. Their condition seems unstable due to apparent injuries\u2014specifically a torn knee joint, visible bruising on the knees, and possible internal damage from a broken arm."
+                ],
+                "trauma_head": [
+                    "The person in the image appears to have no visible head injuries. There is no clear evidence of a blow or impact that would suggest head injuries such as bruises, cuts, or lacerations. The body language does not indicate any significant trauma or distress."
+                ],
+                "trauma_torso": [
+                    "The person appears to have no visible torso injuries, as they are lying face down on the grass with no obvious signs of fractures or abrasions."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to have sustained some injuries on their lower extremities. The visible damage includes a bruise or cut above the ankle and what seems like a puncture wound on the thigh."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to have a broken right knee. The type of injury is likely a fracture, which suggests that the knee may be in need of surgery or restorative care."
+                ],
+                "alertness_ocular": [
+                    "The person is lying on their back with closed eyes. They appear to be in a relaxed or resting position, not responsive to any external stimuli."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows a person lying on the ground with their arms and legs extended, wearing military-style clothing that includes camouflage patterns. There are no visible signs of severe bleeding or extensive cuts, which suggests that the person is not bleeding severely. However, without seeing the facial injuries, it's difficult to determine if they have significant abrasions.\n\nThere are no visible wounds such as scrapes or bruises, which further implies that the person may be in better physical condition than initially thought. The setting appears to be an outdoor area with a chain-link fence, indicating that this might be a public space where people come to exercise or play."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{'trauma_head': 'absence', 'presence': 'no'}\"], \"trauma_torso\": [\"{'trauma_torso': 'absence', 'presence': 'injury to the torso'}\"], \"trauma_lower_ext\": [\"{'trauma_lower_ext': 'absence', 'wound': 'no', 'amputation': 'none' }\"], \"trauma_upper_ext\": [\"```python\\n{\\n    'trauma_upper_ext': 'no injury to upper extremities',\\n    'wound': '1 or more upper extremity amputated',\\n    'amputation': '1'\\n}\\n```\"], \"alertness_ocular\": [\"{'alertness_ocular': 'untestable', 'open': 'yes', 'closed': 'no', 'untestable': 'yes'}\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': False, 'presence': True}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726253435928665020",
+        "image": "2/0/1726253435928665020.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene depicts a person lying on the ground, dressed in military attire, seemingly unresponsive. The individual appears to be lying on their side with limbs outstretched and head resting on one hand, which is extended forward. There are no signs of distress or injury evident from the image."
+                ],
+                "trauma_head": [
+                    "The person in the image has sustained head injuries. There are visible bruises and cuts on their forehead, cheek, and neck, which suggest they have been hit with a blunt object or by an unexpected force."
+                ],
+                "trauma_torso": [
+                    "The person is lying on their back in the grass, which indicates they have no visible torso injuries."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to have a lower extremity injury; the legs are broken, and one of the knees is missing."
+                ],
+                "trauma_upper_ext": [
+                    "The person lying on the ground has no visible arm injuries."
+                ],
+                "alertness_ocular": [
+                    "The person is lying face down on the ground with their arms and legs spread out. There are no visible signs of movement or responsiveness; they appear to be in a relaxed state, possibly sleeping or resting."
+                ],
+                "severe_hemorrhage": [
+                    "The person in the image appears to be lying on the ground, seemingly unconscious or in a state of distress. The individual is dressed in camouflage clothing and boots, suggesting they might have been engaged in some form of physical activity. There are no visible signs of bleeding, but the overall appearance suggests that the person may have suffered severe hemorrhage."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{'trauma_head': 'absence', 'presence': 'injury to the head' }\"], \"trauma_torso\": [\"{\\n  'trauma_torso': 'absence',\\n  'presence': 'injury'\\n}\"], \"trauma_lower_ext\": [\"{'trauma_lower_ext': 'absence', 'wound': 'no injury to the lower extremities, wound': 'at least one lower extremity, amputation missing at least one lower extremity'}\"], \"trauma_upper_ext\": [\"```python\\n{\\n  'trauma_upper_ext': 'absence',\\n  'wound': 'wound',\\n  'amputation': 'amputation'\\n}\\n```\\n\\nThis output represents the key 'trauma_upper_ext' and its three possible labels: 'absence', 'wound', and 'amputation'. These labels correspond to the types of injuries or conditions that might be present in the image.\"], \"alertness_ocular\": [\"{\\n  'alertness_ocular': ['untestable', 'untested'],\\n  'alertness_tactile': ['untestable', 'untested'],\\n  'alertness_vocal': ['untestable', 'untested'],\\n  'alertness_cognitive': ['untestable', 'untested'],\\n  'alertness_hearing': ['untestable', 'untested']\\n}\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': 'absence', 'presence': 'severe hemorrhage'}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726256663062543009",
+        "image": "15/0/1726256663062543009.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene shows a person lying on the ground with their head resting against a mesh fence, wearing what appears to be camouflage clothing. The individual seems relaxed and is positioned in a way that suggests they might have fallen or been hit by an object."
+                ],
+                "trauma_head": [
+                    "The person has a head injury that is not visible in the image."
+                ],
+                "trauma_torso": [
+                    "The person is lying on their back in a relaxed position. There are no visible injuries or bruises, but the area around the ankles and knees appears to be slightly injured as indicated by the slight redness and swelling of those areas, suggesting they may have been engaged in some form of physical activity that involved impact to the lower leg."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to be lying on the grass in a relaxed position, with no visible signs of lower extremity injuries. There are no obvious fractures or bruises on their feet and hands, suggesting that they might not have sustained any severe cuts or abrasions."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying down on the ground, and there are no visible arm injuries."
+                ],
+                "alertness_ocular": [
+                    "The person appears to be lying down with their eyes closed, suggesting they might be resting or asleep."
+                ],
+                "severe_hemorrhage": [
+                    "The person is lying on the ground with a body that looks like it's been hit hard, possibly by an object or in a fall. The person has a visible cut above their right eye and there is blood on their face, suggesting a severe bleeding issue."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\ntrauma_head = {'absence': 'No', 'presence': 'Injury'}\\n```\\n\\nThis response adheres to the given instructions, which is to assess and provide a Python dictionary for describing any injuries. The labels are provided in their simplest form, fitting for this scenario.\"], \"trauma_torso\": [\"{\\n  'trauma_torso': 'absence',\\n  'presence': 'injury'\\n}\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': ['absence', 'wound', 'amputation']\\n}\"], \"trauma_upper_ext\": [\"```python\\n{\\n  'trauma_upper_ext': ['absence', 'wound', 'amputation'],\\n  'disability': None,\\n  'injury_to_lower_extremities': None,\\n  'injury_to_upper_extremities': None,\\n  'injury_to_nose': None,\\n  'injury_to_humans' : 'none',\\n  'injury_to_ear' : 'none'\\n}\\n```\\n\\nThis dictionary will provide a clear and concise breakdown of the image, including any potential labels or indicators that may suggest injuries.\"], \"alertness_ocular\": [\"{\\n  'alertness_ocular': 'untestable'\\n}\"], \"severe_hemorrhage\": [\"```python\\n{\\n    'severe_hemorrhage': False,\\n    'absence': True,\\n    'presence': False\\n}\\n```\\n\\nThis dictionary assigns the label 'severe_hemorrhage' as an indication of whether a person is experiencing severe hemorrhaging. The key 'absence' indicates absence of any visible signs or symptoms, and 'presence' means there are no visible signs of severe hemorrhage present in the image.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726259208293927252",
+        "image": "25/0/1726259208293927252.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the ground outside, wearing sunglasses and a white jacket. Their condition appears to be in poor condition; they have dark hair that is tangled, suggesting it might not be clean or well-maintained. The person's leg has significant wear and tear, with no apparent support, indicating a lack of mobility or care."
+                ],
+                "trauma_head": [
+                    "The person appears to have a visible head injury. It is not possible to determine the exact type of injury from this image, but it likely involves a severe blow to the face or head due to some sort of forceful impact, as suggested by the bruising and contusion marks on the forehead and cheeks."
+                ],
+                "trauma_torso": [
+                    "The person is lying on the ground with no visible signs of injuries. The most noticeable feature is that they are wearing a baseball uniform, which suggests they might have been involved in some physical activity or sport."
+                ],
+                "trauma_lower_ext": [
+                    "The person has a black shin injury on their right leg."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on the ground, and there are no visible arm injuries."
+                ],
+                "alertness_ocular": [
+                    "The person is sitting on the ground with their eyes closed. They are not visible as there are no other objects in sight to see them, and it's difficult to determine if they are responsive without seeing any movement or sounds that would indicate engagement."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person lying on the ground with one leg extended and another bent. The individual appears to be resting, possibly after an injury or surgery. There are no signs of bleeding in this particular view; however, it's important to note that severe hemorrhage can occur if there is no adequate medical treatment available at the time of injury. If the person were to have any bleeding issues while being treated, it could pose significant health risks."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': 'no injury to the head',\\n  'absence': 'presence'\\n}\"], \"trauma_torso\": [\"{'trauma_torso': 'presence', 'absence': 'absence' }\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': 'absence',\\n  'wound': 'no injury to the lower extremities',\\n  'amputation': 'missing at least one lower extremity'\\n}\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': 'wound', 'absence': 'none', 'amputation': 'one upper extremity' }\"], \"alertness_ocular\": [\"{'untestable': 'closed', 'open': 'not open', 'untestable': 'open'}\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': ['absence', 'presence'], 'absence': ['absence', 'presence']}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726258999280602824",
+        "image": "24/0/1726258999280602824.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the ground with their arms outstretched. The individual appears to be covered in a camouflage outfit, and there are wooden planks placed over their body and limbs as if they were being used as support or part of some construction or improvised setup."
+                ],
+                "trauma_head": [
+                    "The person appears to be lying on the ground with no visible head injuries. The head is not directly visible, but it seems they are resting on a wooden plank or board, which could imply they have been injured by another object while laying down."
+                ],
+                "trauma_torso": [
+                    "The scene shows a person lying on the ground, with their head resting against two wooden beams. The person appears to have injuries on their torso; one of them is a visible abrasion on the upper back and another one closer to the chest area. It's not possible to determine the exact type of injury without further context or medical expertise."
+                ],
+                "trauma_lower_ext": [
+                    "The person lying on the ground has no lower extremity injuries. They are wearing a military uniform and have no visible signs of injury, such as cuts or abrasions."
+                ],
+                "trauma_upper_ext": [
+                    "The scene shows a person lying on the ground, covered with wooden planks and other debris. The individual has visible injuries; it is not possible to determine their exact condition from the image alone, but there are indications of abrasions or cuts that could be associated with the situation depicted."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are closed. They appear to be in a state of rest or possibly unconsciousness, as there is no sign of alertness or movement within the image."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person lying on the ground with their head resting on a wooden plank. The individual's face is obscured, but it appears they are in distress or possibly injured. It seems to be an improvised scenario rather than something that would typically occur during an actual emergency situation.\n\nThere are no visible signs of bloodshed such as deep wounds or severe bleeding. There do not appear to be any other individuals nearby who could provide assistance, so it might indicate that this is an improvised situation for a different purpose, perhaps as part of a training exercise or an artistic project where the intention is not lethal but requires some form of impact or injury."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{'trauma_head': 'absence', 'presence': 'no injuries'}\"], \"trauma_torso\": [\"{'trauma_torso': 'absence', 'presence': 'no injury to the torso'}\"], \"trauma_lower_ext\": [\"```python\\ntrauma_lower_ext = {'absence': 'no injury', 'wound': 'one lower extremity, at least one lower extremity', 'amputation': 'at least one lower extremity'}\\n```\"], \"trauma_upper_ext\": [\"{\\n  'trauma_upper_ext': ['absence', 'wound'],\\n  'amputation': ['missing upper extremity']\\n}\"], \"alertness_ocular\": [\"{'alertness_ocular': 'untestable', 'open': 'yes', 'closed': 'yes', 'untestable': 'no'}\"], \"severe_hemorrhage\": [\"{\\n  'severe_hemorrhage': ['absence', 'presence'],\\n  'absence': ['severe hemorrhage', 'severe hemorrhage']\\n}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726259067165596876",
+        "image": "24/1/1726259067165596876.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene depicts a person lying on the ground, seemingly unconscious or dead. Their body is partially covered by an assortment of wooden planks and beams that appear to be part of construction materials. The individual\u2019s condition suggests they might have been involved in some form of work-related accident or exhaustion."
+                ],
+                "trauma_head": [
+                    "The person is lying on the ground with a head injury. It appears to be a broken skull, possibly from an impact or a fall."
+                ],
+                "trauma_torso": [
+                    "The person appears to have a cut on the right side of their chest. The exact type of injury cannot be determined from the image alone without medical expertise, but it is evident that there has been some form of impact or force in contact with their torso."
+                ],
+                "trauma_lower_ext": [
+                    "The person is lying on the ground with a piece of wood in their head, suggesting they may have sustained some minor injuries to their head."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to be lying on the ground, possibly as part of a construction or renovation project. There are no visible arm injuries in this image; however, the person's body is not covered with any apparent protective clothing or padding that might suggest an injury from a fall or a collision, such as a handbag being dropped and then caught by someone else."
+                ],
+                "alertness_ocular": [
+                    "The scene depicts a person lying on the ground with their body partially obscured by wooden planks, which could be part of a makeshift structure or construction site. The individual's eyes are closed and there is no sign of responsiveness such as open mouth or raised hands; it appears they might be unconscious or simply resting with no apparent signs of movement."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person lying on the ground with their body partially covered by wooden planks. The individual appears to be bleeding, although it's not clear from this angle whether there are significant blood loss or if they've had a previous injury that has caused bleeding in different areas. Given the context and the apparent need for assistance, it is likely that this scenario could involve an injury requiring immediate attention to prevent further damage."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': None,\\n  'absence': True,\\n  'presence': False\\n}\\n```\"], \"trauma_torso\": [\"{'trauma_torso': 'absence', 'presence': 'injury to the torso' }\"], \"trauma_lower_ext\": [\"```python\\n{\\n  'trauma_lower_ext': 'wound',\\n  'absence': 'no',\\n  'amputation': 'missing at least one lower extremity'\\n}\\n```\\n\\nThe label 'wound' fits best as it describes the injury to at least one lower extremity, and the absence of an upper extremity suggests a traumatic event.\"], \"trauma_upper_ext\": [\"```python\\n{\\n  'trauma_upper_ext': ['absence'],\\n  'wound': ['wound to at least one upper extremity'],\\n  'amputation': ['amputation']\\n}\\n```\\n\\nPlease note that the labels are not specific medical terminology and may be used here as an illustrative example.\"], \"alertness_ocular\": [\"{'untestable': 'eyes are untestable', 'open': 'eyes are open', 'closed': 'eyes are closed', 'untestable': 'eyes are untestable'}\"], \"severe_hemorrhage\": [\"{\\n  'severe_hemorrhage': None,\\n  'absence': False\\n}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726258577886166991",
+        "image": "21/0/1726258577886166991.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the ground, seemingly in distress. The individual's clothes are stained and smeared with blood, suggesting they may have been involved in an altercation or violent incident. Their face is not visible due to what appears to be their clothing obscuring it."
+                ],
+                "trauma_head": [
+                    "The person has head injuries. The head is covered in blood and there's a large wound on the forehead, suggesting a severe blow to the head."
+                ],
+                "trauma_torso": [
+                    "The person has no torso injuries. They appear to be lying face down on the ground, with no visible bruises or abrasions on their body except for a small wound near their left knee."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to have a wound on the right side of their arm, which could be indicative of a minor scratch or abrasion."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on the ground with their arm extended. There is no indication of any arm injuries in this scene."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are closed. They appear to be in a state of unconsciousness or possibly death, as their body is stretched out horizontally on the ground and there are no signs of movement."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a lifeless figure lying on the ground. The individual appears to have sustained severe hemorrhage, which is indicated by the significant amount of blood and visible redness around the head, face, and neck area. This type of hemorrhage typically requires immediate medical attention and can be associated with a number of serious injuries such as gunshot wounds or cuts. It's also possible that there may be other internal bleeding or complications present, but these are not definitively evident from this image alone."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': 'absence',\\n  'presence': 'no injury to the head'\\n}\\n```\"], \"trauma_torso\": [\"{\\n  'trauma_torso': {\\n    'absence': False,\\n    'presence': True\\n  }\\n}\"], \"trauma_lower_ext\": [\"```python\\ntrauma_lower_ext = {'absence': False, 'wound': True, 'amputation': True}\\n```\"], \"trauma_upper_ext\": [\"{\\n  'trauma_upper_ext': ['wound', 'absence'],\\n  'wound': ['absence', 'amputation']\\n}\"], \"alertness_ocular\": [\"{\\n  'alertness_ocular': ['untestable'],\\n  'opening_of_eyes': ['untestable'],\\n  'closing_of_eyes': ['untestable']\\n}\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': ['absence'], 'presence': ['severe hemorrhage']}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726258637148050297",
+        "image": "21/1/1726258637148050297.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene shows two individuals in military uniforms lying on the ground, facing each other. The person closest to the camera appears to be a female with long hair, and the other individual is not clearly visible due to their position and angle from the image's perspective."
+                ],
+                "trauma_head": [
+                    "The person in the image appears to have a head injury. The hair is disheveled, and there are visible scratches on their forehead. This suggests that they may have suffered from an impact or trauma to their head."
+                ],
+                "trauma_torso": [
+                    "The person is lying on the ground with a large, disheveled hairstyle covering their head. There are no visible injuries to the torso; they appear to be in good condition without any signs of bruises or wounds."
+                ],
+                "trauma_lower_ext": [
+                    "The person has a wound on the head."
+                ],
+                "trauma_upper_ext": [
+                    "The person lying on the ground has no visible arm injuries."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are closed."
+                ],
+                "severe_hemorrhage": [
+                    "The image depicts a person lying on the ground with their head tilted downward, appearing to be in distress or possibly injured. The person is wearing camouflage clothing and boots. There are no visible signs of bleeding, so it's not possible to determine if they're seriously injured at this moment. However, without more context or medical expertise, an accurate assessment cannot be provided."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': 'injured',\\n  'presence': 'head injury'\\n}\\n```\"], \"trauma_torso\": [\"{\\n  'trauma_torso': ['absence', 'presence']\\n}\"], \"trauma_lower_ext\": [\"```python\\n{\\n  'trauma_lower_ext': ['absence', 'wound'],\\n  'amputation': ['no amputation']\\n}\\n```\\n\\nThis output should accurately reflect the label for each category of injuries in the image.\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': 'absence', 'wound': 'wound', 'amputation': 'none'}\"], \"alertness_ocular\": [\"{\\n  'alertness_ocular': ['untestable', 'closed'],\\n  'alertness_ocular': ['untestable', 'open']\\n}\"], \"severe_hemorrhage\": [\"```python\\n{\\n  'severe_hemorrhage': False,\\n  'absence': True,\\n  'presence': True\\n}\\n```\\n\\nThis dictionary represents the severity of hemorrhage in a patient, with \\\"severe hemorrhage\\\" indicating absence and \\\"absence\\\" indicating presence.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726258174527604626",
+        "image": "17/0/1726258174527604626.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene shows a person lying on the ground, dressed in military camouflage clothing. The individual has one arm and hand extended outwards. There is no visible sign of distress or injury to their upper body; however, they are wearing shoes with dirty soles."
+                ],
+                "trauma_head": [
+                    "The person in the image appears to have sustained a head injury, likely from an impact or fall. The visible injuries include bruising around the forehead and eyes, as well as possible scrapes on the face and neck."
+                ],
+                "trauma_torso": [
+                    "The person appears to have some bruises on their right arm, which suggests a possible injury."
+                ],
+                "trauma_lower_ext": [
+                    "The person has lower extremity injuries, specifically a torn left knee."
+                ],
+                "trauma_upper_ext": [
+                    "The person in the image is lying on the ground with a broken arm, suggesting that they have suffered an injury to their upper limb."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are closed. They appear to be in a relaxed or possibly contemplative pose, with their hands extended outward and slightly bent at the elbows."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a mannequin in military attire, lying on its side with its arms and legs spread out. The individual appears to be bleeding severely from the wounds visible on their right arm. It is not possible to definitively determine if the person has been injured seriously without further medical information or context."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': 'absence',\\n  'presence': 'no injury to the head'\\n}\\n```\"], \"trauma_torso\": [\"{\\n  'trauma_torso': 'injury to the torso',\\n  'absence': 'no injuries to the torso'\\n}\"], \"trauma_lower_ext\": [\"{'trauma_lower_ext': 'absence', 'wound': 'none', 'amputation': 'none'}\"], \"trauma_upper_ext\": [\"```python\\n{\\n    'trauma_upper_ext': {\\n        \\\"absence\\\": False,\\n        \\\"wound\\\": False,\\n        \\\"amputation\\\": True\\n    }\\n}\\n```\"], \"alertness_ocular\": [\"{'alertness_ocular': 'untestable', 'untestable': 'untestable'}\"], \"severe_hemorrhage\": [\"{\\n  'severe_hemorrhage': False,\\n  'presence': True,\\n  'absence': False\\n}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726258246182186424",
+        "image": "17/1/1726258246182186424.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image depicts a person lying on the ground against a wall. The individual is wearing sunglasses and appears to be in a relaxed posture, with their arms stretched out to the sides. There are visible cuts or injuries on their right arm, suggesting they might have been involved in some sort of altercation or struggle."
+                ],
+                "trauma_head": [
+                    "The person in the image has a significant head injury, specifically an open skull with exposed brain tissue and visible internal organs."
+                ],
+                "trauma_torso": [
+                    "The person is lying on the ground with no visible torso injuries. There are no signs of blood or significant abrasions in their arms or hands."
+                ],
+                "trauma_lower_ext": [
+                    "The person is lying on the ground, wearing sandals and a camouflage outfit. There are no lower extremity injuries visible in the image provided."
+                ],
+                "trauma_upper_ext": [
+                    "The person has no arm injuries. There are no visible wounds or cuts on the left arm, but there is a cut on the right arm."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are closed. They appear to be in a state of rest or sleep."
+                ],
+                "severe_hemorrhage": [
+                    "The image depicts a person lying on the ground with what appears to be blood, indicating severe hemorrhage. The individual is wearing military-style camouflage clothing and boots that are dirty or stained by the bleeding. While the scene does not provide definitive information about the severity of the injuries beyond the presence of blood, the context suggests an emergency situation requiring immediate attention, such as a wound that has been cut open and exposed. The person's attire and environment hint at a potentially dangerous situation, which could require medical intervention."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': \\\"No visible injury to the head\\\",\\n  'absence': \\\"Injury to the head\\\"\\n}\"], \"trauma_torso\": [\"```python\\ntrauma_torso = {'absence': 'no injuries', 'presence': 'injury'}\\n```\"], \"trauma_lower_ext\": [\"```python\\n{\\n    'trauma_lower_ext': 'wound',\\n    'absence': 'no'\\n}\\n```\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': 'absence', 'wound': 'wound', 'amputation': 'none'}\"], \"alertness_ocular\": [\"{'untestable': 'open', 'untestable': 'closed'}\"], \"severe_hemorrhage\": [\"{\\n  'severe_hemorrhage': ['absence',\\n  'presence',\\n  'absence'\\n}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726254243648443738",
+        "image": "6/0/1726254243648443738.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the ground with their legs crossed. They are wearing what appears to be military fatigues and have a helmet, which suggests they may have been engaged in some form of military or outdoor activity. The individual seems relaxed but not alert; they could be resting after an exercise or simply enjoying a moment of rest outdoors."
+                ],
+                "trauma_head": [
+                    "The person has no head injuries. They appear to have been hit by a vehicle or thrown against something, which is not visible in the image, but can be inferred from the position of their limbs and body posture."
+                ],
+                "trauma_torso": [
+                    "The person lying on the grass has a visible shoulder injury."
+                ],
+                "trauma_lower_ext": [
+                    "The person has no lower extremity injuries."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on the ground with no visible arm injuries."
+                ],
+                "alertness_ocular": [
+                    "The person appears to be in a state of repose, lying down with their eyes closed. They seem to be at ease, resting comfortably on the grass without showing signs of distress or discomfort."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person lying on the ground, dressed in military-style clothing and helmet, with a helmet resting beside them. The individual appears to be at rest or possibly asleep. The grass is dry, suggesting it may have rained recently, which could explain the condition of the clothing. There's no immediate indication of bleeding, as the person seems to be in a state of rest rather than in distress. However, without medical context, this assessment cannot be confirmed."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{'trauma_head': 'no', 'presence': 'injury to head' }\"], \"trauma_torso\": [\"```python\\n{\\n  'trauma_torso': ['absence', 'presence'],\\n  'injury_type': 'bludgeoning',\\n  'cause_of_injury': 'roadside crash'\\n}\\n```\"], \"trauma_lower_ext\": [\"{'trauma_lower_ext': 'wound', 'absence': 'no', 'amputation': 'none'}\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': 'no injuries to the upper extremities', 'wound': 'none', 'amputation': 'less than 1 limb', 'physical_functionality': 'impaired physical function' }\"], \"alertness_ocular\": [\"{'untestable': 'yes', 'open': 'no', 'closed': 'no', 'untestable': 'yes'}\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': 'absence', 'presence': 'severe hemorrhage'}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726254282970009760",
+        "image": "6/1/1726254282970009760.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene depicts a person lying on the grass, seemingly asleep or resting. Their legs are bent at the knees and their feet are elevated in the air, with no visible movement. They are dressed in camouflage pants and white sneakers, which appear to be slightly wet, suggesting they may have been exposed to water or rain recently."
+                ],
+                "trauma_head": [
+                    "The person lying on the grass appears to have no head injuries; there are no visible signs of fractures, bruises, or any other forms of damage to their head."
+                ],
+                "trauma_torso": [
+                    "The person has a bruise on their right knee, which appears to be a soft tissue injury."
+                ],
+                "trauma_lower_ext": [
+                    "The person is lying on the grass, and there are no lower extremity injuries visible in the image."
+                ],
+                "trauma_upper_ext": [
+                    "The person has no visible arm injuries. The person's arms are extended out in front of them, suggesting they may have been resting or relaxing on the grass with their arms not fully extended."
+                ],
+                "alertness_ocular": [
+                    "The person appears to be lying down in a relaxed pose, with no signs of eyes being open or responsive. Their head is resting on the grass, and they are not wearing any visible accessories that might suggest responsiveness such as gloves or sunglasses."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person lying on the ground with their body covered in clothing and wearing shoes, which are not clearly visible. There is no indication of blood being seen or an injury to the person's head or face. The individual appears to be resting comfortably outdoors."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': ['absence', 'presence']\\n}\"], \"trauma_torso\": [\"```python\\ntrauma_torso = {\\n    'absence': 'No visible injury to the torso',\\n    'presence': 'One person is lying on the ground, possibly indicating an absence of injuries.'\\n}\\n```\\n\\nThis response assumes that the label provided by the user is relevant and fits best for medical diagnosis. If the label provided was not relevant or if there were other possibilities, it would require further analysis or clarification from the user.\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': 'absence',\\n  'wound': 'none'\\n}\"], \"trauma_upper_ext\": [\"```python\\n{'trauma_upper_ext': 'absence', 'wound': 'none', 'amputation': 'one'}\\n```\"], \"alertness_ocular\": [\"{\\n  'alertness_ocular': {\\n    \\\"untestable\\\": True,\\n    \\\"open\\\": False\\n  }\\n}\"], \"severe_hemorrhage\": [\"```python\\n{\\n  'severe_hemorrhage': False,\\n  'presence': True,\\n  'absence': True,\\n}\\n```\\n\\nNote: This is a simplified version and does not reflect the complexity of medical diagnoses.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726256555350668737",
+        "image": "14/0/1726256555350668737.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene depicts a person lying on the grass, seemingly relaxed or possibly asleep. The individual is wearing a camouflage outfit and has their head turned away from the camera. They are in a field with some trees and buildings in the background."
+                ],
+                "trauma_head": [
+                    "The person appears to have an unspecified head injury. It is not possible to definitively determine the type of injury due to the image's low resolution and limited context, but it could be a concussion or some other head-related damage."
+                ],
+                "trauma_torso": [
+                    "The person lying on the grass has a visible neck injury. The specific type of injury cannot be definitively determined without seeing any clinical evidence such as X-rays, MRI scans, or other diagnostic tools."
+                ],
+                "trauma_lower_ext": [
+                    "The person has lower extremity injuries. The feet appear to be bruised, with one foot showing a deep bruise on the ball of the toe and another foot having some visible abrasion marks near the ankle area."
+                ],
+                "trauma_upper_ext": [
+                    "The person lying on the grass appears to have no visible arm injuries."
+                ],
+                "alertness_ocular": [
+                    "The scene is a peaceful, open grassy area with no human figures visible. The person lying down appears to be in repose or resting, with their eyes closed and head turned slightly towards the camera. This suggests that they may be relaxed or asleep."
+                ],
+                "severe_hemorrhage": [
+                    "The scene shows a person lying on the grass in an outdoor setting, possibly in front of some structures or machinery. The individual is wearing what appears to be a camouflage outfit and has their head resting on one arm while the other limb stretches out. The environment suggests it might be a park or a similar public space.\n\nThere are no visible signs of bleeding, and the person does not appear to have any apparent injuries apart from possible minor bruises. However, without medical confirmation, it's impossible to determine if there were severe hemorrhage that would necessitate immediate treatment such as stitches or bandages."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': \\\"absence\\\",\\n  'presence': \\\"no\\\"\\n}\"], \"trauma_torso\": [\"{'trauma_torso': 'absence', 'presence': 'injury to the torso'}\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': 'absence',\\n  'wound': 'none'\\n}\"], \"trauma_upper_ext\": [\"```python\\ntrauma_upper_ext = {'absence': 'no injuries to upper extremities', 'wound': 'at least one upper extremity is injured', 'amputation': 'at least one upper extremity is amputated'}\\n```\\n\\nThis dictionary categorizes the image as depicting a person lying on grass with no visible injuries, indicating that they are in a state of complete or near-total absence.\"], \"alertness_ocular\": [\"{'alertness_ocular': 'untestable', 'untestable': 'unopened eyes'}\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': 'absence', 'presence': 'absence'}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726256715763427564",
+        "image": "16/0/1726256715763427564.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the ground in an open field, seemingly resting or asleep. They are wearing a checkered shirt and black pants, with one foot elevated out of frame and the other bent at the knee, suggesting a relaxed posture."
+                ],
+                "trauma_head": [
+                    "The person lying on the ground has no visible head injuries. The person appears to have a leg injury as their foot is elevated above the grass."
+                ],
+                "trauma_torso": [
+                    "The person appears to have no visible torso injuries. They seem to be lying on their back in a grassy field with no apparent trauma or cuts."
+                ],
+                "trauma_lower_ext": [
+                    "The person has a leg injury, specifically a cast."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on their back in a grassy field. There is no visible arm injury as the image shows an individual laying face down with no apparent signs of injury, such as bruises or cuts, which are typically seen when someone has sustained an arm injury."
+                ],
+                "alertness_ocular": [
+                    "The person appears to be lying on their side with an open eye and closed eyes."
+                ],
+                "severe_hemorrhage": [
+                    "The person appears to be lying on the grass, which suggests they may have sustained a bleeding injury. The visible wounds suggest severe hemorrhage, possibly due to blood loss from an internal injury such as a puncture wound or a cut that caused extensive fluid leakage."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': ['absence', 'presence']\\n}\"], \"trauma_torso\": [\"{'trauma_torso': 'presence', 'absence': 'absence'}\"], \"trauma_lower_ext\": [\"{'trauma_lower_ext': 'wound', 'absence': 'none', 'amputation': 'none' }\"], \"trauma_upper_ext\": [\"{\\n  'trauma_upper_ext': ['no injury to upper extremities', 'wound', 'amputation'],\\n  'pain': ['no pain', 'injury to upper extremity', 'pain in lower limb']\\n}\"], \"alertness_ocular\": [\"{\\n  'alertness_ocular': {\\n    'untestable': 'yes'\\n  }\\n}\"], \"severe_hemorrhage\": [\"```python\\nsevere_hemorrhage = {\\n    'absence': None,\\n    'presence': True\\n}\\n```\\n\\nThis dictionary represents a label for the presence of severe hemorrhage in the image, indicating that the person's condition is not considered severe.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726254445189709593",
+        "image": "8/0/1726254445189709593.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the grass with their body covered in fabric. The person appears to be unconscious or possibly deceased, as they are not visible from head to toe and their face is obscured by clothing."
+                ],
+                "trauma_head": [
+                    "The person in the image has no visible head injuries."
+                ],
+                "trauma_torso": [
+                    "The scene depicts a person lying on the ground, possibly covered with fabric or clothing. The person has no visible torso injuries; there are no signs of cuts, bruises, or abrasions that would indicate they have sustained any significant physical damage to their upper body."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to be lying on their back with their legs bent at the knees and feet flat. There is no clear indication of lower extremity injuries, such as cuts or bruises, visible in the image."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to be lying on the ground with their arm extended. The specific type of injury is not identifiable from this angle and image alone without additional context, but it could possibly be an abrasion or a slight sprain given the relaxed position and lack of significant damage in that area."
+                ],
+                "alertness_ocular": [
+                    "The person is lying on the ground, partially covered by what appears to be a piece of fabric or tarp. Their eyes are not open; they are closed and their facial features are obscured from view due to the coverage."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person lying on the ground, covered in what appears to be an improvised blanket or protective cover. The individual is lying face down with their head resting on one hand and legs extended outwards. There's no direct evidence of severe hemorrhage visible from this angle, but it may be inferred that they are at risk of bleeding due to prolonged exposure to harsh weather conditions, such as cold or high temperatures, which can lead to blood loss. Additionally, the person seems to be wearing a helmet, which could imply recent or ongoing activities involving sports or outdoor pursuits, further suggesting physical risks."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': 'Yes',\\n  'presence': 'No'\\n}\\n```\\n\\nThe label \\\"absence\\\" would not fit as it implies the absence of injury, but in this context, it is more appropriate to say there was no presence of an injury to the head.\"], \"trauma_torso\": [\"```python\\n{\\n  'trauma_torso': ['absence'],\\n  'presence': ['injury to the torso']\\n}\\n```\\n\\nThis dictionary represents a label for the image that describes its content: there is no injury to the torso, but the individual appears to have an apparent injury. This label can be used in medical or forensic contexts when identifying potential injuries related to a trauma.\"], \"trauma_lower_ext\": [\"trauma_lower_ext = ['absence', 'wound', 'amputation']\"], \"trauma_upper_ext\": [\"```python\\ntrauma_upper_ext = ['absence', 'wound', 'amputation']\\n```\"], \"alertness_ocular\": [\"{\\n  'alertness_ocular': ['untestable', 'open']\\n}\"], \"severe_hemorrhage\": [\"```python\\n{\\n  'severe_hemorrhage': False,\\n  'presence': False,\\n  'absence': True,\\n}\\n```\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726254486220381273",
+        "image": "8/1/1726254486220381273.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the ground, seemingly injured or incapacitated. They are wearing military fatigues with a helmet, and their condition appears to be grimy from an injury or exposure to elements such as water or dirt."
+                ],
+                "trauma_head": [
+                    "The person lying on the ground appears to have a bruise in their head, likely caused by impact or force."
+                ],
+                "trauma_torso": [
+                    "The person lying on the ground has no visible injuries, as they are not in any apparent distress."
+                ],
+                "trauma_lower_ext": [
+                    "The person has no lower extremity injuries. The upper extremity is not visible, and there are no indications of an injury on the lower extremities such as cuts or bruises."
+                ],
+                "trauma_upper_ext": [
+                    "The person has a broken leg. The injury is a sprained ankle."
+                ],
+                "alertness_ocular": [
+                    "The person in the image is lying on their stomach with their head positioned towards the ground, which could suggest they are either sleeping or resting. There is no direct evidence of a closed eye, so it's likely that they are open and responsive to stimuli."
+                ],
+                "severe_hemorrhage": [
+                    "The scene shows a person lying on the ground with their body covered in what appears to be blood. The individual is wearing military camouflage clothing, which suggests they may have been involved in combat or physical training. It's possible that this person has suffered severe hemorrhage, as bleeding is often a sign of deep wounds and prolonged bleeding.\n\nWhile it might not be immediately clear from the image alone whether the person was injured during combat or if there were other factors contributing to the bleeding, such as trauma from an explosion or medical treatment, it does suggest that the individual requires immediate medical attention. Medical professionals would likely assess the condition and determine the best course of action for treating the bleeding."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': 'No Head Injury',\\n  'absence': 'Yes Head Injured'\\n}\\n```\\n\\nThis dictionary assigns the label 'no head injury' to indicate that there is no visible evidence of a serious head injury, while 'yes head injured' indicates that an individual has sustained some form of head injury.\"], \"trauma_torso\": [\"{\\n  'trauma_torso': {\\n    'absence': False,\\n    'presence': True\\n  }\\n}\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': ['absence', 'wound', 'amputation'],\\n  'condition_of_living': 'injured'\\n}\"], \"trauma_upper_ext\": [\"{\\n  'trauma_upper_ext': ['absence'],\\n  'wound': ['none'],\\n  'amputation': ['missing upper extremity']\\n}\"], \"alertness_ocular\": [\"{'untestable': 'open', 'untestable': 'closed'}\"], \"severe_hemorrhage\": [\"```python\\n{\\n    'severe_hemorrhage': 'Yes',\\n    'absence': 'No'\\n}\\n```\\n\\nIn this image, there is a person lying on the ground with their head turned away from the camera. The person's presence and absence are being assessed based on the image provided.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726259283387628722",
+        "image": "27/0/1726259283387628722.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the ground, seemingly in distress. The individual is positioned sideways with their head resting on one arm and legs bent at the knees. They are dressed in casual clothing, including a camouflaged jacket and dark pants. There's no visible body language suggesting pain or distress; instead, it appears as if they have fallen onto the ground unexpectedly, possibly due to an accident or a fall."
+                ],
+                "trauma_head": [
+                    "The person appears to have a head injury, specifically what looks like a concussion. This can be inferred from the way their head is tilted downward and they are leaning against the wall with their arms resting on it, which is common when someone has been hit in the head while lying down or falling."
+                ],
+                "trauma_torso": [
+                    "The person appears to have a contorted body, with one leg bent in front of the other and their arms crossed over. There are no visible signs of severe fractures or injuries on the torso."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to have an injury on the left lower leg, which is not visible in this image. It looks like a bruise or a cut on that side."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on the ground with their arm extended upwards, appearing to have a visible cut or wound on that part of their arm."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are closed. They appear to be in a state of rest or possibly asleep."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows a person lying on the ground against a concrete wall. The individual is wearing casual clothing and sneakers, and appears to be resting or possibly unconscious. There's no clear evidence of bleeding, so it's unlikely that the person has sustained severe hemorrhage in this manner."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\ntrauma_head = {\\n    'absence': True,\\n    'presence': False\\n}\\n```\"], \"trauma_torso\": [\"{\\n  'trauma_torso': {\\n    \\\"absence\\\": True,\\n    \\\"presence\\\": False\\n  }\\n}\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': ['absence', 'wound'],\\n  'trauma_upper_ext': ['amputation']\\n}\"], \"trauma_upper_ext\": [\"```python\\ntrauma_upper_ext = {\\n    'absence': False,\\n    'wound': True,\\n    'amputation': True,\\n}\\n```\\n\\nThis label categorizes the image as indicating a person lying on the ground with one or more of their upper extremities in an apparent state of distress.\"], \"alertness_ocular\": [\"{\\n  'alertness_ocular': 'untestable',\\n  'open': 'yes',\\n  'closed': 'no'\\n}\"], \"severe_hemorrhage\": [\"{\\n  'severe_hemorrhage': True,\\n  'absence': False\\n}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726259343130828987",
+        "image": "27/1/1726259343130828987.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene shows a mannequin lying on the ground, seemingly abandoned or sleeping. The individual's condition is not clear; however, based on their attire and body language, it could be interpreted as a person who has fallen asleep or passed away."
+                ],
+                "trauma_head": [
+                    "The person has no visible head injuries."
+                ],
+                "trauma_torso": [
+                    "The person has no visible injuries on their torso, but the posture and positioning might suggest that they were in an awkward position while lying down."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to have a lower extremity injury. The visible part of the foot, which is not shown in the image, shows signs of abrasions or cuts and scabbing around the edges. There are no obvious fractures or severe abrasions present on the leg or ankle."
+                ],
+                "trauma_upper_ext": [
+                    "The person has a large wound on their arm, which appears to be quite deep and extensive. It looks like they may have been struck by something sharp or heavy in nature, causing the skin to contaminate the underlying tissues."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are closed, and there is no indication that they are responsive to the surroundings."
+                ],
+                "severe_hemorrhage": [
+                    "The image depicts a mannequin lying on the ground against a wall, seemingly unconscious or in a state of distress. The person appears to be wearing sunglasses and has dark hair. There is no visible sign of bleeding or severe hemorrhage among the individual present."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{'trauma_head': 'absence', 'presence': 'no injuries to head}\"], \"trauma_torso\": [\"{'trauma_torso': 'absence', 'presence': 'injury to the torso'}\"], \"trauma_lower_ext\": [\"{'trauma_lower_ext': 'wound', 'absence': 'none', 'amputation': 'no'}\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': ['absence', 'wound', 'amputation'], 'labels': [{'key': 'trauma_upper_ext', 'label': 'No injuries to upper extremities'}, {'key': 'wound', 'label': 'Wound or injury to at least one upper extremity'}, {'key': 'amputation', 'label': 'Amputation of a limb'}]}\"], \"alertness_ocular\": [\"{\\n  'alertness_ocular': {\\n    'open': False,\\n    'closed': True,\\n    'untestable': 'untestable'\\n  }\\n}\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': False, 'absence': False}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726254591864491484",
+        "image": "9/0/1726254591864491484.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a soccer goal with netting, grassy field, and trees in the background. A person is lying on top of the goal post, seemingly unconscious or deceased, as there's no visible movement or other indicators of life."
+                ],
+                "trauma_head": [
+                    "The image shows a person lying on the ground, surrounded by several pieces of metal and debris. The person appears to be in distress or possibly injured. There is no clear indication that they have any head injuries from the given view."
+                ],
+                "trauma_torso": [
+                    "The person appears to have a minor injury. It is difficult to determine the exact type of injury based on the image alone, but it looks like a mild concussion or stress-related harm as there are no visible signs of head trauma such as crumpled paper or broken bones."
+                ],
+                "trauma_lower_ext": [
+                    "The person in the image is lying on their stomach, seemingly injured. The lower extremity injuries are not clear from this angle; however, it's likely that they have suffered an injury to one of their legs or feet, as they appear to be laying down with their legs bent and possibly holding onto something."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on the ground, possibly in pain."
+                ],
+                "alertness_ocular": [
+                    "The scene appears to be taken during daylight, with shadows indicating a time of day that is not night. The person's eyes are not visible in the image; therefore, it can't be confirmed if they are open or closed and responsive to what might be happening outside the frame."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows a person lying on the ground in front of a soccer goal, which appears to be abandoned and broken. The individual is wearing no visible protective gear or medical assistance equipment. Given the severity of the injury suggested by the lack of an identifiable wound, it's likely that the person may have severe hemorrhage. However, without any signs of external bleeding such as blood on clothing, there are no clear indicators of septicemia or other life-threatening complications, so these points would not necessarily suggest severe hemorrhage in this scenario."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': 'injury',\\n  'absence': 'no injuries'\\n}\"], \"trauma_torso\": [\"{'trauma_torso': ['absence'], 'presence': ['injury to the torso']]}\"], \"trauma_lower_ext\": [\"{'trauma_lower_ext': 'wound', 'absence': 'no', 'amputation': 'missing at least one lower extremity'}\"], \"trauma_upper_ext\": [\"{\\n  'trauma_upper_ext': ['absence', 'wound', 'amputation'],\\n  'rehabilitation_intervention': 'no rehabilitation intervention',\\n  'condition_of_rehabilitation': 'impaired ability to perform tasks or maintain normal functioning of body parts'\\n}\"], \"alertness_ocular\": [\"{'untestable': 'untested', 'open': 'yes', 'closed': 'no', 'untestable': 'untested'}\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': 'absence', 'presence': 'absence'}.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726254807442123487",
+        "image": "11/0/1726254807442123487.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene is an outdoor area, likely a park or recreational space. There's a person lying on the ground with their legs extended in front of them. The figure appears to be covered in some kind of protective material, possibly a blanket or a covering. The environment suggests it might have rained recently as there are patches of water visible on the grass."
+                ],
+                "trauma_head": [
+                    "The person lying on the grass has no visible head injuries."
+                ],
+                "trauma_torso": [
+                    "The person has no visible torso injuries; they are lying on the grass with no obvious signs of distress."
+                ],
+                "trauma_lower_ext": [
+                    "The scene shows a person lying on the ground with their legs extended and their upper body bent backward. The individual has no lower extremity injuries, as there are no visible cuts, bruises, or fractures."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to have a severe arm injury, as evidenced by the broken and dislodged arm. The exact nature of the injury cannot be determined from this image alone without further medical evaluation or information about the surrounding environment."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are not visible in the image. The figure appears to be lying on its side with limbs extended, and there is no indication that they have been opened or closed by a mechanism such as an open gate, which suggests either the scene has ceased or it is staged for a specific effect."
+                ],
+                "severe_hemorrhage": [
+                    "The image depicts a person lying on the ground, seemingly in distress. The individual is covered in a substance that appears to be a mixture of dirt and possibly water, which could suggest recent exposure to an environmental or biological stimulus. Given the context, it's possible that this person may have suffered from severe hemorrhage, leading to significant bleeding and possibly amputations if there are visible wounds. However, without medical knowledge or clinical confirmation, these interpretations remain speculative based solely on the visual content of the photo."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': ['absence', 'presence']\\n}\"], \"trauma_torso\": [\"```python\\n{'trauma_torso': 'presence', 'absence': 'no'}\\n```\\n\\nThis is because the image shows a statue of a person lying on their back with no visible injuries to the torso. Therefore, the label \\\"presence\\\" best describes the situation in this case.\"], \"trauma_lower_ext\": [\"{'trauma_lower_ext': 'wound', 'absence': 'no', 'amputation': 'missing at least one lower extremity'}\"], \"trauma_upper_ext\": [\"```python\\n{\\n  'trauma_upper_ext': 'absence',\\n  'wound': 'wound to at least one upper extremity',\\n  'amputation': 'amputation'\\n}\\n```\\n\\nThis dictionary assigns the label \\\"absence\\\" because of the presence of an absence of upper extremities in the image.\"], \"alertness_ocular\": [\"{'untestable': 'closed', 'untestable': 'open'}\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': 0, 'absence': 1}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726255445254407611",
+        "image": "11/0/1726255445254407611.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a statue lying on its side in an open grassy area, with no visible people. It's a figure of a person wearing camouflage clothing and white sneakers, which are partially covered by the grass. The person is positioned with their head resting on one leg while the other is extended towards the ground."
+                ],
+                "trauma_head": [
+                    "The person in the image has no head injuries. They are lying on the grass with a pair of sneakers, and there is no visible damage to their head or face."
+                ],
+                "trauma_torso": [
+                    "The person is lying on their back in a park, with no visible injuries to the torso. The legs appear to be slightly bent at the knees and are resting on the grass."
+                ],
+                "trauma_lower_ext": [
+                    "The person is lying on the grass with a broken leg and an ankle sprain."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on the grass with their head turned to one side, suggesting they may have been hit or injured. There are no visible signs of severe physical trauma such as cuts, bruises, or fractures."
+                ],
+                "alertness_ocular": [
+                    "The person appears to be lying on their side, with one arm and leg stretched out horizontally. Their eyes are closed, suggesting they may be resting or sleeping."
+                ],
+                "severe_hemorrhage": [
+                    "The image depicts a person lying on the grass, seemingly unconscious or in severe distress. The individual is wearing camouflage clothing and shoes that appear to be white with some black details. There are no visible signs of bleeding on their face or body parts; however, they may have other injuries such as bruises or abrasions if they were involved in an accident.\n\nNo apparent wounds on their arms or legs suggest severe hemorrhage. It appears more likely that this person is suffering from an unspecified medical condition due to lack of visible bleeding, which could lead to severe hemorrhage if untreated."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': 'absence',\\n  'presence': 'injury to the head'\\n}\\n```\"], \"trauma_torso\": [\"{'trauma_torso': 'absence', 'presence': 'injury'}\"], \"trauma_lower_ext\": [\"```python\\n{\\n    'trauma_lower_ext': ['wound', 'amputation'],\\n    'absence': ['no injury to lower extremities']\\n}\\n```\\n\\nThe labels 'trauma_lower_ext' refer to the presence of injuries in one or both of the lower limbs, while 'absence' indicates no injuries at all. The label 'wound' specifically refers to a wound on the lower extremity.\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': 'wound', 'absence': 'no injury to upper extremities', 'wound': 'missing at least one upper extremity', 'amputation': 'missing at least one upper extremity'}\"], \"alertness_ocular\": [\"{'untestable': 'open', 'untestable': 'closed', 'untestable': 'untestable'}\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': 'absence', 'presence': 'severe hemorrhage'}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726259246763849664",
+        "image": "26/0/1726259246763849664.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene shows a mannequin with black hair and glasses sitting on the ground next to a wall. The individual is wearing a white, camouflage-patterned outfit and has one foot propped up against the wall while the other lies flat."
+                ],
+                "trauma_head": [
+                    "The person has a head injury. The person is lying on the ground with their head resting against the wall, and it appears they have suffered a head injury that could be related to an accident or an unexpected event."
+                ],
+                "trauma_torso": [
+                    "The person in the image appears to have sustained a serious injury. The torso injuries include fractures, and one of them is located on the upper left side of the body, near the shoulder blade area."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to have a lower extremity injury, specifically an ankle sprain. The visible area shows signs of compression and swelling, typical of a ligament tear or sprain that affects the lower leg."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on the ground, with their left arm bent at the elbow and resting on a wooden plank. The hand of the individual appears to be in contact with another object or surface, suggesting an injury that may have been sustained during the act of sitting down or laying down."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are closed. They appear to be in a state of rest or sleep, with their head tilted away from the camera and limbs relaxed on the ground."
+                ],
+                "severe_hemorrhage": [
+                    "The person in the image appears to be lying on a pavement, with one leg and foot propped up against a wall. The individual seems to be resting or possibly injured, as indicated by the visible blood on their leg. Given that the injury is not severe enough to lead to amputations, it's likely that they are not bleeding severely but may have sustained an injury that could lead to such symptoms."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{'trauma_head': 'absence', 'presence': 'injury to the head'}\"], \"trauma_torso\": [\"{\\n  'trauma_torso': ['absence'],\\n  'presence': ['injury to the torso']\\n}\"], \"trauma_lower_ext\": [\"```python\\n{'trauma_lower_ext': 'absence', 'wound': 'amputation', 'physical injuries': ['hand'], 'psychological issues': []}\\n```\\n\\nIn this image, the person appears to have sustained physical injuries that do not include any amputations or hand injuries. The presence of a wound suggests an injury to one lower extremity, which can be classified as \\\"wound\\\". Additionally, the person's condition does not indicate psychological issues such as depression or anxiety, as these are more typically associated with trauma and emotional distress rather than physical damage.\"], \"trauma_upper_ext\": [\"```python\\n{\\n    'trauma_upper_ext': 'no injury to the upper extremities',\\n    'wound': 'one upper extremity has been amputated',\\n    'amputation': 'none of the upper extremities have been amputated'\\n}\\n```\"], \"alertness_ocular\": [\"{'alertness_ocular': 'untestable', 'untestable': 'open' }\"], \"severe_hemorrhage\": [\"```python\\n{\\n  'severe_hemorrhage': False,\\n  'presence': True,\\n  'absence': False\\n}\\n```\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726258468652209698",
+        "image": "19/0/1726258468652209698.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image depicts a person lying on the ground, seemingly asleep or unconscious. They are dressed in military fatigues with camouflage patterns and are wearing white sneakers. Their head is resting on one arm while their other arm is extended outwards. The individual appears to be on a concrete surface next to what looks like an urban building wall."
+                ],
+                "trauma_head": [
+                    "The person appears to be lying on the ground with their head resting, which is not an apparent injury."
+                ],
+                "trauma_torso": [
+                    "The person has a large hole in their chest, suggesting they have sustained significant physical injury. The hole appears to be quite deep and could possibly be from a bullet or an explosion."
+                ],
+                "trauma_lower_ext": [
+                    "The person has lower extremity injuries. The injury is a cut on the left ankle, which appears to be from an object placed near the individual's feet, and it could potentially result in pain or discomfort."
+                ],
+                "trauma_upper_ext": [
+                    "The person lying on the ground has an arm injury, as indicated by visible scrapes and bruises on their forearm."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are closed."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person lying on the ground with no visible signs of bleeding, suggesting that the injury is not severe. The individual appears to be wearing military camouflage pants and white shoes, which could imply they have recently been in or near combat.\n\nThere are no visible signs of external hemorrhage, such as blood or fluid coming out from an area not visible in this image. This might indicate that the injuries are minor and not life-threatening. It's important to note that any injury can present symptoms beyond just bleeding and bleeding itself, and it's always best to consult medical professionals for accurate diagnoses and treatment plans."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': ['absence'],\\n  'presence': ['no injuries to the head']\\n}\\n```\\n\\nThis dictionary assigns labels for both absence of an injury and presence without an injury, which best fits the image where the person is lying on the ground with no visible signs of injury.\"], \"trauma_torso\": [\"{'trauma_torso': 'absence', 'presence': 'injuries to the torso'}\"], \"trauma_lower_ext\": [\"```python\\n{\\n  'trauma_lower_ext': {\\n    'absence': 'no injury to the lower extremities',\\n    'wound': 'at least one lower extremity is injured or missing at least one limb.',\\n    'amputation': 'missing at least one lower extremity.'\\n  }\\n}\\n```\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': 'absence', 'wound': 'no injury to at least one upper extremity', 'amputation': 'missing at least one upper extremity'}\"], \"alertness_ocular\": [\"{'alertness_ocular': 'untestable', 'open': 'unopened', 'closed': 'unclosed'}\"], \"severe_hemorrhage\": [\"```python\\n{\\n    'severe_hemorrhage': False,\\n    'absence': True,\\n    'presence': True\\n}\\n```\\n\\nNote: The image shows a person lying on the ground with a white box in front of them. The presence of the white box is not clear from the image, so it cannot be definitively ruled out as a potential source of hemorrhage.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726254358699718528",
+        "image": "7/0/1726254358699718528.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image depicts a person lying on the ground, facing away from the camera. The individual appears to be relaxed or possibly asleep in a grassy field with an overcast sky above them."
+                ],
+                "trauma_head": [
+                    "The scene depicts a person lying on their back in the grass, facing away from the camera. There are no visible head injuries as they appear to be relaxed and comfortable in this position. The person is not wearing any protective gear that could suggest head trauma or fractures."
+                ],
+                "trauma_torso": [
+                    "The person has a roundish bruise on the back, just below their collarbone."
+                ],
+                "trauma_lower_ext": [
+                    "The scene shows a person lying on the grass with their body relaxed and not showing any signs of lower extremity injuries. There are no visible fractures, abrasions, or cuts that can be confidently determined from this image alone."
+                ],
+                "trauma_upper_ext": [
+                    "The person lying on the ground is in a relaxed pose, possibly taking a break or resting. There are no visible signs of arm injuries such as bruises, scrapes, or cuts that can be observed from this perspective."
+                ],
+                "alertness_ocular": [
+                    "The person is lying down on the grass, which appears dry and sparse. They are not fully open but have a relaxed posture with their eyes closed, suggesting that they might be in a state of rest or perhaps even asleep."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows a person lying on the ground, seemingly asleep or unconscious. The individual's head is resting on their arm, and their eyes are closed. There appears to be no visible bleeding or severe hemorrhage in this view. However, the scene could potentially be perceived as disturbing due to the subject's state of repose, which may not align with typical expectations for such a moment."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': \\\"Yes, the person is lying on their back in a grassy field with no visible signs of injury to the head.\\\",\\n  'presence': \\\"No visible injuries are present in this image.\\\"\\n}\"], \"trauma_torso\": [\"```python\\n{\\n  'trauma_torso': ['absence', 'presence'],\\n  'injury_to_bones': ['absence', 'presence'],\\n  'injury_to_humus': ['absence', 'presence'],\\n  'injury_to_lungs': ['absence', 'presence'],\\n  'injury_to_circulatory_systems': ['absence', 'presence']\\n}\\n```\"], \"trauma_lower_ext\": [\"```python\\n{\\n    'trauma_lower_ext': ['absence', 'wound'],\\n    'wound': ['none']\\n}\\n```\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': 'none', 'wound': '', 'amputation': ''}\"], \"alertness_ocular\": [\"```python\\n{\\n    'alertness_ocular': {\\n        'untestable': True,\\n        'open': False,\\n        'closed': False,\\n        'untestable': True\\n    }\\n}\\n```\\n\\nPlease note that the labels provided are not definitive and may vary depending on local standards. The label 'untestable' should be used if you have concerns about the eyes being open or closed, but it is not a standard medical term in general.\"], \"severe_hemorrhage\": [\"```python\\n{\\n  'severe_hemorrhage': ['absence'],\\n  'presence': ['absence']\\n}\\n```\\n\\nIn this image, the presence of a person lying on their back with no visible symptoms or signs suggests they are not experiencing severe hemorrhage. The absence of any external injuries or medical indicators further supports the likelihood that it is not a severe case.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726254398698326718",
+        "image": "7/1/1726254398698326718.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene is outdoors with a person lying on the ground, dressed in dark clothing and wearing sunglasses. They appear to be relaxed or resting, possibly enjoying a moment of tranquility in a sunny day."
+                ],
+                "trauma_head": [
+                    "The person appears to be in a relaxed state, possibly sleeping or sunbathing. The head is not visible in the image; therefore, it's impossible to determine if there are any head injuries present."
+                ],
+                "trauma_torso": [
+                    "The person lying on the ground has a visible bruise on their left arm and shoulder."
+                ],
+                "trauma_lower_ext": [
+                    "The person lying on the grass has lower extremity injuries. They have a cut or abrasion on their right ankle, which is bleeding and swollen."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on their back in the grass. The arm appears to be slightly bent, and there's a small blue mark near it that could be from a sweatband or an object used for traction."
+                ],
+                "alertness_ocular": [
+                    "The scene is a tranquil outdoor setting with lush greenery. The person appears to be lying on their back in the grass, seemingly at ease or possibly asleep. They are facing upwards and slightly away from the camera's viewpoint, indicating they might be looking towards something above them."
+                ],
+                "severe_hemorrhage": [
+                    "The person is lying on the grass, seemingly relaxed with a relaxed posture. The grass appears dry and brown, which may indicate it's either late summer or early autumn. The individual has their eyes closed, suggesting they might be resting or sleeping. It seems that there are no visible signs of severe hemorrhage in the image provided."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': None,\\n  'presence': 'No visible signs of head injury.'\\n}\\n```\\n\\nThis response meets the requirements as it clearly indicates that there is no apparent head injury in the image. The presence is also indicated by a lack of visible injuries or damage to the head, suggesting that the person did not experience any traumatic brain injuries or other types of head trauma.\"], \"trauma_torso\": [\"```python\\n{'trauma_torso': 'absence', 'presence': 'injury to the torso'}\\n```\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': ['absence', 'wound'],\\n  'amputation': ['none']\\n}\"], \"trauma_upper_ext\": [\"```python\\n{\\n  'trauma_upper_ext': ['wound', 'amputation'],\\n  'absence': ['none']\\n}\\n```\\n\\nThis Python dictionary categorizes the injuries present in the image as follows:\\n\\n- Injury to at least one upper extremity: The person's head and hand are clearly visible, indicating a potential injury.\\n- No injury to the upper extremities: There is no visible damage or deformations that could indicate a severe injury.\"], \"alertness_ocular\": [\"```python\\n{'alertness_ocular': 'untestable', 'open': False, 'closed': False}\\n```\\n\\nThis dictionary assigns the label \\\"untestable\\\" to indicate that the eyes are untestable due to their inability to be observed.\"], \"severe_hemorrhage\": [\"{\\n  'severe_hemorrhage': False,\\n  'absence': True\\n}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726258694601258127",
+        "image": "22/0/1726258694601258127.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image depicts a mannequin dressed in what appears to be dirty or stained clothing, lying on the ground with one leg extended. The condition of the mannequin suggests it may have been discarded or abandoned, as there are no visible signs of wear or distress such as tears or discoloration."
+                ],
+                "trauma_head": [
+                    "The person has a bloody nose and what appears to be cuts on the face. The head injury is likely from a blunt object, given the size of the wound and the extent of the damage."
+                ],
+                "trauma_torso": [
+                    "The person is lying on the ground with their left leg extended and appears to be in a state of distress. There are no visible signs or markings that indicate they have any torso injuries."
+                ],
+                "trauma_lower_ext": [
+                    "The person has lower extremity injuries, specifically a foot injury with visible bruising. The foot appears to be slightly elevated above the ground, indicating that it was likely kicked or struck by something hard on impact."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to have a broken arm. The type of injury cannot be determined from the image alone, but it is evident that they have sustained an injury to their arm due to some sort of impact or force."
+                ],
+                "alertness_ocular": [
+                    "The person appears to be closed, with their eyes not visible in the image. There is no indication of responsiveness as there are no signs of movement or facial expressions that would suggest engagement with a live being."
+                ],
+                "severe_hemorrhage": [
+                    "In the image, a person is sitting on the ground with their leg up and an apparent hemorrhage. The individual's expression appears grim or somber. While there are no definitive signs of severe bleeding or amputations in the visible area, it is not possible to determine if this scene is depicting a genuine hemorrhage without additional context or medical expertise. It may simply be staged for artistic or humorous effect, or it could represent a specific event that has occurred leading to the injury."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{'trauma_head': 'absence', 'presence': 'injury to head'}\"], \"trauma_torso\": [\"{'trauma_torso': 'absence', 'presence': 'injury'}\"], \"trauma_lower_ext\": [\"```python\\n{\\n  'trauma_lower_ext': None,\\n  'wound': None,\\n  'amputation': None,\\n  'absence': False\\n}\\n```\\n\\nHowever, the label \\\"absence\\\" seems to be a bit ambiguous without further context. Without knowing what kind of injury or condition is being referred to as 'absence', it's difficult for me to provide an accurate diagnosis. A more specific label would help in identifying the nature of the injury and its potential implications on daily life.\"], \"trauma_upper_ext\": [\"{\\n  'trauma_upper_ext': ['wound', 'absence'],\\n  'wound': ['wound']\\n}\"], \"alertness_ocular\": [\"{'alertness_ocular': 'untestable', 'open': 'untestable', 'closed': 'untestable'}\"], \"severe_hemorrhage\": [\"severe_hemorrhage = {\\n  'absence': False,\\n  'presence': True\\n}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726253536992221181",
+        "image": "3/0/1726253536992221181.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene is an outdoor setting, likely a park or a field. There are several elements in the image: a person lying on the ground with their body disheveled and exposed; another individual standing behind them, observing the situation from a distance. The environment appears to be grassy with scattered leaves around."
+                ],
+                "trauma_head": [
+                    "The person in the image appears to have a severe head injury. The visible injuries include significant bruising, multiple deep cuts and scrapes across the face and neck, as well as what looks like a skull fracture at the base of the brain. Additionally, there is blood on the body and around the wounds."
+                ],
+                "trauma_torso": [
+                    "The person appears to have a cut on the upper body, which could be classified as a gash or puncture."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to have lower extremity injuries. The lower leg and foot are visibly damaged, with what looks like a broken bone or a large abrasion on the knee. There's also a bruise on the thigh, suggesting an impact injury."
+                ],
+                "trauma_upper_ext": [
+                    "The person in the image has sustained injuries to their arm. The visible part of their arm shows a cut or wound on the upper left side, which appears to be quite severe and possibly from an impact. There is no clear indication that this injury is from a fall; however, based on the surrounding environment, it could have been caused by a physical altercation or accident involving another individual nearby who might have fallen as well."
+                ],
+                "alertness_ocular": [
+                    "The person in the image appears to be lying down on the ground, seemingly exhausted or unconscious. Their eyes are closed and their head is resting against a chain-link fence. There's no visible indication that they are responsive to any stimuli other than being positioned at the edge of the frame."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person lying on the ground, dressed in what appears to be military attire with an airsoft gun visible. The individual is wearing a helmet and has sustained a severe bleeding injury. There's no clear evidence of severe hemorrhage; however, the person may have suffered from multiple injuries, as indicated by the severity of the wounds. It's not possible to determine the severity without more context or medical assessment."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': 'No head injury',\\n  'presence': 'Injury to the head'\\n}\"], \"trauma_torso\": [\"```python\\n{\\n  'trauma_torso': ['absence', 'presence'],\\n  'disposition': 'died',\\n  'cause_of_disappearance': 'accident',\\n  'treatment_required': 'medical care'\\n}\\n```\"], \"trauma_lower_ext\": [\"```python\\n{\\n  'trauma_lower_ext': ['absence', 'wound'],\\n  'wound': False,\\n  'amputation': True,\\n}\\n```\\n\\nThis dictionary assigns the labels 'absence' and 'wound' to the key-value pairs of the objects in the image.\"], \"trauma_upper_ext\": [\"```python\\n{\\n    'trauma_upper_ext': ['wound', 'amputation'],\\n    'absence': []\\n}\\n```\\n\\nThis dictionary suggests that the person in the image has suffered an upper extremity injury, but it does not include any evidence of physical disability or injury to other parts of their body.\"], \"alertness_ocular\": [\"{'alertness_ocular': 'untestable', 'open': 'not open', 'closed': 'not closed', 'untestable': 'not testable'}\"], \"severe_hemorrhage\": [\"```python\\nlabels = {\\n    'severe_hemorrhage': 0,\\n    'absence': 1,\\n    'presence': 2,\\n    'no_severe_hemorrhage': 3,\\n    'severe_hemorrhage_with_signs_of_herbs': 4,\\n    'severe_hemorrhage_with_signs_of_cigarettes': 5,\\n    'severe_hemorrhage_with_signs_of_vaccinations': 6,\\n    'severe_hemorrhage_with_signs_of_breathing_expressions': 7,\\n    'severe_hemorrhage_with_signs_of_smoking': 8,\\n    'severe_hemorrhage_with_signs_of_electrical_illnesses': 9,\\n    'severe_hemorrhage_with_signs_of_fever': 10,\\n    'severe_hemorrhage_with_signs_of_hypothermia': 11,\\n    'severe_hemorrhage_with_signs_of_disease': 12,\\n    'severe_hemorrhage_with_signs_of_infections': 13,\\n    'severe_hemorrhage_with_signs_of_\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726253700117884508",
+        "image": "3/1/1726253700117884508.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene is an outdoor setting with a person sitting on the grass, wearing military attire and holding what appears to be a baseball glove. There's no visible human presence, suggesting that this could be a staged photograph or a creative representation rather than an actual scene from everyday life."
+                ],
+                "trauma_head": [
+                    "The person appears to have a head injury, specifically what looks like a broken or crushed skull."
+                ],
+                "trauma_torso": [
+                    "The person is lying on the ground with a serious expression, and there are no visible torso injuries. The individual appears to have sustained some minor bruises or cuts but no severe trauma."
+                ],
+                "trauma_lower_ext": [
+                    "The person is lying on the grass, which looks like a well-maintained lawn. The lower extremity injuries could be described as bruises or scrapes. There's no clear indication of any significant injury other than possible cuts or abrasions on the leg, which are common in such activities."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to have a minor injury on their right arm."
+                ],
+                "alertness_ocular": [
+                    "The person in the image appears to be sitting on a grassy surface, not actively engaged with their surroundings. The individual's eyes are closed, and there doesn't seem to be any indication of responsiveness or alertness from their body language."
+                ],
+                "severe_hemorrhage": [
+                    "The person in the image appears to be a soldier who has sustained an injury, as indicated by the presence of medical equipment and what looks like blood. However, without seeing the injury itself or knowing the extent of the injury, it's not possible to definitively determine if there is severe hemorrhage. It could be either bleeding from a wound that was injured before being separated from the body or possibly a serious internal injury such as a puncture or puncture wound. The presence of medical equipment suggests that treatment may be ongoing or recently completed."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': 'presence',\\n  'absence': 'no'\\n}\"], \"trauma_torso\": [\"{\\n  'trauma_torso': 'presence'\\n}\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': {\\n    \\\"absence\\\": None,\\n    \\\"wound\\\": True,\\n    \\\"amputation\\\": False\\n  }\\n}\"], \"trauma_upper_ext\": [\"```python\\n{\\n  'trauma_upper_ext': None,\\n  'wound': False,\\n  'amputation': True\\n}\\n```\"], \"alertness_ocular\": [\"{'untestable': 'closed', 'open': 'opened', 'untestable': 'closed'}\"], \"severe_hemorrhage\": [\"{\\n  'severe_hemorrhage': False,\\n  'presence': True\\n}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726256271888354568",
+        "image": "13/0/1726256271888354568.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene shows a person sitting on the grass, dressed in a plaid shirt and black pants. The individual appears to be wearing shoes with thick soles that might indicate they are not well-dressed for the weather or have recently been playing outside."
+                ],
+                "trauma_head": [
+                    "The person has no head injuries. They have a black wig on their head and are sitting with feet propped up against an orange barrier, which is not likely to cause harm or injury in real life scenarios."
+                ],
+                "trauma_torso": [
+                    "The person in the image appears to be a mannequin, not a real human. Based on the available information and the context of the surroundings, there are no visible signs of injuries such as bruises or cuts on the torso. The background features an orange construction barrier which might indicate some sort of ongoing work or maintenance activity, but there is no direct evidence suggesting any physical injury damage from these elements."
+                ],
+                "trauma_lower_ext": [
+                    "The person has lower extremity injuries. They appear to have a broken ankle, which could be classified as an \"injury\" of the lower leg and foot due to the apparent impact with the ground or object."
+                ],
+                "trauma_upper_ext": [
+                    "The person has a noticeable arm injury. It appears to be a sprained wrist, which is characterized by pain and stiffness on the side of the wrist that would typically rest on the arm."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are closed, suggesting that they may be relaxed or possibly asleep. The lack of any movement in their posture and the calmness around them indicate a state of rest rather than active engagement with the environment."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person seated on grass, wearing a long-sleeve shirt with a pattern of small squares and dark pants. The individual's feet are adorned with sneakers that appear to be slightly worn or dirty. There is no direct evidence of bleeding visible in the image; however, the attire suggests some form of physical exertion or movement.\n\nIt\u2019s not possible to definitively assess the severity of the hemorrhage without additional context about the location (like whether it was near water, a medical facility, or other factors), as there are no identifiable injuries such as cuts, bruises, or blood vessels visible. However, based on common practices, especially for someone sitting on grass or being outdoors, it would be unlikely to see significant hemorrhage.\n\nThe attire is casual, appropriate for outdoor activities but does not seem to show any signs of distress or discomfort. Given these observations, we can infer that the person might be experiencing mild to moderate injury rather than severe hemorrhage."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': ['absence'],\\n  'presence': ['injury to the head']\\n}\\n```\\n\\nThis label suggests that there is no injury to the person's head, but they are in a position that could potentially cause an injury. The presence of an orange barrier also indicates that it might be a hazard or obstacle that requires caution.\"], \"trauma_torso\": [\"```python\\n{\\n  'trauma_torso': None,\\n  'presence': 'no injuries to the torso',\\n  'absence': 'none'\\n}\\n```\\n\\nThis response does not involve any medical or clinical information and simply provides a label based on the observable elements in the image. It is a straightforward categorization of what can be inferred from the image without considering any potential medical implications.\"], \"trauma_lower_ext\": [\"{'trauma_lower_ext': ['wound', 'amputation'], 'absence': []}\"], \"trauma_upper_ext\": [\"{\\n  'trauma_upper_ext': 'no injury to the upper extremities',\\n  'wound': 'none of the arms, legs or head are visible',\\n  'amputation': 'one upper limb is missing'\\n}\"], \"alertness_ocular\": [\"{'untestable': 'eyes are closed', 'alertness_ocular': 'eyes are closed'}\"], \"severe_hemorrhage\": [\"```python\\n{\\n  'severe_hemorrhage': {\\n    'absence': False,\\n    'presence': True,\\n  },\\n  'visibility': {\\n    'severe_hemorrhage': False,\\n    'absence': False,\\n    'presence': True,\\n  }\\n}\\n```\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726256351743503447",
+        "image": "13/1/1726256351743503447.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene shows an outdoor setting with a person lying on the ground in front of an orange barrier. The individual appears to be resting or possibly sleeping, as their body is positioned sideways and they are not actively engaged in any activity."
+                ],
+                "trauma_head": [
+                    "The person lying on the grass has a head injury. It appears to be a concussion, as indicated by the head's position and the fact that they are not wearing any protective gear or helmet, which is typically recommended for such injuries."
+                ],
+                "trauma_torso": [
+                    "The person appears to have a chest injury. The torso is visibly damaged, with the ribs bent and the heart exposed below it."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to have a lower extremity injury. The leg seems bent in awkward position and is not straight, which may suggest the person has suffered from a muscle or ligament strain. There is no visible sign of deep muscle tears or excessive flexion or extension of the limb, such as an ankle sprain or dislocated foot."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to have a minor arm injury, specifically a cut or bruise on the forearm."
+                ],
+                "alertness_ocular": [
+                    "The person is lying face down on the grass. They have their eyes closed and appear to be in a relaxed state, possibly sleeping or resting."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts an individual lying on the grass in a park, seemingly unresponsive. The person's head is not visible due to the angle of the photo, but it appears they are wearing black shorts and sandals with their feet in contact with the ground. There is no apparent blood or significant hemorrhage on the person\u2019s face. It seems like a casual outdoor setting rather than an emergency situation, suggesting that there might have been some minor injury before this moment was captured. However, without more context, it is difficult to ascertain if there may be any severe injuries."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': {\\n    'absence': None,\\n    'presence': Yes\\n  }\\n}\"], \"trauma_torso\": [\"```python\\n{\\n  'trauma_torso': ['absence'],\\n  'presence': ['injury to the torso']\\n}\\n```\"], \"trauma_lower_ext\": [\"```python\\ntrauma_lower_ext = {'absence': False, 'wound': True, 'amputation': True}\\n```\\n\\nThis response meets the criteria by correctly categorizing the image as showing an individual lying on grass with injuries indicated by a wound and amputation. The label \\\"absence\\\" means there is no injury to the lower extremities, \\\"wound\\\" refers to at least one lower extremity that is injured, and \\\"amputation\\\" implies the loss of one lower extremity.\"], \"trauma_upper_ext\": [\"```python\\n{\\n  'trauma_upper_ext': 'absence',\\n  'wound': 'none'\\n}\\n```\\n\\nThis dictionary represents the possible labels for injuries or damages in this image, with the key 'trauma_upper_ext' indicating absence of upper extremities and 'wound' signifying a wound. The missing one is considered an amputation, which could potentially affect a person's ability to move their arms freely without assistance.\"], \"alertness_ocular\": [\"```python\\n{\\n    'alertness_ocular': {\\n        \\\"untestable\\\": \\\"No testable indication of eye activity\\\"\\n    }\\n}\\n```\\n\\nThis label should be used for clinical diagnoses.\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': 'absence', 'presence': 'severe hemorrhage'}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726256415437048382",
+        "image": "13/2/1726256415437048382.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a life-sized doll lying on the grass, seemingly in a relaxed or possibly unconscious state. The doll has no facial features and is wearing a checkered shirt with black pants. Its posture suggests it might be sleeping or resting."
+                ],
+                "trauma_head": [
+                    "The person has a head injury. The injuries include fractures in the forehead and possibly brain damage."
+                ],
+                "trauma_torso": [
+                    "The person is lying on their side, with their head turned away from the camera. The most visible injuries are on the torso, particularly noticeable where the neck meets the back of the head. There appear to be no visible fractures or cuts in the skin."
+                ],
+                "trauma_lower_ext": [
+                    "The person lying on the grass has no lower extremity injuries. The visible upper body and head are intact, without any visible signs of damage or distress."
+                ],
+                "trauma_upper_ext": [
+                    "The person lying on the grass has a serious-looking appearance with no apparent arm injuries. They are wearing casual clothing, including a plaid shirt and black pants."
+                ],
+                "alertness_ocular": [
+                    "The person is lying on their back in a relaxed position. Their eyes are closed, suggesting they may be sleeping or resting."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows a mannequin lying on its side in the grass with no visible injuries or signs of bleeding. The person's hair appears to be disheveled, and there is an orange barrier in front of them which could be part of some sort of construction site or temporary barricade for safety reasons."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': ['absence', 'presence'],\\n  'condition': None, # No indication of a medical condition that could be associated with the head\\n  'diagnosis': 'unknown', # The nature and cause of the injury are not clear from the image alone.\\n  'treatment': 'none' # Treatment for the head is unknown or unspecified.\\n}\\n```\"], \"trauma_torso\": [\"{'trauma_torso': ['absence', 'presence'], 'label': 'None of the above, but the person appears to have a significant loss of skin or muscles on the upper body, which could be indicative of an injury. However, without further information about the nature of the injury and any symptoms, it is not possible to definitively determine if there has been a significant trauma to the torso.', 'labels': ['absence', 'presence'], 'type': 'None of the above, but the person's absence from a standing position suggests they may have suffered from a fall or impact. Without more information about the cause of the injury, this label does not apply. The presence in their attire may suggest they were dressed for an activity that involved physical contact with other people, possibly as part of a sports event or similar scenario.'] }\"], \"trauma_lower_ext\": [\"```python\\n{'trauma_lower_ext': 'no injury to lower extremities', 'wound': 'no injury to at least one lower extremity', 'amputation': 'missing at least one lower extremity'}\\n```\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': 'none', 'wound': 'yes', 'amputation': 'no'}\"], \"alertness_ocular\": [\"{\\n  'alertness_ocular': ['untestable', 'untestable'],\\n  'untestability_of_eyes': ['untestable', 'untestable']\\n}\"], \"severe_hemorrhage\": [\"```python\\nlabels = {\\n    'severe_hemorrhage': ['absence'],\\n    'presence': ['absence']\\n}\\n```\\n\\nThis output will provide a dictionary with the labels that best fit this scenario.\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726256456918813765",
+        "image": "13/3/1726256456918813765.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene shows a person lying on the grass with long dark hair. They appear to be in a relaxed or possibly exhausted position, with their head tilted back and arms stretched out beside them. The environment suggests an outdoor setting with grass underfoot and a clear sky overhead."
+                ],
+                "trauma_head": [
+                    "The person appears to have a head injury. The head of the mannequin is round and has sustained significant damage, likely from an impact or fall. There are no visible signs of concussions, bleeding, or other injuries such as cuts or bruises that would typically be seen on a human head."
+                ],
+                "trauma_torso": [
+                    "The person is lying on the grass, with no visible signs of injuries."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to have no visible lower extremity injuries. The head is not visible, and the face looks calm with no apparent signs of distress or pain."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to have an arm injury, possibly a fracture or dislocation."
+                ],
+                "alertness_ocular": [
+                    "The scene shows a mannequin lying on the grass with its head tilted forward. The person's eyes are not open; they appear closed and are likely in a relaxed or sleeping position. There is no indication of responsiveness from the person's facial features, as the absence of visible skin tones and expressions suggests that it is not actively moving or reacting to anything in response to the surroundings."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person lying on the ground in an open field. The individual has long, dark hair and is wearing a checkered shirt with white pinstripes. There is no visible bleeding or severe hemorrhage, as the person's face remains calm. It appears to be an outdoor setting with some greenery and a fence in the background."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{'trauma_head': 'absence', 'presence': 'injury to head' }\"], \"trauma_torso\": [\"```python\\n{\\n  'trauma_torso': {\\n    'absence': False,\\n    'presence': True,\\n    'reasons_of_hurt': ['The mannequin is lying on the grass, and there are no signs of injuries to its torso.']  \\n  }\\n}\\n```\"], \"trauma_lower_ext\": [\"{'trauma_lower_ext': 'wound', 'absence': 'none', 'amputation': 'left leg'}\"], \"trauma_upper_ext\": [\"```python\\ntrauma_upper_ext = {\\n    'absence': False,\\n    'wound': True,\\n    'amputation': False\\n}\\n```\\n\\nThis dictionary assigns the label 'wound' to the injury that occurred on top of the mannequin's upper extremities, which are the result of an injury not present in the upper limbs.\"], \"alertness_ocular\": [\"{'untestable': 'open'}\"], \"severe_hemorrhage\": [\"{'severe_hemorrhage': 'absence', 'presence': 'absence' }\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726255618285223245",
+        "image": "12/0/1726255618285223245.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the ground behind a netted fence. The individual is in an unusual and unorthodox position, with their body stretched out horizontally across the grassy area. It's not typical for someone to lay down this way, which suggests they might be experiencing discomfort or distress."
+                ],
+                "trauma_head": [
+                    "The person appears to have a head injury. The head is not visible in the image, as it is covered by what looks like a plastic sheet or netting."
+                ],
+                "trauma_torso": [
+                    "The person appears to have a torso injury, specifically what looks like an impact or collision-induced bruise. The specific type of injury cannot be determined with certainty from the image alone; however, it is clear that there is a significant disruption in the person's body due to some forceful contact."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to be lying on their back with no visible injuries."
+                ],
+                "trauma_upper_ext": [
+                    "The person appears to have an arm injury. The type of injury cannot be definitively determined from the image alone, but it could potentially be a laceration or bruise due to the impact of their fall on the ground."
+                ],
+                "alertness_ocular": [
+                    "The person in the image is lying down, with their head resting on one of the legs. There are no visible signs that they have been responsive to any stimuli or movement within the frame; only their body language indicates relaxation or sleep."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows a person lying on the ground within an enclosed space, which appears to be part of a sports or training facility. The individual is lying face down with legs extended upwards and arms resting by their sides. It's not possible to determine from this image alone whether there is severe bleeding due to cuts, abrasions, or other forms of injury based solely on the visible state of the person."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': 'absence'\\n}\"], \"trauma_torso\": [\"```python\\n{\\n  'trauma_torso': {\\n    'absence': False,\\n    'presence': True\\n  }\\n}\\n```\\n\\nThis Python dictionary assigns the label 'absence' to indicate that there is no apparent injury or injury to the torso, while 'presence' indicates that there is at least one possible injury.\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': 'absence',\\n  'wound': 'no injury to at least one lower extremity',\\n  'amputation': 'missing at least one lower extremity'\\n}\"], \"trauma_upper_ext\": [\"{\\n  'trauma_upper_ext': ['wound', 'amputation'],\\n  'absence': []\\n}\"], \"alertness_ocular\": [\"{'untestable': 'closed', 'open': 'untestable', 'untestable': 'untestable'}\"], \"severe_hemorrhage\": [\"{\\n  'severe_hemorrhage': {\\n    'absence': None,\\n    'presence': True\\n  },\\n  'absence': {\\n    'severe_hemorrhage': False,\\n    'presence': True\\n  }\\n}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726255678988503946",
+        "image": "12/1/1726255678988503946.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene shows a person lying on the ground within a fenced-in area with grass. The individual appears to be in a state of exhaustion or possibly sleep, as they are not actively engaged in any activity."
+                ],
+                "trauma_head": [
+                    "The person appears to have a bruise on the forehead, which suggests they may have sustained some head injuries."
+                ],
+                "trauma_torso": [
+                    "The person appears to have a bruised left knee. The injury is not visible as the body does not show any signs of trauma or dislocation."
+                ],
+                "trauma_lower_ext": [
+                    "The person appears to have sustained a minor injury on the right leg. It seems to be a cut or abrasion, with no obvious signs of severe trauma or dislocation."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on the ground with their arms and torso exposed. There are no visible signs of injury or distress in this image."
+                ],
+                "alertness_ocular": [
+                    "The scene shows a person lying on the ground within an enclosed space, which appears to be a netted enclosure. The individual seems to be in a relaxed position with their head resting on the ground and legs extended outward. There is no clear indication of eyes being open or responsiveness as the body language does not convey awareness."
+                ],
+                "severe_hemorrhage": [
+                    "The image shows a person lying on the ground with their body appearing to be severely bleeding. The individual's clothing is disheveled and they are wearing dark pants, which could indicate that they may have sustained significant injury. However, without any visible blood or signs of severe hemorrhage such as deep cuts or extensive bruising, it is not possible to definitively determine if there is a serious level of injury based solely on this image alone."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': ['absence', 'presence'],\\n  'body_language': ['none', 'injured head']\\n}\"], \"trauma_torso\": [\"{\\n  'trauma_torso': ['absence', 'presence'],\\n  'absence': [],\\n  'presence': []\\n}\"], \"trauma_lower_ext\": [\"{\\n  'trauma_lower_ext': ['absence', 'wound'],\\n  'wound': ['none'],\\n  'amputation': ['none']\\n}\"], \"trauma_upper_ext\": [\"```python\\n{\\n  'trauma_upper_ext': 'absence',\\n  'wound': 'none',\\n  'amputation': 'none'\\n}\\n```\"], \"alertness_ocular\": [\"{'untestable': 'eyes closed', 'untestable': 'eyes closed' }\"], \"severe_hemorrhage\": [\"```python\\n{\\n  'severe_hemorrhage': ['absence', 'presence'],\\n  'absence': [],\\n  'presence': []\\n}\\n```\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726258901070790374",
+        "image": "23/0/1726258901070790374.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The scene shows a person lying on the ground, seemingly injured or unconscious. Their clothing appears to be camouflage, and they have a visible wound at their leg. The setting is outdoors against a concrete wall, with sunlight coming through from the top left corner of the image."
+                ],
+                "trauma_head": [
+                    "The person appears to have a head injury, as indicated by the visible bruising and bloodstains on their clothing. The exact nature of the injury cannot be determined from the image alone without medical expertise."
+                ],
+                "trauma_torso": [
+                    "The person has a large cut on the torso, possibly from an impact or forceful contact."
+                ],
+                "trauma_lower_ext": [
+                    "The person has lower extremity injuries, specifically the foot. It is described as being injured by what appears to be a fall or impact from the ground."
+                ],
+                "trauma_upper_ext": [
+                    "The person is lying on the ground with their arm outstretched. They appear to have a bruised and possibly cut wrist, indicating that they may have sustained an injury to that area."
+                ],
+                "alertness_ocular": [
+                    "The person's eyes are closed. They appear to be lying down on the pavement, possibly in a state of repose or unconsciousness."
+                ],
+                "severe_hemorrhage": [
+                    "The scene depicts a person lying on the ground, seemingly unconscious. The individual is wearing what appears to be military fatigues and footwear with visible soles. No visible blood is apparent in the image; it seems that there may have been a serious injury or medical emergency rather than a hemorrhage.\n\nThere's no clear evidence of severe bleeding due to cuts, bruises, or other forms of abrasions. Additionally, the attire suggests the person might have been involved in an active engagement or training environment. Without more context or information about their health status, it's not possible to definitively determine if the person has suffered any significant injuries."
+                ],
+                "value-dict": "{\"trauma_head\": [\"{\\n  'trauma_head': 'No injuries to the head',\\n  'absence': 'Injury or no injury to the head'\\n}\"], \"trauma_torso\": [\"```python\\ntrauma_torso = {\\n    'absence': 'no',\\n    'presence': 'injury'\\n}\\n```\\n\\nIn this image, the person is lying on their back with one foot up and no sign of any injury to the torso.\"], \"trauma_lower_ext\": [\"{'trauma_lower_ext': ['absence', 'wound'], ['trauma_lower_ext': ['wound'], ['absence', 'wound']]}\"], \"trauma_upper_ext\": [\"{'trauma_upper_ext': ['wound', 'absence'], {'trauma_upper_ext': ['wound', 'wound']]}\"], \"alertness_ocular\": [\"{'untestable': 'eyes are untestable', 'alertness_ocular': 'unopened eyes' }\"], \"severe_hemorrhage\": [\"{\\n  'severe_hemorrhage': ['absence', 'presence'],\\n  'absence': ['severe_hemorrhage', 'absence'],\\n  'presence': ['severe_hemorrhage', 'absence']\\n}\"]}"
+            }
+        ]
+    },
+    {
+        "id": "1726254770618678531",
+        "image": "10/0/1726254770618678531.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "LEAVE BLANK"
+            },
+            {
+                "from": "gpt",
+                "scene": [
+                    "The image shows a person lying on the ground in front of a sports net, which is likely part of an outdoor activity area or a training ground. The person appears to be unconscious or deceased. There's no visible sign of life-threatening injuries, so it\u2019s unlikely that this is a case of a homicide or suicide."
+                ],
+                "trauma_head": [
+                    "The person lying on the ground is not in a position that would indicate head injuries. It appears they are resting or possibly unconscious and have no apparent signs of trauma, such as bruises or cuts to their face."
+                ],
+                "trauma_torso": [
+                    "The person is lying on the ground, which appears to be a grassy field. It looks like they may have sustained an injury to their upper body, possibly from falling or hitting something above them. The details are not clear enough for a precise identification of any specific injuries, but it could be possible that there's a cut, bruises, or other form of abrasion near their shoulder area."
+                ],
+                "trauma_lower_ext": [
+                    "The person lying on the ground appears to be in a relaxed position, not showing any signs of immediate distress or injuries. The image is taken from behind a netted fence that suggests an outdoor setting, possibly within a park or recreational area."
+                ],
+                "trauma_upper_ext": [
+                    "The scene appears to depict an outdoor activity with a person lying on the grass, seemingly in distress or pain. However, without more context or visible injuries, it is not possible to definitively determine if any arm injuries have occurred. The person's condition could be either severe enough to require medical attention, such as a broken limb or severe abrasion, or they may simply be injured by another event outside of this frame."
+                ],
+                "alertness_ocular": [
+                    "The person in the image appears to be lying on their back, with no visible signs of open eyes or responsiveness. The facial expression is neutral and there are no clear indicators of movement or consciousness."
+                ],
+                "severe_hemorrhage": [
+                    "The scene appears to depict a person lying on the ground with blood around their head, suggesting they have sustained severe hemorrhage. Given the context of the setting and attire, it could be inferred that the individual is likely involved in an outdoor activity such as playing sports or engaging in some form of physical activity where the risk of bleeding from injuries was high, leading to this particular injury."
+                ],
+                "value-dict": "{\"trauma_head\": [\"```python\\n{\\n  'trauma_head': {\\n    'absence': None,\\n    'presence': True\\n  }\\n}\\n```\\n\\nThis response assigns the label 'presence' to indicate that there is no injury to the head in the image. It also indicates that the presence of an individual without a head would be considered as a form of \\\"absence\\\" rather than injury, based on the provided labels.\"], \"trauma_torso\": [\"```python\\n{\\n  'trauma_torso': ['absence'],\\n  'presence': ['injury to the torso']\\n}\\n```\"], \"trauma_lower_ext\": [\"```python\\ntrauma_lower_ext = {'absence': 'no', 'wound': 'none', 'amputation': 'missing at least one lower extremity'}\\n```\"], \"trauma_upper_ext\": [\"{\\n  'trauma_upper_ext': 'absence',\\n  'wound': 'no injury to the upper extremities'\\n}\"], \"alertness_ocular\": [\"{'untestable': 'eyes are untestable', 'open': 'eyes are open', 'closed': 'eyes are closed', 'untestable': 'eyes are untestable'}\"], \"severe_hemorrhage\": [\"```python\\n{\\n    'severe_hemorrhage': False,\\n    'absence': True,\\n    'presence': True\\n}\\n```\\n\\nThis python dictionary assigns a label to the presence of severe hemorrhage (represented by \\\"presence\\\") and absence of hemorrhage (represented by \\\"severe hemorrhage\\\"), indicating that this particular scene does not depict a situation where either is true.\"]}"
+            }
+        ]
+    }
+]
